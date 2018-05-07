@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.PurchaseOrder package
+==============================================
+
+.. automodule:: UIAutomation.Page.Mobile.PurchaseOrder
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.PurchaseOrder.PurchaseOrderPage module
+---------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.PurchaseOrder.PurchaseOrderPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

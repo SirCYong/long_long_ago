@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhoujin-->
+<map>
+    <!--第一个卡片的类型-->
+    <locator type="ID" timeOut="3" value="tv_query_all_contract_name">tr_type</locator>
+    <!--第一个卡片的数量-->
+    <locator type="ID" timeOut="3" value="tv_contract_number">tr_no</locator>
+    <!--第一个卡片的计量单位-->
+    <locator type="ID" timeOut="3" value="tv_contract_units">tr_unit_one</locator>
+    <!--第一个卡片的开始时间-->
+    <locator type="ID" timeOut="3" value="tv_start_time">tr_origin</locator>
+    <!--第一个卡片的结束时间-->
+    <locator type="ID" timeOut="3" value="tv_end_time">tr_end</locator>
+    <!--发货量-->
+    <locator type="ID" timeOut="3" value="rl_show_home">tr_card</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="单/日">tr_unit</locator>
+    <!--确认签订契约-->
+    <locator type="XPATH" timeOut="3" value="//android.widget.FrameLayout[1]/android.webkit.WebView[1]/android.webkit.WebView[1]/android.view.View[14]/android.view.View[4]/android.widget.Button[1]">tr_confirmation_contract</locator>
+    <!--滑动线条-->
+    <locator type="XPATH" timeOut="3" value="//android.widget.FrameLayout[1]/android.webkit.WebView[1]/android.webkit.WebView[1]/android.view.View[14]/android.view.View[3]/android.widget.SeekBar[1]">tr_line</locator>
+    <!--确认签订-->
+    <locator type="ID" timeOut="3" value="button1">confirm</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAStaticText[18]">tr_line_num</locator>
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/rv_query_all_contract']/android.widget.LinearLayout[5]/android.widget.RelativeLayout[1]/android.widget.TextView">order_no</locator>
+</map>

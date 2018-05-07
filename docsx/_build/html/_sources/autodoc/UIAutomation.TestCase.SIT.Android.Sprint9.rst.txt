@@ -1,0 +1,20 @@
+UIAutomation.TestCase.SIT.Android.Sprint9 package
+=================================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.Sprint9
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.Android.Sprint9.FunCommodityQualityConversionSmoke_test module
+----------------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.Sprint9.FunCommodityQualityConversionSmoke_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

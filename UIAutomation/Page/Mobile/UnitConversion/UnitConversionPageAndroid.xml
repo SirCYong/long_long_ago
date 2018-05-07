@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:chenyanxiu-->
+<map>
+    <!--添加单位-->
+    <locator type="ID" timeOut="3" value="capital_relationship_tab_btn_confirm">add_unit</locator>
+    <!--输入-->
+    <locator type="ID" timeOut="3" value="et_add_unit">et_add</locator>
+    <!--确定-->
+    <locator type="ID" timeOut="3" value="bt_add_unit">bt_add</locator>
+    <!--搜索-->
+    <locator type="ID" timeOut="3" value="capital_relationship_et_input_later">search</locator>
+    <!--确定-->
+    <locator type="ID" timeOut="3" value="item_tv_unit_name">unit_name</locator>
+    <!--编辑单位-->
+    <locator type="ID" timeOut="3" value="item_tv_unit_edit">unit_edit</locator>
+    <!--删除单位-->
+    <locator type="ID" timeOut="3" value="item_tv_unit_del">unit_del</locator>
+    <!--输入商品-->
+    <locator type="ID" timeOut="3" value="unit_convert_input_edit">input_edit</locator>
+    <!--下一步-->
+    <locator type="ID" timeOut="3" value="unit_convert_bottom_btn">next</locator>
+    <!--搜索-->
+    <locator type="ID" timeOut="3" value="ll_header">search_1</locator>
+    <!--数量-->
+    <locator type="ID" timeOut="3" value="unit_convert_deal_unit_before_count_txt">before_count</locator>
+    <locator type="ID" timeOut="3" value="unit_convert_deal_unit_before_unit_txt">before_unit</locator>
+    <locator type="ID" timeOut="3" value="unit_convert_deal_later_count_unit_txt">later_count</locator>
+    <locator type="ID" timeOut="3" value="unit_convert_deal_later_name_unit_txt">later_name</locator>
+    <!--管理单位-->
+    <locator type="ID" timeOut="3" value="unit_convert_manage_unti_txt">manage_unit</locator>
+    <locator type="ID" timeOut="3" value="btn_confirm">confirm</locator>
+    <locator type="ID" timeOut="3" value="btn_login">convert</locator>
+    <!--管理单位-->
+    <locator type="ID" timeOut="3" value="item_unitconvert_result_edit_lin">edit</locator>
+    <locator type="ID" timeOut="3" value="item_unitconvert_result_delete_lin">delete</locator>
+    <locator type="ID" timeOut="3" value="item_unitconvert_result_later_name_txt">convert_later</locator>
+    <locator type="ID" timeOut="3" value="item_unitconvert_result_before_name_txt">convert_before</locator>
+    <locator type="ID" timeOut="3" value="tv_lanya_connect">lanya</locator>button2
+    <locator type="ID" timeOut="3" value="button1">button1</locator>
+    <locator type="ID" timeOut="3" value="suishi_type_card">card</locator>
+</map>

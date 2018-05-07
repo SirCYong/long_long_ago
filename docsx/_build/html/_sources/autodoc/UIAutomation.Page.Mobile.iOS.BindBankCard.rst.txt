@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.BindBankCard package
+=================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.BindBankCard
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.BindBankCard.BindBankCardPage module
+-----------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.BindBankCard.BindBankCardPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

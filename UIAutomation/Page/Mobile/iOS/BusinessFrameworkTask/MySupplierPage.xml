@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="我的供应商">mySupplier</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="成品工厂">finishedFactory</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="原料/零部件工厂">materialFactory</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="员工">staff</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="批发店铺/组织">wholesaleShop</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="工具">tool</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="仓库">depot</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="运输">transport</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确定">confirmButton</locator>
+</map>

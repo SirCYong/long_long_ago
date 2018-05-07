@@ -1,0 +1,36 @@
+UIAutomation.Page.Mobile.Android.Register package
+=================================================
+
+.. automodule:: UIAutomation.Page.Mobile.Android.Register
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.Android.Register.RegisterPage module
+-------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.Register.RegisterPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.Android.Register.WeChat module
+-------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.Register.WeChat
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.Android.Register.follow module
+-------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.Register.follow
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

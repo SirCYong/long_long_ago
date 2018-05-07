@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.CardList package
+=========================================
+
+.. automodule:: UIAutomation.Page.Mobile.CardList
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.CardList.CommonCardPage module
+-------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.CardList.CommonCardPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<map>
+    <!--手机账户框-->
+    <locator type="" timeOut="3" value="">MobileText</locator>
+    <!--验证码-->
+    <locator type="" timeOut="3" value="">VerifyCodeText</locator>
+    <!--姓名-->
+    <locator type="" timeOut="3" value="">NameTest</locator>
+    <!--身份证号-->
+    <locator type="" timeOut="3" value="">IDCardNumText</locator>
+    <!--上传-->
+    <locator type="" timeOut="3" value="">Upload</locator>
+    <!--个人头像-->
+    <locator type="" timeOut="3" value="">ProfilePhotos</locator>
+
+</map>

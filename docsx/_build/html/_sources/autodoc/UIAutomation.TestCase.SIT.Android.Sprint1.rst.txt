@@ -1,0 +1,36 @@
+UIAutomation.TestCase.SIT.Android.Sprint1 package
+=================================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.Sprint1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.Android.Sprint1.FUNC1845 module
+---------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.Sprint1.FUNC1845
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Android.Sprint1.HWMoblie module
+---------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.Sprint1.HWMoblie
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Android.Sprint1.sql module
+----------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.Sprint1.sql
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

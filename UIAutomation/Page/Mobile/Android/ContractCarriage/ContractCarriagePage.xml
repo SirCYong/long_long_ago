@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhoujin-->
+<map>
+    <!--第一个卡片的类型-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]
+    /UIAStaticText[1]">tr_type</locator>
+    <!--第一个卡片的数量-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]
+    /UIAStaticText[2]">tr_no</locator>
+    <!--第一个卡片的计量单位-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]
+    /UIAStaticText[3]">tr_unit_one</locator>
+    <!--第一个卡片的开始时间-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]
+    /UIAStaticText[4]">tr_origin</locator>
+    <!--第一个卡片的结束时间-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]
+    /UIAStaticText[5]">tr_end</locator>
+    <!--发货量-->
+    <locator type="ID" timeOut="3" value="rl_show_home">tr_card</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="单/日">tr_unit</locator>
+    <!--确认签订契约-->
+    <locator type="xpath" timeOut="3" value="//*[@class='android.widget.Button' and @content-desc='确认签订契约']">tr_confirmation_contract</locator>
+    <!--滑动线条-->
+    <locator type="CLASS_NAME" timeOut="3" value="android.widget.SeekBar">tr_line</locator>
+    <!--确认签订-->
+    <locator type="ID" timeOut="3" value="button1">confirm</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAStaticText[18]">tr_line_num</locator>
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/rv_query_all_contract']/android.widget.LinearLayout[5]/android.widget.RelativeLayout[1]/android.widget.TextView">order_no</locator>
+</map>

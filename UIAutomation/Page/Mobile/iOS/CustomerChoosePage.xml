@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--cy      我要客户界面-->
+<!--ACCESSIBILITY_ID-->
+<map>
+    <capacityReport>
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAStaticText[1]">CustomerTypeTitleText</locator>    <!--我要什么客户？(title)-->
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[1]">CustomerOneBox</locator>    <!--第一个框-->
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[2]/UIAStaticText[1]">CustomerTwoBox</locator>
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[3]/UIAStaticText[1]">CustomerThreeBox</locator>
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[2]/UIAStaticText[1]">CustomerFourBox</locator>
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[2]/UIAStaticText[1]">CustomerFiveBox</locator>
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[2]/UIAStaticText[1]">CustomerSixBox</locator>
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[2]/UIAStaticText[1]">CustomerSevenBox</locator>
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[2]/UIAStaticText[1]">CustomerEightBox</locator>
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[2]/UIAStaticText[1]">CustomerNineBox</locator>
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[2]/UIAStaticText[1]">CustomerTenBox</locator>
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1]">CustomerButton</locator>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="租我仓库">warehouseService</locator>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="帮他运货">transportService</locator>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="买我设备">oneSupplyService</locator>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="买我包材">twoSupplyService</locator>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="买我商品">threeSupplyService</locator>
+    </capacityReport>
+</map>

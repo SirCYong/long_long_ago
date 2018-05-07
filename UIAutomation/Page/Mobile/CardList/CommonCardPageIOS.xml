@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:Yuetianzhuang-->
+
+<map>
+    <locator type="ID" timeOut="3" value="选购下单">purchase_orders</locator>
+    <locator type="ID" timeOut="3" value="上传送货单">upload_delivery_order</locator>
+    <locator type="ID" timeOut="3" value="设置促销模板">set_promotional_template</locator>
+    <locator type="ID" timeOut="3" value="发布仓储需求">release_storage_requirement</locator>
+    <locator type="ID" timeOut="3" value="发布供应供应">release_supply</locator>
+    <locator type="ID" timeOut="3" value="注册供应商">RegisterSupplier</locator>
+    <!--**********************************yuetianzhuang*****************************-->
+    <locator type="ID" timeOut="3" value="选择物流品牌">select_logistics_brand</locator>
+    <locator type="ID" timeOut="3" value="修改收货信息">modify_receipt_information</locator>
+    <locator type="ID" timeOut="3" value="开启订单下载">open_order_download</locator>
+    <locator type="ID" timeOut="3" value="非服务认证">non_service_certification</locator>
+    <locator type="ID" timeOut="3" value="分配管理者和监控者">distribution_manager_and_supervisor</locator>
+    <locator type="ID" timeOut="3" value="监控者授权">monitor_authorization</locator>
+    <locator type="ID" timeOut="3" value="管理者授权">manager_authorization</locator>
+    <locator type="ID" timeOut="3" value="生成找运输供应的任务">contract_of_carriage</locator>
+    <locator type="ID" timeOut="3" value="生成找劳务需求的任务">sign_labor_contract</locator>
+    <locator type="ID" timeOut="3" value="生成找仓储供应的任务">sign_warehouse_supply_contract</locator>
+    <locator type="ID" timeOut="3" value="生成找仓储需求的任务">sign_warehouse_demand_contract</locator>
+    <locator type="ID" timeOut="3" value="刷新">f5</locator>
+    <locator type="ID" timeOut="3" value="返回">return1</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[2]">CardOne</locator>
+    <locator type="XPATH" timeOut="3" value=" //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAButton[1]">longCard</locator>
+    <locator type="ID" timeOut="3" value="icon back">back</locator>
+    <!--长期卡片-->
+    <locator type="XPATH" timeOut="3" value="">long_task</locator>
+
+</map>

@@ -1,0 +1,28 @@
+UIAutomation.Page.Mobile.RollsHomework package
+==============================================
+
+.. automodule:: UIAutomation.Page.Mobile.RollsHomework
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.RollsHomework.Move module
+--------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.RollsHomework.Move
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.RollsHomework.Picking module
+-----------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.RollsHomework.Picking
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

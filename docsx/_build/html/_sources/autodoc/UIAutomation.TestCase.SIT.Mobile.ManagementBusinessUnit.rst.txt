@@ -1,0 +1,28 @@
+UIAutomation.TestCase.SIT.Mobile.ManagementBusinessUnit package
+===============================================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.ManagementBusinessUnit
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.Mobile.ManagementBusinessUnit.ManagementBusinessUnitSQL module
+----------------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.ManagementBusinessUnit.ManagementBusinessUnitSQL
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Mobile.ManagementBusinessUnit.ManagementBusinessUnit_test module
+------------------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.ManagementBusinessUnit.ManagementBusinessUnit_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

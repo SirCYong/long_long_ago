@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="拿取容器">take_container</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="拣选商品">picking_goods</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="质检">quality_testing</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="打印入库单">print_receipt</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="下采购单">purchase_order</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="采购计划">procurement_planning</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="复制权限">copy_jurisdiction</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="移交权限">transfer_jurisdiction</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="不想分配">do_not_want_to_assign_button</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确认分配">sure_assign_button</locator>
+</map>

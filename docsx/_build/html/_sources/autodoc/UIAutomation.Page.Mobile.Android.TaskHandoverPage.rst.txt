@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.Android.TaskHandoverPage package
+=========================================================
+
+.. automodule:: UIAutomation.Page.Mobile.Android.TaskHandoverPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.Android.TaskHandoverPage.TaskHandoverPage module
+-------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.TaskHandoverPage.TaskHandoverPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

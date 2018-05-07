@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:xuwangchao-->
+<map>
+    <!--静态文字:钱仓-->
+    <locator type= "XPATH" timeOut="3" value="//*[@text='钱仓']">my_monney</locator>
+    <!--静态文字:通知-->
+    <locator type= "XPATH" timeOut="3" value="//*[@text='通知']">notify</locator>
+    <!--&lt;!&ndash;静态文字:设置&ndash;&gt;-->
+    <!--<locator type= "XPATH" timeOut="3" value="//*[@text='设置']">setting</locator>-->
+    <!--静态文字:注销-->
+    <locator type= "XPATH" timeOut="3" value="//*[@text='注销']">logout</locator>
+</map>

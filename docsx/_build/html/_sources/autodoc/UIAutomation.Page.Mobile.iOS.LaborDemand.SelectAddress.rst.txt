@@ -1,0 +1,36 @@
+UIAutomation.Page.Mobile.iOS.LaborDemand.SelectAddress package
+==============================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.LaborDemand.SelectAddress
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.LaborDemand.SelectAddress.SelectAddressPage module
+-------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.LaborDemand.SelectAddress.SelectAddressPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.LaborDemand.SelectAddress.SelectCity module
+------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.LaborDemand.SelectAddress.SelectCity
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.LaborDemand.SelectAddress.SelectCityArea module
+----------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.LaborDemand.SelectAddress.SelectCityArea
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

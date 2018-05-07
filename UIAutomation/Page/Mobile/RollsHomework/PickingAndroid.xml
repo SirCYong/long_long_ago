@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author:liyu-->
+    <!--拣选任务卡片-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/card_grid']/android.widget.LinearLayout[1]">picking</locator>
+    <!--拣选详细信息页面-->
+    <!--位置-->
+    <locator type="ID" timeOut="3" value="et_scanning_position">location</locator>
+    <!--商品-->
+    <locator type="ID" timeOut="3" value="et_code">commodity</locator>
+    <!--数量-->
+    <locator type="ID" timeOut="3" value="et_num">amount</locator>
+    <!--确定-->
+    <locator type="ID" timeOut="3" value="btn_confirm">confirm</locator>
+    <!--载体-->
+    <locator type="ID" timeOut="3" value="et_container">carrier</locator>
+    <!--选择单位-->
+    <locator type="ID" timeOut="3" value="rl_select_unit">select_unit</locator>
+    <!--位置-->
+    <locator type="ID" timeOut="3" value="tv_scanning_position">position</locator>
+</map>

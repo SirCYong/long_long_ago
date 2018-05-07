@@ -1,0 +1,20 @@
+UIAutomation.TestCase.SIT.Android.Sprint8 package
+=================================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.Sprint8
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.Android.Sprint8.Fun001Picking_test module
+-------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.Sprint8.Fun001Picking_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

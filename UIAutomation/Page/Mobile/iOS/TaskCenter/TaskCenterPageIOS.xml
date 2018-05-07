@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--cy      任务中枢界面-->
+<!--ACCESSIBILITY_ID-->
+<map>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="确定需要的服务类型">choiceServiceType</locator>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="激活仓库">activationDepot</locator>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="激活实体店">activationEntityShop</locator>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="激活商品">activationCommodity</locator>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="建立业务框架">businessFramework</locator>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="绑定银行卡信息">bindBankCard</locator>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="商品展示">CommodityShows</locator>
+</map>

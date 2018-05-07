@@ -1,0 +1,28 @@
+UIAutomation.Page.Mobile.iOS.IosStartLogin package
+==================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.IosStartLogin
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.IosStartLogin.IosStartLoginPage module
+-------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.IosStartLogin.IosStartLoginPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.IosStartLogin.TransitionPage module
+----------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.IosStartLogin.TransitionPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

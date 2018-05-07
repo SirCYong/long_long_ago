@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--发布供货供应卡片-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div/ul/div[2]/div/li[4]">card</locator>
+
+    <!--请选择上传文件链接-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div[1]/div[1]/div[1]/a/input">upload_files_link</locator>
+    <!--下载示例模板-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div[1]/div[1]/div[2]/a">example_template</locator>
+    <!--导入失败界面的查看详情-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[2]/div/ui-view/div/div[2]/div/div[3]/div/div[4]/p[2]/a">detail</locator>
+    <!--失败详情卡片关闭按钮-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[2]/div/ui-view/div/div[2]/div/div[1]/i">close_detail_btn</locator>
+    <!--重新导入button-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[2]/div/ui-view/div/div[2]/div/div[3]/div/div[4]/button">reImport</locator>
+    <!--导入成功界面关闭按钮-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[2]/div/ui-view/div/div[2]/div/div[3]/div/div[2]/button">closebtn</locator>
+    <!--导入详情-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[2]/div/ui-view/div/div[2]/div/div[3]/div/div[2]/div/p">import_detail</locator>
+    <!--查看停用明细-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[2]/div/ui-view/div/div[2]/div/div[3]/div/div[5]/div[2]/button[1]">view_detail</locator>
+</map>

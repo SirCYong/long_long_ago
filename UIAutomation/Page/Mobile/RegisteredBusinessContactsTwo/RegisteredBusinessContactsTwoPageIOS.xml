@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:xuwangchao-->
+<map>
+
+    <!--公司法人-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIATextField[1]">faren</locator>
+    <!--统一社会信用代码-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[2]/UIATextField[1]">tongyishehui</locator>
+    <!--营业执照注册号-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[3]/UIATextField[1]">yingyezhizhao</locator>
+    <!--组织机构代码-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[4]/UIATextField[1]">zuzhijigoudaima</locator>
+    <!--税务登记号-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[5]/UIATextField[1]">suiwudengjihao</locator>
+    <!--完成按钮-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="完成">ok_button</locator>
+
+</map>

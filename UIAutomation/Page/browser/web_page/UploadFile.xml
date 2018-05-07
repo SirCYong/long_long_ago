@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--上传文件页面-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div/div[1]/div[1]/a/input">Up_file</locator>
+    <!--导入成功-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div/div[5]/div/p">ImportSuccess</locator>
+    <!--导入失败-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div/div[6]/div/p">import_fail</locator>
+    <!--选择时间页面-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div/div[8]/div[1]/i">select_time</locator>
+    <!--关闭-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div/div[5]/button">close</locator>
+</map>

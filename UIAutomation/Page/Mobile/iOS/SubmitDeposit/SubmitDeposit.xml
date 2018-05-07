@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--提交保证金-->
+    <!--支付宝-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="支付宝">AliPay</locator>
+    <!--微信-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="微信">WeChat</locator>
+    <!--银联-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="银联">UnionPay</locator>
+    <!--支付按钮-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="支付">PayButton</locator>
+</map>

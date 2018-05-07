@@ -1,0 +1,35 @@
+UIAutomation.tests package
+==========================
+
+.. automodule:: UIAutomation.tests
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.tests.Utils
+
+Submodules
+----------
+
+UIAutomation.tests.conftest module
+----------------------------------
+
+.. automodule:: UIAutomation.tests.conftest
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.tests.run module
+-----------------------------
+
+.. automodule:: UIAutomation.tests.run
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

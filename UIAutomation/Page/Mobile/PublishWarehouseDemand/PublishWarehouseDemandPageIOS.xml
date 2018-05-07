@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--发布仓储需求-->
+<map>
+    <!--长期卡片：发布仓储需求-->
+    <locator type="ID" timeOut="3" value="发布仓储需求">pub_warehouseDemand</locator>
+    <!--点击行业：电商-->
+    <locator type="ID" timeOut="3" value="电商">ds_btn</locator>
+    <!--点击行业：转运-->
+    <locator type="ID" timeOut="3" value="转运">transport_btn</locator>
+    <!--点击行业：非电商-->
+    <locator type="ID" timeOut="3" value="非电商">fds_btn</locator>
+    <!--点击行业：非电商-->
+    <locator type="ID" timeOut="3" value="跨境">kj_btn</locator>
+    <!--点击级别：大众-->
+    <locator type="ID" timeOut="3" value="大众">dz_btn</locator>
+    <!--点击级别：奢侈-->
+    <locator type="ID" timeOut="3" value="奢侈">sc_btn</locator>
+    <!--点击级别：轻奢-->
+    <locator type="ID" timeOut="3" value="轻奢">qs_btn</locator>
+    <!--点击级别：跑量-->
+    <locator type="ID" timeOut="3" value="跑量">pl_btn</locator>
+    <!--点击选择选择起始日期-->
+    <locator type="ID" timeOut="3" value="选择起始日期">choose_start_time_btn</locator>
+    <!--点击选择选择起始日期页面的确定button-->
+    <locator type="ID" timeOut="3" value="确定">confirm_time_btn</locator>
+    <!--选择地址-->
+    <locator type="ID" timeOut="3" value="请选择地址">choose_address</locator>
+    <!--北京-->
+    <locator type="ID" timeOut="3" value="北京">beijing</locator>
+    <!--北京市-->
+    <locator type="ID" timeOut="3" value="北京市">beijing_city</locator>
+    <!--东城区-->
+    <locator type="ID" timeOut="3" value="东城区">east_city_zone</locator>
+    <!--处理量-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]">processing_capacity_btn</locator>
+    <!--填写完毕的完成按钮-->
+     <locator type="ACCESSIBILITY_ID" timeOut="3" value="完成">completed_btn</locator>
+    <!--仓储面积-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[2]">warehouse_area_btn</locator>
+    <!--立即发布-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="立即发布">immediate_release</locator>
+    <!--键盘的完成按钮 -->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[2]/UIAToolbar[1]/UIAButton[3]">wc_btn</locator>
+    <!--绑定按钮-->
+</map>

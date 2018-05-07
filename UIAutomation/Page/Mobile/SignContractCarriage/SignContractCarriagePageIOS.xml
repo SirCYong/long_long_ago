@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:chenyanxiu-->
+<map>
+    <!--第一个卡片的类型-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[1]">tr_type</locator>
+    <!--第一个卡片的数量-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[2]">tr_no</locator>
+    <!--第一个卡片的计量单位-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[3]">tr_unit_one</locator>
+    <!--第一个卡片的开始时间-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[4]">tr_origin</locator>
+    <!--第一个卡片的结束时间-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[5]">tr_end</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="发货量">tr_card</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="单/日">tr_unit</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确认签订契约">tr_confirmation_contract</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIASlider[1]">tr_line</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确定">confirm</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAStaticText[18]">tr_line_num</locator>
+</map>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:xuwangchao-->
+<map>
+
+   <!--公司名称-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIATextField[1]">business_name</locator>
+
+
+
+    <!--请选择地区-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[2]/UIATextField[1]">choose_location</locator>
+    <!--详细地址(*必填)-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[3]/UIATextField[1]">location_edit_text</locator>
+    <!--点击选择地址后页面的第一个条目:新加坡科技园2号楼-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]">location_text_first</locator>
+
+
+    <!--对接人-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[4]/UIATextField[1]">duijieren</locator>
+    <!--联系人-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[5]/UIATextField[1]">lianxiren</locator>
+    <!--联系人手机号-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[6]/UIATextField[1]">lianxiren_mobile</locator>
+    <!--接单人-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[7]/UIATextField[1]">jiedanren</locator>
+    <!--对账人-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[7]/UIATextField[2]">duizhangren</locator>
+    <!--下一步-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1]">next_button</locator>
+
+</map>

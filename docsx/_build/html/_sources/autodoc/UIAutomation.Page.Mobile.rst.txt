@@ -1,0 +1,107 @@
+UIAutomation.Page.Mobile package
+================================
+
+.. automodule:: UIAutomation.Page.Mobile
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.Page.Mobile.ActivationDepot
+    UIAutomation.Page.Mobile.ActivationEntityShop
+    UIAutomation.Page.Mobile.Android
+    UIAutomation.Page.Mobile.CardList
+    UIAutomation.Page.Mobile.CommodityQualityConversion
+    UIAutomation.Page.Mobile.DemoPage
+    UIAutomation.Page.Mobile.LoginPage
+    UIAutomation.Page.Mobile.MainPage
+    UIAutomation.Page.Mobile.ManageAddress
+    UIAutomation.Page.Mobile.ManagementBusinessUnit
+    UIAutomation.Page.Mobile.PermissionRecovery
+    UIAutomation.Page.Mobile.PublishGoodsSupply
+    UIAutomation.Page.Mobile.PublishLabour
+    UIAutomation.Page.Mobile.PublishWarehouseDemand
+    UIAutomation.Page.Mobile.PublishWarehouseSupply
+    UIAutomation.Page.Mobile.PurchaseOrder
+    UIAutomation.Page.Mobile.RegisteredSuppliers
+    UIAutomation.Page.Mobile.RollsHomework
+    UIAutomation.Page.Mobile.SetPromotionTemplate
+    UIAutomation.Page.Mobile.SignContractCarriage
+    UIAutomation.Page.Mobile.SignedWarehousingSupplyContract
+    UIAutomation.Page.Mobile.TaskCenter
+    UIAutomation.Page.Mobile.UpDeliveryOrder
+    UIAutomation.Page.Mobile.VerifyRisk
+    UIAutomation.Page.Mobile.iOS
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.BillPage module
+----------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.BillPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.CardCentralPage module
+-----------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.CardCentralPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.CardListPage module
+--------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.CardListPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.ExitAppPage module
+-------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.ExitAppPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.LongCardPage module
+--------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.LongCardPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.MoneyPocketPage module
+-----------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.MoneyPocketPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.MyPage module
+--------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.MyPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.RegisteredBusinessContactsOnePage module
+-----------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.RegisteredBusinessContactsOnePage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

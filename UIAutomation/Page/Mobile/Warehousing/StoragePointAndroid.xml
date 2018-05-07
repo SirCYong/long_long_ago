@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--扫码点数详细信息页面-->
+    <!--请输入或扫描货物外箱码-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="et_outer_box_code">Carton</locator>
+    <!--请输入或扫描商品条码-->
+    <locator type="ID" timeOut="3" value="et_bar_code">CommodityCode</locator>
+    <!--请输入或扫描商品批次-->
+    <locator type="ID" timeOut="3" value="et_et_batch">ProductBatch</locator>
+    <!--请输入数量-->
+    <locator type="ID" timeOut="3" value="et_goods_number">Amount</locator>
+    <!--货物单位-->
+    <locator type="ID" timeOut="3" value="货物单位">Units</locator>
+    <!--打-->
+    <locator type="ID" timeOut="3" value="打">Box</locator>
+    <!--件-->
+    <locator type="ID" timeOut="3" value="件">Piece</locator>
+    <!--对-->
+    <locator type="ID" timeOut="3" value="对">Mention</locator>
+    <!--盒-->
+    <locator type="ID" timeOut="3" value="盒">Bag</locator>
+    <!--确定-->
+    <locator type="ID" timeOut="3" value="确定">Determine</locator>
+    <!--次品-->
+    <locator type="ID" timeOut="3" value="次品">DefectiveGoods</locator>
+    <!--良品-->
+    <locator type="ID" timeOut="3" value="良品">Non-DefectiveProduct</locator>
+    <!--请拍摄商品有效期照片-->
+    <locator type="ID" timeOut="3" value="请拍摄商品有效期照片">TakingPictures</locator>
+    <!--完成检查-->
+    <locator type="ID" timeOut="3" value="完成检查">CompleteInspection</locator>
+    <!--检查下一个-->
+    <locator type="ID" timeOut="3" value="检查下一个">CheckNext</locator>
+    <!--拍照-->
+    <locator type="ID" timeOut="3" value="PhotoCapture">Photograph</locator>
+    <!--使用照片-->
+    <locator type="ID" timeOut="3" value="使用照片">Use_photo</locator>
+
+</map>

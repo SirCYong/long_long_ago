@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <!--给"账单生成人"的账单-->
+    <locator type="ID" timeOut="3" value="generate_bill_name">generate_bill_name</locator>
+    <!--账单生成时间-->
+    <locator type="ID" timeOut="3" value="generate_bill_time">generate_bill_time</locator>
+    <!--合计金额-->
+    <locator type="ID" timeOut="3" value="generate_bill_total">generate_bill_total</locator>
+     <!--按钮:生成账单-->
+    <locator type="ID" timeOut="3" value="generate_bill">generate_bill_button</locator>
+    <!--XX契约-->
+    <locator type="ID" timeOut="3" value="generate_bill_type">traffic_type</locator>
+    <!--XX金额-->
+    <locator type="ID" timeOut="3" value="generate_bill_sum">bill_type</locator>
+</map>

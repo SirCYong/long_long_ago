@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Sprint6 选购下单-->
+<map>
+    <!--长期卡片: 选购下单-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="选购下单">purchase_order</locator>
+    <!--选择供方-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1]">supplier</locator>
+    <!--选择需方-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[2]">needs</locator>
+    <!--选购商品-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="选购商品">purchase_goods</locator>
+    <!--选择商品-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1]">choose_goods</locator>
+    <!--多添加几个商品按钮-->
+     <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAButton[3]
+">add_goodsBtn</locator>
+    <!--确认商品-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAButton[2]">confirm_goods</locator>
+    <!--添加收货地址-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="添加收货地址">address</locator>
+    <!--详细地址-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIATextView[2]">detail_address</locator>
+    <!--确认选择该地址-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确认选择该地址">confirm_address</locator>
+    <!--立即下单-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="立即下单">order</locator>
+    <!--确定-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确定">purchase_order_confirm</locator>
+    <!--小键盘 完成-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="完成">purchase_order_complete</locator>
+
+</map>

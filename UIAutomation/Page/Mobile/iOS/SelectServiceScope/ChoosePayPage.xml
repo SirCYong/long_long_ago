@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--选择支付页面-->
+    <!--选择支付方式-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="支付方式">ChoicePayment</locator>
+    <!--同意保证金-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="">AgreedDeposit</locator>
+    <!--支付宝-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="支付宝">ALIPAY</locator>
+    <!--银联-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="银联">UnionPay</locator>
+    <!--去支付-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="支付">ToPay</locator>
+
+
+</map>

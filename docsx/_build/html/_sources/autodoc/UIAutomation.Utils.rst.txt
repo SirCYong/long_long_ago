@@ -1,0 +1,165 @@
+UIAutomation.Utils package
+==========================
+
+.. automodule:: UIAutomation.Utils
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.Utils.AccountManagement
+    UIAutomation.Utils.Support
+    UIAutomation.Utils.moblieclassify
+
+Submodules
+----------
+
+UIAutomation.Utils.ActionWrapper module
+---------------------------------------
+
+.. automodule:: UIAutomation.Utils.ActionWrapper
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.Appium module
+--------------------------------
+
+.. automodule:: UIAutomation.Utils.Appium
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.CMD module
+-----------------------------
+
+.. automodule:: UIAutomation.Utils.CMD
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.CoEnv module
+-------------------------------
+
+.. automodule:: UIAutomation.Utils.CoEnv
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.CoTime module
+--------------------------------
+
+.. automodule:: UIAutomation.Utils.CoTime
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.Conf module
+------------------------------
+
+.. automodule:: UIAutomation.Utils.Conf
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.Database module
+----------------------------------
+
+.. automodule:: UIAutomation.Utils.Database
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.DriverConf module
+------------------------------------
+
+.. automodule:: UIAutomation.Utils.DriverConf
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.Element module
+---------------------------------
+
+.. automodule:: UIAutomation.Utils.Element
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.EnvSettingReader module
+------------------------------------------
+
+.. automodule:: UIAutomation.Utils.EnvSettingReader
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.ErrorWrapper module
+--------------------------------------
+
+.. automodule:: UIAutomation.Utils.ErrorWrapper
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.GlobalVar module
+-----------------------------------
+
+.. automodule:: UIAutomation.Utils.GlobalVar
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.HttpWrapper module
+-------------------------------------
+
+.. automodule:: UIAutomation.Utils.HttpWrapper
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.IscsException module
+---------------------------------------
+
+.. automodule:: UIAutomation.Utils.IscsException
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.Logger module
+--------------------------------
+
+.. automodule:: UIAutomation.Utils.Logger
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.MergerJUnitReport module
+-------------------------------------------
+
+.. automodule:: UIAutomation.Utils.MergerJUnitReport
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.ParseXmlByText module
+----------------------------------------
+
+.. automodule:: UIAutomation.Utils.ParseXmlByText
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.Xml module
+-----------------------------
+
+.. automodule:: UIAutomation.Utils.Xml
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:liyu-->
+<map>
+    <!--主界面信息-->
+    <!--临时卡片：发布劳务需求-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="发布劳务需求">Release_labor_demand</locator>
+    <!--进入发布仓储供应的任务-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="发布仓储供应">Release_warehouse</locator>
+    <!--签订系统服务契约-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="签订系统服务契约">System_service_agreement</locator>
+    <!--提交保证金-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="提交保证金">Submit_deposit</locator>
+    <!--空白卡片-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[2]">Empty_card</locator>
+    <!--7个长期任务-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="7个长期任务">LongTaskCard</locator>
+    <!--长期卡片：发布劳务需求的任务-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="发布劳务需求的任务">Release_Long_labor_demand</locator>
+</map>

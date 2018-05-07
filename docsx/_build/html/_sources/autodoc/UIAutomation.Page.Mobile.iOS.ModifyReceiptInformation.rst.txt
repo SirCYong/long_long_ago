@@ -1,0 +1,28 @@
+UIAutomation.Page.Mobile.iOS.ModifyReceiptInformation package
+=============================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.ModifyReceiptInformation
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.ModifyReceiptInformation.ReceiptAddressPage module
+-------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.ModifyReceiptInformation.ReceiptAddressPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.ModifyReceiptInformation.ReceiptInformationPage module
+-----------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.ModifyReceiptInformation.ReceiptInformationPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--author:zhoujin-->
+<map>
+    <!--管理按钮-->
+    <locator type="ID" timeOut="3" value="btn_finish">management_button</locator>
+    <!--一级业务单位-->
+    <locator type="ID" timeOut="3" value="tv_company_name">first</locator>
+    <!--二级业务单位-->
+    <locator type="XPATH" timeOut="3" value="//android.widget.FrameLayout[1]/android.widget.RelativeLayout[6]/android.widget.TextView[2]">second</locator>
+    <!--三级业务单位-->
+    <locator type="XPATH" timeOut="3" value="//android.widget.FrameLayout[1]/android.widget.RelativeLayout[6]/android.widget.TextView[4]">third</locator>
+    <!--二级业务单位数量-->
+    <locator type="ID" timeOut="3" value="tv_second_rank_num">second_num</locator>
+    <!--三级业务单位数量-->
+    <locator type="ID" timeOut="3" value="tv_third_rank_num">third_num</locator>
+    <!--一级业务单位名称-->
+    <locator type="ID" timeOut="3" value="business_unit_name">first_name</locator>
+    <!--第一次添加二级业务单位-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/business_unit_list']/android.widget.RelativeLayout[1]">add</locator>
+    <!--二级业务单位名‘流年’-->
+    <locator type="ID" timeOut="3" value="business_unit_input">fleeting</locator>
+    <!--输入名字完成-->
+    <locator type="ID" timeOut="3" value="business_unit_input_finish">end</locator>
+    <!--0项权限-->
+    <locator type="ID" timeOut="3" value="business_unit_permission_total">purview</locator>
+    <!--第一次添加三级业务单位-->
+    <locator type="ID" timeOut="3" value="add">append</locator>
+    <!--二级业务单位名‘生活’-->
+    <locator type="ID" timeOut="3" value="business_unit_input">life</locator>
+    <!--三级业务单位设置权限-->
+    <locator type="ID" timeOut="3" value="container">third_set</locator>
+    <!--完成-->
+    <locator type="ID" timeOut="3" value="business_unit_finish">finish</locator>
+    <!--支付-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id = 'com.iscs.mobilewcs:id/btn0'and @text = '支付']">pay</locator>
+    <!--创建业务单位-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/btn1' and @text = '创建业务单位']">build</locator>
+    <!--签订系统服务-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/btn2' and @text = '签订系统服务']">sign</locator>
+    <!--管理业务单位-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id = 'com.iscs.mobilewcs:id/btn0'and @text = '管理业务单位']">management</locator>
+    <!--完善商品资料-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/btn1' and @text = '完善商品资料']">perfect</locator>
+    <!--支付完成更新原业务状态-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/btn2' and @text = '支付完成更新原业务状态']">update</locator>
+    <!--导入库位库存-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/btn0'and @text = '导入库位库存']">import</locator>
+    <!--找运输供应-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/btn0'and @text = '找运输供应']">carriage</locator>
+    <!--完善运输契约-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/btn0'and @text = '完善运输契约']">transport</locator>
+    <!--管理者权限变更-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/btn1' and @text = '管理者权限变更']">change</locator>
+    <!--运输费用结算记录-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/btn2' and @text = '运输费用结算记录']">settlement</locator>
+    <!--填写拥有的资产类型-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/btn3' and @text = '填写拥有的资产类型']">owner</locator>
+    <!--三级添加导入库位库存权限-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/btn0' and @text = '导入库位库存']">storage</locator>
+    <!--三级添加找运输供应状态-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/btn0' and @text = '找运输供应']">supply</locator>
+    <!--设置完成-->
+    <locator type="ID" timeOut="3" value="btn_finish">set</locator>
+</map>

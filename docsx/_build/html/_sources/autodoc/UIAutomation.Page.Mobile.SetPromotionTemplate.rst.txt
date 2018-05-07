@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.SetPromotionTemplate package
+=====================================================
+
+.. automodule:: UIAutomation.Page.Mobile.SetPromotionTemplate
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.SetPromotionTemplate.SetPromotionTemplate module
+-------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.SetPromotionTemplate.SetPromotionTemplate
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

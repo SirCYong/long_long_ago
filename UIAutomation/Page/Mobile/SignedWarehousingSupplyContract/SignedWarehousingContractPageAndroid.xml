@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <!--类型-->
+    <locator type="ID" timeOut="3" value="tv_query_all_contract_name">contract_name</locator>
+    <!--数量-->
+    <locator type="ID" timeOut="3" value="tv_contract_number">contract_number</locator>
+    <!--计价单位-->
+    <locator type="ID" timeOut="3" value="tv_contract_units">contract_units</locator>
+    <!--开始时间-->
+    <locator type="ID" timeOut="3" value="tv_start_time">start_time</locator>
+    <!--结束时间-->
+    <locator type="ID" timeOut="3" value="tv_end_time">end_time</locator>
+
+    <!--发布者-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/container']/android.widget.RelativeLayout[4]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]">detail_supply_name</locator>
+    <!--详情数量-->
+    <locator type="ID" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/container']/android.widget.RelativeLayout[4]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[2]">detail_no</locator>
+    <!--详情单位-->
+    <locator type="ID" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/container']/android.widget.RelativeLayout[4]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[3]">detail_unit</locator>
+    <!--详情开始时间-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/container']/android.widget.RelativeLayout[4]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[5]">detail_start_time</locator>
+    <!--详情结束时间-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/container']/android.widget.RelativeLayout[4]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[7]">detail_end_time</locator>
+    <!--详情价格-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/container']/android.widget.RelativeLayout[4]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[8]">detail_price</locator>
+    <!--星级-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/container']/android.widget.RelativeLayout[4]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[4]/android.widget.Image">star</locator>
+    <!--行业-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/container']/android.widget.RelativeLayout[4]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[9]/android.view.View[1]">detail_instury</locator>
+    <!--逾期条款-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/container']/android.widget.RelativeLayout[4]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[10]">detail_overdue_clause</locator>
+    <!--选择的数量-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/container']/android.widget.RelativeLayout[4]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[11]">detail_select_no</locator>
+    <!--仓储供应滑块-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/container']/android.widget.RelativeLayout[4]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[12]/android.widget.SeekBar[1]">swipe_button</locator>
+    <!--仓储需求滑块-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/container']/android.widget.RelativeLayout[4]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[11]/android.widget.SeekBar[1]">swipe_button2</locator>
+    <!--仓储供应提交按钮-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/container']/android.widget.RelativeLayout[4]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[13]/android.widget.Button[1]">submit_button</locator>
+    <!--仓储需求提交按钮-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/container']/android.widget.RelativeLayout[4]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[12]/android.widget.Button[1]">submit_button2</locator>
+    <!--确认按钮-->
+    <locator type="ID" timeOut="3" value="button1">confirm_button</locator>
+</map>

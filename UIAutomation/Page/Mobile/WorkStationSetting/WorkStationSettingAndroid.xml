@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--选择需要操作的仓库-->
+    <locator type="ID" timeOut="3" value="tv_operation">choose_warehouse</locator>
+    <!--选择仓库 确认-->
+    <locator type="ID" timeOut="3" value="btn_confirm">choose_warehouse_confirmBtn</locator>
+    <!--输入作业点名称-->
+    <locator type="ID" timeOut="3" value="edit_text">enter_station_name</locator>
+    <!--请选择类型-->
+    <locator type="ID" timeOut="3" value="tv_select">choose_type</locator>
+    <!--下一步-->
+    <locator type="ID" timeOut="3" value="btn_next">nest</locator>
+    <!--完成并查看-->
+    <locator type="ID" timeOut="3" value="btn_complete">completed_look</locator>
+    <!--新增下一个-->
+    <locator type="ID" timeOut="3" value="btn_add_next">nextAdd</locator>
+</map>

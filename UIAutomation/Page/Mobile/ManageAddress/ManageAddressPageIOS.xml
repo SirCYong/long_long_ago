@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!-- cy -->
+    <!--仓库名-->
+    <locator type ="ACCESSIBILITY_ID" timeOut="3" value="添加地址">addAddress</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIATextField[1]">addressNikeName</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[2]/UIATextField[1]">name</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[3]/UIATextField[1]">mobile</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="点击选择">clickChoice</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="保存">save</locator>
+
+
+</map>

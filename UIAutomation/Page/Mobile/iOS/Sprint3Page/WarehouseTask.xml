@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--主页面-->
+    <!--拣选-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="拣选">picking</locator>
+    <!--分拣-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="分拣">sorting</locator>
+    <!--包装-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="包装">packing</locator>
+    <!--暂存-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="暂存">deposit</locator>
+    <!--交接-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="交接">release</locator>
+
+</map>

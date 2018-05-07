@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.StorageInventory package
+=====================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.StorageInventory
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.StorageInventory.StorageInventoryPage module
+-------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.StorageInventory.StorageInventoryPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

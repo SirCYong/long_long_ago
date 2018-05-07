@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--选择地址页面-->
+    <!--省份-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="浙江省">Province</locator>
+     <!--&lt;!&ndash;市&ndash;&gt;-->
+    <!--<locator type="ACCESSIBILITY_ID" timeOut="3" value="杭州市">Provinces_cities</locator>-->
+     <!--&lt;!&ndash;区&ndash;&gt;-->
+    <!--<locator type="ACCESSIBILITY_ID" timeOut="3" value="西湖区">Provinces_cities_area</locator>-->
+</map>

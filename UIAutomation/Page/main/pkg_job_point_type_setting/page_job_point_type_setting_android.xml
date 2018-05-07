@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map>
+
+    <!--选择需要操作的仓库-->
+    <locator type ="ID" timeOut="3" value= "tv_operation">button_select_warehouse</locator>
+
+    <!--选择仓库页面:选择第一个仓库-->
+    <locator type ="ID" timeOut="3" value= "tv_name">button_warehouse_first</locator>
+
+    <!--选择仓库页面：确定按钮-->
+    <locator type ="ID" timeOut="3" value= "btn_confirm">button_warehouse_confirm</locator>
+
+    <!--选择需要变化的维度：id一样，用index区分-->
+    <locator type ="ID" timeOut="3" value= "rel_bg">button_dimension_change</locator>
+
+    <!--下一步按钮-->
+    <locator type ="ID" timeOut="3" value= "btn_next">button_next</locator>
+
+    <!--输入作业点名称-->
+    <locator type ="ID" timeOut="3" value= "edit_text">input_job_point_name</locator>
+
+    <!--请选择类型-->
+    <locator type ="ID" timeOut="3" value= "tv_select">button_select_job_point_type</locator>
+
+    <!--选择作业点类型页面：选择第一个作业点类型-->
+    <locator type ="ID" timeOut="3" value= "tv_name">button_job_point_first</locator>
+
+    <!--选择作业点类型页面：确定按钮-->
+    <locator type ="ID" timeOut="3" value= "btn_confirm">button_job_point_confirm</locator>
+
+    <!--完成并查看按钮-->
+    <locator type ="ID" timeOut="3" value= "btn_complete">button_complete</locator>
+
+    <!--新增下一个按钮-->
+    <locator type ="ID" timeOut="3" value= "btn_add_next">button_add_next</locator>
+
+    <!--新增成功后的页面全部作业点类型页面的作业点详情-->
+    <locator type ="ID" timeOut="3" value= "tv_detail">verify_job_point_detail</locator>
+
+</map>

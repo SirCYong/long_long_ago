@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+
+    <!--手机号/身份证号输入框-->
+    <locator type="ID" timeOut="3" value="et_login_id">input_user_name</locator>
+
+     <!--密码输入框-->
+    <locator type="ID" timeOut="3" value="et_login_pwd">input_password</locator>
+
+    <!--登录按钮-->
+    <locator type="ID" timeOut="3" value="btn_login">button_login</locator>
+
+    <!--微信登录按钮-->
+    <locator type="ID" timeOut="3" value="btn_login_wechat">button_wechat</locator>
+
+    <!--登录后如果出现是否绑定新设备弹框： 绑定按钮-->
+    <locator type="XPATH" timeOut="3" value="page_login_android.xml">button_bound</locator>
+
+    <!--登录后的主界面：圆圈控件-->
+    <locator type="ID" timeOut="3" value="circle_progress_view">button_circle_progress_view</locator>
+
+    <!--登录后的主界面：长期任务-->
+    <locator type="ID" timeOut="3" value="suishi_type_card">button_long_task</locator>
+
+    <!--登录后的主界面：左上角...按钮-->
+    <locator type="ID" timeOut="3" value="more_bt">button_more</locator>
+
+    <!--登录后的主界面：左上角个人资料按钮-->
+    <locator type="CLASS_NAME" timeOut="3" value="android.widget.RelativeLayout">button_personal</locator>
+
+    <!--个人资料页面：注销按钮-->
+    <locator type="ID" timeOut="3" value="zhuxiao_bt">button_logout</locator>
+
+    <!--当登录App时被顶下来的提示请登录界面确定按钮-->
+    <locator type="ID" timeOut="3" value="button1">button_login_alert_confirm</locator>
+
+    <!--版本更新页面：稍后更新按钮-->
+    <locator type="ID" timeOut="3" value="update_later">button_update_later</locator>
+</map>

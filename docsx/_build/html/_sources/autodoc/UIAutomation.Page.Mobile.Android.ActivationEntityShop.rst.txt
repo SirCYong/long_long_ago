@@ -1,0 +1,28 @@
+UIAutomation.Page.Mobile.Android.ActivationEntityShop package
+=============================================================
+
+.. automodule:: UIAutomation.Page.Mobile.Android.ActivationEntityShop
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.Android.ActivationEntityShop.ActivationEntityShopPage module
+-------------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.ActivationEntityShop.ActivationEntityShopPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.Android.ActivationEntityShop.ImportHistoricalOrderPage module
+--------------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.ActivationEntityShop.ImportHistoricalOrderPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

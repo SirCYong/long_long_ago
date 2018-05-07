@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <!--姓名-->
+    <locator type="ID" timeOut="3" value="et_alert_orders_name">c_name</locator>
+    <!--电话-->
+    <locator type="ID" timeOut="3" value="et_alert_orders_phone">phone</locator>
+    <!--地址-->
+    <locator type="ID" timeOut="3" value="tv_alert_orders_area">address</locator>
+    <!--详细地址-->
+    <locator type="ID" timeOut="3" value="et_alert_orders_address">sddress_detail</locator>
+    <!--邮编-->
+    <locator type="ID" timeOut="3" value="et_alert_orders_zip">zip_code</locator>
+    <!--订单号-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/ll_front']/android.widget.LinearLayout[5]/android.widget.RelativeLayout[1]/android.widget.TextView">order_no</locator>
+    <!--修改好了-->
+    <locator type="ID" timeOut="3" value="alert_ok_btn">submit</locator>
+</map>

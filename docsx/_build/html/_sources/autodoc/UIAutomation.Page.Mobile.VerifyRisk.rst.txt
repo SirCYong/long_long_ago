@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.VerifyRisk package
+===========================================
+
+.. automodule:: UIAutomation.Page.Mobile.VerifyRisk
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.VerifyRisk.VerifyRiskPage module
+---------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.VerifyRisk.VerifyRiskPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

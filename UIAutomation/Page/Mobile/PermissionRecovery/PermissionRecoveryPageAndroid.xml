@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--author:zhoujin-->
+<map>
+    <!--管理者权限回收-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/tv_permission_recovery_item' and @text = '管理者权限收回']">permission</locator>
+    <!--入库上架-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/tv_permission_recovery_item' and @text = '入库上架']">storage</locator>
+    <!--邀请-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/tv_permission_recovery_item' and @text = '邀请']">invite</locator>
+    <!--收回权限-->
+    <locator type="ID" timeOut="3" value="btn_permission_revovery_saubmit">recovery</locator>
+    <!--确定回收-->
+    <locator type="ID" timeOut="3" value="button1">sure</locator>
+    <!--按人回收权限-->
+    <locator type="ID" timeOut="3" value="rl_set_person">person</locator>
+    <!--按权限回收-->
+    <locator type="ID" timeOut="3" value="rl_set_permission">jurisdiction</locator>
+    <!--选择交接的权限-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/tv_show_rec' and @text = '交接']">transfer</locator>
+    <!--选择第一个人-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/rv_permission_iv']/android.widget.RelativeLayout[1]">first</locator>
+    <!--选择第二个人-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/rv_permission_iv']/android.widget.RelativeLayout[2]">second</locator>
+    <!--收回权限-->
+    <locator type="ID" timeOut="3" value="btn_submit">submit</locator>
+    <!--点击搜索框-->
+    <locator type="ID" timeOut="3" value="btn_searsh">search</locator>
+    <!--选择人-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/clet_searsh' and @text = '百合九']">name</locator>
+    <!--选择服务范围-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/lv_show_rec']/android.widget.LinearLayout[1]/android.widget.TextView[2]">services</locator>
+    <!--入库扫码点数-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/lv_show_rec']/android.widget.LinearLayout[1]/android.widget.TextView[4]">sweep_points</locator>
+    <!--监控者权限变更-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/lv_show_rec']/android.widget.LinearLayout[1]/android.widget.TextView[6]">change</locator>
+
+</map>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:chenyanxiu-->
+<map>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="+添加单位">add_unit</locator>
+    <!--输入-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIATextField[1]">et_add</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确定">bt_add</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="编辑">unit_edit</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="删除">unit_del</locator>
+    <!--搜索-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAImage[1]">search</locator>
+    <!--输入条码／品名-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]">input_edit</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="下一步">next</locator>
+    <!--数量-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]">before_count</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAStaticText[4]">before_unit</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[2]">later_count</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1]">later_name</locator>
+
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="管理单位">manage_unit</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="选择该单位">confirm</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确认转换">convert</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAStaticText[1]">convert_unit</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="任务">card</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="icon back">back</locator>
+</map>

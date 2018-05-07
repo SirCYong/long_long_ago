@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="请选择">choice</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="分配给我">assigned_to_me</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="分配成功">distribution_success_button</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="创造者3勿动">name</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="13738388888">phone</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="监控者">monitor</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="管理者">manager</locator>
+</map>

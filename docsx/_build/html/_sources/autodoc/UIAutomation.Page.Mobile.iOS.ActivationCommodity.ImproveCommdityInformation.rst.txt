@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.ActivationCommodity.ImproveCommdityInformation package
+===================================================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.ActivationCommodity.ImproveCommdityInformation
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.ActivationCommodity.ImproveCommdityInformation.ImproveCommodityInformationPage module
+------------------------------------------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.ActivationCommodity.ImproveCommdityInformation.ImproveCommodityInformationPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

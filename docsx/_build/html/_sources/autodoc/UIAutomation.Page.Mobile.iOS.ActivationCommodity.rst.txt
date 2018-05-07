@@ -1,0 +1,27 @@
+UIAutomation.Page.Mobile.iOS.ActivationCommodity package
+========================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.ActivationCommodity
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.Page.Mobile.iOS.ActivationCommodity.ImproveCommdityInformation
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.ActivationCommodity.ActivationCommodityPage module
+-------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.ActivationCommodity.ActivationCommodityPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

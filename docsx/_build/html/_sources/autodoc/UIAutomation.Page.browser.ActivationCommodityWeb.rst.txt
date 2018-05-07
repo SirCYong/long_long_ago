@@ -1,0 +1,20 @@
+UIAutomation.Page.browser.ActivationCommodityWeb package
+========================================================
+
+.. automodule:: UIAutomation.Page.browser.ActivationCommodityWeb
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.browser.ActivationCommodityWeb.ActivationCommodityWebPage module
+----------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.browser.ActivationCommodityWeb.ActivationCommodityWebPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

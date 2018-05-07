@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--author:zhoujin-->
+<map>
+    <!--全选-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAButton[2]">select_all</locator>
+    <!--我要退货-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAButton[3]">return_goods</locator>
+    <!--选择退货商品-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="幽灵">first</locator>
+    <!--输入订单号-->
+    <locator type="XPATH" timeOut="3" value=" //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]">order_number</locator>
+    <!--选择退货方式-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="破损">mode</locator>
+    <!--拒收-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="拒收">reject</locator>
+    <!--确定-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAButton[1]">sure</locator>
+    <!--确定退货-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAAlert[1]/UIACollectionView[1]/UIACollectionCell[2]/UIAButton[1]">confirm</locator>
+</map>

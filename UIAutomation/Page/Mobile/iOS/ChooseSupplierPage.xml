@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--cy      服务类型界面-->
+<map>
+    <capacityReport>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="我要什么供应商">serveTypeTitleText</locator>    <!--我需要什么供应商？(title)-->
+        <!--locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]">serveTypeTitleText</locator-->
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]">serveOneBox</locator>    <!--选择服务第一个选择框-->
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[2]">serveTwoBox</locator>    <!--选择服务第二个选择框-->
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[3]">serveThreeBox</locator>    <!--选择服务第三个选择框-->
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[4]">serveFourBox</locator>    <!--选择服务第四个选择框-->
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[5]">serveFiveBox</locator>    <!--选择服务第五个选择框-->
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[6]">serveSixBox</locator>    <!--选择服务第六个选择框-->
+                <!--选择服务第七个选择框-->
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[7]">serveSevenBox</locator>
+        <!--选择服务第八个选择框-->
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[8]">serveEightBox</locator>>
+                <!--选择服务第⑨个选择框-->
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[9]">serveNineBox</locator>>
+                <!--选择服务第⑩个选择框-->
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[10]">serveTenBox</locator>>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="选择好了">serveButton</locator>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="仓储服务，来一套">warehouse</locator>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="可靠的劳务人员">labourService</locator>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="可靠的保险">notService</locator>
+    </capacityReport>
+</map>

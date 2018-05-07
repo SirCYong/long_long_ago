@@ -1,0 +1,28 @@
+UIAutomation.TestCase.SIT.Mobile.PublishSupply package
+======================================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.PublishSupply
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.Mobile.PublishSupply.PublishSupply_sql module
+-----------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.PublishSupply.PublishSupply_sql
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Mobile.PublishSupply.PublishSupply_test module
+------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.PublishSupply.PublishSupply_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

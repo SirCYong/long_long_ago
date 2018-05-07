@@ -1,0 +1,36 @@
+UIAutomation.TestCase.SIT.Android.Sprint7 package
+=================================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.Sprint7
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.Android.Sprint7.FUNGenerateBill module
+----------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.Sprint7.FUNGenerateBill
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Android.Sprint7.FUNGenerateBillSQL module
+-------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.Sprint7.FUNGenerateBillSQL
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Android.Sprint7.FunSetPromotionTemplateSmoke_test module
+----------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.Sprint7.FunSetPromotionTemplateSmoke_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

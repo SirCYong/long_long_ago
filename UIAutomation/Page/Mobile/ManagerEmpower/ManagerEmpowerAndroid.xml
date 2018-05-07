@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--卡片授权 数字-->
+    <locator type="ID" timeOut="3" value="card_permission_count">permission_num</locator>
+    <!--任务权限授权 数字-->
+    <locator type="ID" timeOut="3" value="task_permission_count">task_permission</locator>
+    <!--复制给-->
+    <locator type="ID" timeOut="3" value="card_permission_copy">permission_copy</locator>
+    <!--邀请-->
+    <locator type="ID" timeOut="3" value="btn_type_content">invite</locator>
+    <!--产-->
+    <locator type="ID" timeOut="3" value="level_one_tv">product</locator>
+    <!--销-->
+    <locator type="ID" timeOut="3" value="level_one_tv">sale</locator>
+    <!--复制权限给-->
+    <locator type="ID" timeOut="3" value="copy_btn">copy_power_right</locator>
+</map>

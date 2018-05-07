@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.UpDeliveryOrder package
+================================================
+
+.. automodule:: UIAutomation.Page.Mobile.UpDeliveryOrder
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.UpDeliveryOrder.UpDeliveryOrderPage module
+-------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.UpDeliveryOrder.UpDeliveryOrderPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

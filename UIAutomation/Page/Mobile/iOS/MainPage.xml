@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <!--主界面信息-->
+    <!--进入预测审核界面按钮-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="预测审核">Main_Forecast_review_button</locator>
+    <!--team3-->
+    <locator type="ID" timeOut="3" value="team_three_btn">team3</locator>
+</map>

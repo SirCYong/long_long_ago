@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Sprint5 注册供应商 -->
+<map>
+    <!--企业简称-->
+    <locator type="ID" timeOut="3" value="et_enterprise_as">company_name</locator>
+    <!--企业负责人-->
+    <locator type="ID" timeOut="3" value="et_enterprise_director">company_principal</locator>
+    <!--手机-->
+    <locator type="ID" timeOut="3" value="et_enterprise_phone">mobile</locator>
+    <!--接单人姓名-->
+    <locator type="ID" timeOut="3" value="et_pickname">single_personName</locator>
+    <!--接单人联系方式-->
+    <locator type="ID" timeOut="3" value="et_pickphone">single_person_mobile</locator>
+    <!--对账人-->
+    <locator type="ID" timeOut="3" value="rl_check_people">check_people</locator>
+    <!--对账人姓名-->
+    <locator type="ID" timeOut="3" value="et_checkname">reconciliation_personName</locator>
+    <!--对账人联系方式-->
+    <locator type="ID" timeOut="3" value="et_checkphone">reconciliation_personMobile</locator>
+    <!--付款人-->
+    <locator type="ID" timeOut="3" value="rl_pay_people">pay_people</locator>
+    <!--付款人姓名-->
+    <locator type="ID" timeOut="3" value="et_payname">pay_personName</locator>
+    <!--付款人联系方式-->
+    <locator type="ID" timeOut="3" value="et_payphone">pay_personMobile</locator>
+    <!--注册-->
+    <locator type="ID" timeOut="3" value="btn_submit">registerBtn</locator>
+</map>

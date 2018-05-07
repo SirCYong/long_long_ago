@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.ManageAddress package
+==============================================
+
+.. automodule:: UIAutomation.Page.Mobile.ManageAddress
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.ManageAddress.ManageAddressPage module
+---------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.ManageAddress.ManageAddressPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

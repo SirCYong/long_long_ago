@@ -1,0 +1,28 @@
+UIAutomation.TestCase.SIT.Android.Sprint5 package
+=================================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.Sprint5
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.Android.Sprint5.FunPublishGoodsSupplySmoke_test module
+--------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.Sprint5.FunPublishGoodsSupplySmoke_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Android.Sprint5.FunRegisteredSuppliersSmoke_test module
+---------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.Sprint5.FunRegisteredSuppliersSmoke_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<map>
+    <!--返回按钮-->
+     <!-- Author: yue-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAButton[7]">icon_back</locator>
+
+</map>

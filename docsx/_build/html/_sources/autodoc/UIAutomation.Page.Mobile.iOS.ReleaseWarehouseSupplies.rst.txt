@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.ReleaseWarehouseSupplies package
+=============================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.ReleaseWarehouseSupplies
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.ReleaseWarehouseSupplies.ReleaseWarehouseSupplies module
+-------------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.ReleaseWarehouseSupplies.ReleaseWarehouseSupplies
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

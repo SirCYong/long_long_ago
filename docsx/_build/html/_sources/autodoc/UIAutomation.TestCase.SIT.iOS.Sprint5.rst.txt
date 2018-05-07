@@ -1,0 +1,52 @@
+UIAutomation.TestCase.SIT.iOS.Sprint5 package
+=============================================
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint5
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.iOS.Sprint5.Fun002ImproveLaborResources_test module
+-----------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint5.Fun002ImproveLaborResources_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.iOS.Sprint5.FunBindBankCard001_test module
+--------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint5.FunBindBankCard001_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.iOS.Sprint5.FunImproveCommdityInformation001_test module
+----------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint5.FunImproveCommdityInformation001_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.iOS.Sprint5.FunRegisteredSuppliersSmoke_test module
+-----------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint5.FunRegisteredSuppliersSmoke_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.iOS.Sprint5.bianli module
+---------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint5.bianli
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

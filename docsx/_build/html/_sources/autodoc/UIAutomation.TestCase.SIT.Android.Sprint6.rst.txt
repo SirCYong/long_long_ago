@@ -1,0 +1,20 @@
+UIAutomation.TestCase.SIT.Android.Sprint6 package
+=================================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.Sprint6
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.Android.Sprint6.FunPurchaseOrderSmoke_test module
+---------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.Sprint6.FunPurchaseOrderSmoke_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

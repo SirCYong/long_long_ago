@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--登录-->
+
+    <locator type="NAME" timeOut="3" value="userName">userName</locator>
+    <locator type="NAME" timeOut="3" value="password">password</locator>
+    <locator type="XPATH" timeOut="3" value=".//*[@id='data-ng-app']/body/div[1]/login/div/div/div[2]/div[4]">login-submit</locator>
+
+</map>

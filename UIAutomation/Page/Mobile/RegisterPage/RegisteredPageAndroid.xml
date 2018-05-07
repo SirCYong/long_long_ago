@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+       <!--选择好友-->
+    <locator type="ID" timeOut="3" value="btn_invite_contact">choose_friends</locator>
+    <!--个人信息页面 真实姓名-->
+    <locator type="ID" timeOut="3" value="et_name">name</locator>
+    <!--个人信息页面 身份证号-->
+    <locator type="ID" timeOut="3" value="et_id">card_id</locator>
+    <!--个人信息页面 拍照认证-->
+    <locator type="ID" timeOut="3" value="iv_photo_front">photo</locator>
+    <!--个人信息页面 下一步-->
+    <locator type="ID" timeOut="3" value="btn_next_step">nest_step</locator>
+    <!--照相机 确定-->
+    <locator type="ID" timeOut="3" value="okay">photo_okay</locator>
+    <!--照相机 完成-->
+    <locator type="ID" timeOut="3" value="btn_done">photo_done</locator>
+    <!--身份证拍照页面 正面-->
+    <locator type="ID" timeOut="3" value="iv_photo_front">photo_id_front</locator>
+    <!--身份证拍照页面 反面-->
+    <locator type="ID" timeOut="3" value="iv_photo_back">photo_id_back</locator>
+    <!--身份证拍照页面 下一步 -->
+    <locator type="ID" timeOut="3" value="btn_next_step">id_photo_next</locator>
+    <!--验证信息页面 手机号 -->
+    <locator type="ID" timeOut="3" value="et_phone_num">verify_num</locator>
+    <!--验证信息页面 验证码 -->
+    <locator type="ID" timeOut="3" value="et_check_code">verify_identify_code</locator>
+    <!--验证信息页面 获取验证码 -->
+    <locator type="ID" timeOut="3" value="btn_get_code">verify_get_identify_code</locator>
+    <!--验证信息页面 设置密码-->
+    <locator type="ID" timeOut="3" value="et_password">verify_set_pwd</locator>
+    <!--验证信息页面 确认密码-->
+    <locator type="ID" timeOut="3" value="et_confirm_password">verify_confirm_pwd</locator>
+    <!--验证信息页面 下一步-->
+    <locator type="ID" timeOut="3" value="btn_next_step">verify_confirm_pwd</locator>
+</map>

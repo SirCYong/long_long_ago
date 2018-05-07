@@ -1,0 +1,68 @@
+UIAutomation.Entity package
+===========================
+
+.. automodule:: UIAutomation.Entity
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Entity.BaArea module
+---------------------------------
+
+.. automodule:: UIAutomation.Entity.BaArea
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Entity.BaCountry module
+------------------------------------
+
+.. automodule:: UIAutomation.Entity.BaCountry
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Entity.BaseVO module
+---------------------------------
+
+.. automodule:: UIAutomation.Entity.BaseVO
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Entity.CmParticipant module
+----------------------------------------
+
+.. automodule:: UIAutomation.Entity.CmParticipant
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Entity.OrderTask module
+------------------------------------
+
+.. automodule:: UIAutomation.Entity.OrderTask
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Entity.TsContractInterface module
+----------------------------------------------
+
+.. automodule:: UIAutomation.Entity.TsContractInterface
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Entity.TsOperation module
+--------------------------------------
+
+.. automodule:: UIAutomation.Entity.TsOperation
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

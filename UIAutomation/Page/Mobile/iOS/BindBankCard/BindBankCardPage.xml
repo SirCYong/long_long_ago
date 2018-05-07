@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map>
+
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIATextField[1]">inputUserName</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="添加支付账号">addPaymentAccount</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="Bankcard2">bankButton</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="Paytreasure2">payment</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="wechat2">weChatButton</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIATextField[1]">inputPaymentName</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIATextField[2]">inputNumber</locator>
+    <locator type="ACCESSIBILITY_ID" value="确定">confirmButton</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="获取验证码">getVerificationCode</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="输入验证码">inputVerificationCode</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="下一步">nextButton</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="提示">prompt</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAAlert[1]/UIACollectionView[1]">ok</locator>
+</map>

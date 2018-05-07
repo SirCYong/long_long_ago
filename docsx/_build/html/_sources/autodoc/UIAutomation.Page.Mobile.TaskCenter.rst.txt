@@ -1,0 +1,28 @@
+UIAutomation.Page.Mobile.TaskCenter package
+===========================================
+
+.. automodule:: UIAutomation.Page.Mobile.TaskCenter
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.TaskCenter.URLPage module
+--------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.TaskCenter.URLPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.TaskCenter.URLSQLPage module
+-----------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.TaskCenter.URLSQLPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

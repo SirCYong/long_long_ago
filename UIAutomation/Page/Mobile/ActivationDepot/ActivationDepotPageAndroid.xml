@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!-- cy -->
+    <!--仓库名-->
+    <locator type ="ID" timeOut="3" value= "et_storehouse_shop">depotName</locator>
+    <!--仓库地址-->
+    <locator type ="ID" timeOut="3" value= "active_storehouse_detail_adress_txt">depotAddress</locator>
+    <!--仓库面积点击按钮-->
+    <locator type= "ID" timeOut="3" value= "active_storehouse_shop_s_edt_before">depotAreaButton</locator>
+    <!--仓库面积输入框-->
+    <locator type= "ID" timeOut="3" value= "active_storehouse_shop_s_edt">depotAreaText</locator>
+    <!--仓库租金点击按钮-->
+    <locator type= "ID" timeOut="3" value= "active_storehouse_money_edt_before">depotRentButton</locator>
+    <!--仓库租金输入框-->
+    <locator type="ID" timeOut="3" value="active_storehouse_shop_price_edt">depotRentText</locator>
+    <!--仓库租金+号-->
+    <locator type="CLASS_NAME" timeOut="3" value="android.widget.ImageView">depotRentAdd</locator>
+    <!--选择-->
+    <locator type= "ID" timeOut="3" value="active_storehouse_local_txt">depotMap</locator>
+    <!--激活-->
+    <locator type= "ID" timeOut="3" value="btn_login_no">depotActivation</locator>
+    <locator type="XPATH" timeOut="3" value="完成">finishButton</locator>
+    <locator type="ID" timeOut="3" value="com.iscs.mobilewcs:id/btn_login">ok</locator>
+
+
+</map>

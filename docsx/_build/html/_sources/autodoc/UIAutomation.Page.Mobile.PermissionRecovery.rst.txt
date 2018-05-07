@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.PermissionRecovery package
+===================================================
+
+.. automodule:: UIAutomation.Page.Mobile.PermissionRecovery
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.PermissionRecovery.PermissionRecoveryPage module
+-------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.PermissionRecovery.PermissionRecoveryPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

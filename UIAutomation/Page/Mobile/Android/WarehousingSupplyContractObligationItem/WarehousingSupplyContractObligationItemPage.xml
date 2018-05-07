@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:chenyanxiu-->
+<map>
+    <!--供方id-->
+    <locator type="ID" timeOut="3" value="the_supplier">supplier</locator>
+    <!--契约ukid-->
+    <locator type="ID" timeOut="3" value="contract_number">contract_number</locator>
+    <!--添加义务项-->
+    <locator type="ID" timeOut="3" value="add_obligations">add_obligations</locator>
+    <!--类型-->
+    <locator type="ID" timeOut="3" value="type">type</locator>
+    <!--发货单量义务项-->
+    <locator type="ID" timeOut="3" value="type_consignment">type_consignment</locator>
+    <!--服务星级义务项-->
+    <locator type="ID" timeOut="3" value="type_service_star">type_service_star</locator>
+    <!--确定-->
+    <locator type="ID" timeOut="3" value="btn_confirm">confirm</locator>
+    <!--开始时间-->
+    <locator type="ID" timeOut="3" value="rl_startdate">startdate</locator>
+    <!--结束时间-->
+    <locator type="ID" timeOut="3" value="rl_enddate">rl_enddate</locator>
+    <!--下限-->
+    <locator type="ID" timeOut="3" value="lower_limit">lower_limit</locator>
+    <!--上限-->
+    <locator type="ID" timeOut="3" value="most_limit">most_limit</locator>
+    <!--容忍-->
+    <locator type="ID" timeOut="3" value="btn_tolerate">btn_tolerate</locator>
+    <!--取消-->
+    <locator type="ID" timeOut="3" value="btn_cancel">btn_cancel</locator>
+    <!--继续添加-->
+    <locator type="ID" timeOut="3" value="add_next">add_next</locator>
+    <!--完成-->
+    <locator type="ID" timeOut="3" value="btn_finish">btn_finish</locator>
+    <!--时间确定-->
+    <locator type="ID" timeOut="3" value="btn_complete">btn_complete</locator>
+    <!--无需添加义务项-->
+    <locator type="ID" timeOut="3" value="btn_next">btn_next</locator>
+</map>

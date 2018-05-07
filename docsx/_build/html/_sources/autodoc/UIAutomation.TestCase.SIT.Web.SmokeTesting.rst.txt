@@ -1,0 +1,28 @@
+UIAutomation.TestCase.SIT.Web.SmokeTesting package
+==================================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Web.SmokeTesting
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.Web.SmokeTesting.FunSmoke012 module
+-------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Web.SmokeTesting.FunSmoke012
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Web.SmokeTesting.FunSmoke012SQL module
+----------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Web.SmokeTesting.FunSmoke012SQL
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author:liyu-->
+    <!--移动-->
+    <locator type="ID" timeOut="3" value="移动">move</locator>
+    <!--交接-->
+    <locator type="ID" timeOut="3" value="交接">handover</locator>
+    <!--移动详细信息页面-->
+    <!--输入或扫描运单号-->
+    <locator type="ID" timeOut="3" value="输入或扫描运单号">waybill_number</locator>
+    <!--起始位置-->
+    <locator type="ID" timeOut="3" value="输入或扫描起始位置">starting_position</locator>
+    <!--目标位置-->
+    <locator type="ID" timeOut="3" value="输入或扫描目标位置">target_location</locator>
+    <!--完成-->
+    <locator type="ID" timeOut="3" value="完成">complete</locator>
+
+    <!--交接详细信息页面-->
+    <!--起始委托-->
+    <locator type="ID" timeOut="3" value="起始委托">starting_entrust</locator>
+    <!--目标委托-->
+    <locator type="ID" timeOut="3" value="目标委托">target_entrust</locator>
+
+</map>

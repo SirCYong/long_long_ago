@@ -1,0 +1,36 @@
+UIAutomation.Page package
+=========================
+
+.. automodule:: UIAutomation.Page
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.Page.Mobile
+    UIAutomation.Page.browser
+
+Submodules
+----------
+
+UIAutomation.Page.BasePage module
+---------------------------------
+
+.. automodule:: UIAutomation.Page.BasePage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.SwipeModel module
+-----------------------------------
+
+.. automodule:: UIAutomation.Page.SwipeModel
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

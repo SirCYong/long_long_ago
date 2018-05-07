@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <locator type="XPATH" timeOut="3" value=".//*[@id='data-ng-app']/body/div[1]/login/div/div/div[2]/div[1]/div[1]/input">LoginInput</locator>
+    <locator type="XPATH" timeOut="3" value=".//*[@id='data-ng-app']/body/div[1]/login/div/div/div[2]/div[1]/div[2]/input">PwdInput</locator>
+    <locator type="XPATH" timeOut="3" value=".//*[@id='data-ng-app']/body/div[1]/login/div/div/div[2]/div[1]/div[4]">LoginBtn</locator>
+</map>

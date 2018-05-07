@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author：xuwangchao-->
+<map>
+    <!--完善仓储契约页面-->
+     <!--导入成功-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div/div[5]/div/p">import_success</locator>
+
+</map>

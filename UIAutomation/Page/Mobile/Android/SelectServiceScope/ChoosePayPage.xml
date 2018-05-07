@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--选择支付页面-->
+    <!--选择支付方式-->
+    <!--<locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/rv_orders_all']/android.widget.FrameLayout[6]">ChoicePayment</locator>-->
+    <!--同意保证金-->
+    <locator type="ID" timeOut="3" value="cb">AgreedDeposit</locator>
+    <!--支付宝-->
+    <locator type="ID" timeOut="3" value="rl_alipay">ALIPAY</locator>
+    <!--银联-->
+    <locator type="ID" timeOut="3" value="rl_unionpay">UnionPay</locator>
+    <!--去支付-->
+    <locator type="ID" timeOut="3" value="btn_pay">ToPay</locator>
+
+</map>

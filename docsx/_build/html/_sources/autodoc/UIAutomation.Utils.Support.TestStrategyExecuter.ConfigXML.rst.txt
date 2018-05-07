@@ -1,0 +1,20 @@
+UIAutomation.Utils.Support.TestStrategyExecuter.ConfigXML package
+=================================================================
+
+.. automodule:: UIAutomation.Utils.Support.TestStrategyExecuter.ConfigXML
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Utils.Support.TestStrategyExecuter.ConfigXML.ConfigXML module
+--------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Utils.Support.TestStrategyExecuter.ConfigXML.ConfigXML
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

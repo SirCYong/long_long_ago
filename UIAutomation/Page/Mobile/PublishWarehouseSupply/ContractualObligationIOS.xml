@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--IOS:建立契约义务项-->
+    <!--添加义务项-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="添加义务项">add_obligations</locator>
+    <!--无需添加义务项-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="无需添加义务项">without_add_obligations</locator>
+
+    <!--类型-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="类型">type</locator>
+    <!--服务星级-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="服务星级">service_type</locator>
+    <!--发货单量-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="发货单量">invoice_amount</locator>
+    <!--确定-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确定">confirm</locator>
+    <!--开始时间-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="交付开始时间">start_time</locator>
+    <!--结束时间-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="交付结束时间">end_time</locator>
+    <!--数量上限-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[4]/UIATextField[1]">quantity_ceiling</locator>
+    <!--数量下限-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[5]/UIATextField[1]">lower_number</locator>
+    <!--关闭键盘-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[2]/UIAToolbar[1]/UIAButton[3]">close</locator>
+    <!--取...源-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="取消">origin</locator>
+    <!--容忍-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="容忍">tolerate</locator>
+    <!--资源折扣(折)-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]">resource_discount</locator>
+    <!--完成-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="完成">complete</locator>
+    <!--继续添加-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="继续添加">continue_add</locator>
+    <!--已添加所有义务项-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="已添加所有义务项">all_compulsory_items</locator>
+
+</map>

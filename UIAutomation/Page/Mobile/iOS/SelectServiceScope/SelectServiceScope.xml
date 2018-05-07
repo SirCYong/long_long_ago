@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--选择服务范围-->
+    <!--管仓库-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="管仓库">ManageWarehouse</locator>
+    <!--卖货-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="卖货">Sellprods</locator>
+    <!--管劳务-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="管劳务">ManageLabor</locator>
+    <!--运货-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="运货">Freight</locator>
+    <!--搞生产-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="搞生产">MakeProduction</locator>
+    <!--去交纳保证金-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="去缴纳保证金">Paydeposit</locator>
+    <!--返回注册页
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/rv_orders_all']/android.widget.FrameLayout[6]">BackStep</locator>
+    -->
+</map>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map>
+    <capacityReport>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="登录">startLogin</locator>
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIATextField[1]">userID</locator>
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIASecureTextField[1]">password</locator>
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[4]/UIAKeyboard[1]/UIAButton[4]">go</locator>
+
+    </capacityReport>
+</map>

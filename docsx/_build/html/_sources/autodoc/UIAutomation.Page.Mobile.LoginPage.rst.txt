@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.LoginPage package
+==========================================
+
+.. automodule:: UIAutomation.Page.Mobile.LoginPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.LoginPage.LoginPage module
+---------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.LoginPage.LoginPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

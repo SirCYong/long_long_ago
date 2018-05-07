@@ -1,0 +1,28 @@
+UIAutomation.Page.browser.ActivationEntityShopWeb package
+=========================================================
+
+.. automodule:: UIAutomation.Page.browser.ActivationEntityShopWeb
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.browser.ActivationEntityShopWeb.ActivationEntityShopWebPage module
+------------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.browser.ActivationEntityShopWeb.ActivationEntityShopWebPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.browser.ActivationEntityShopWeb.jiekou module
+---------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.browser.ActivationEntityShopWeb.jiekou
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

@@ -1,0 +1,28 @@
+UIAutomation.TestCase.SIT.Mobile.VerifyRisk package
+===================================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.VerifyRisk
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.Mobile.VerifyRisk.VerifyRisk_sql module
+-----------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.VerifyRisk.VerifyRisk_sql
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Mobile.VerifyRisk.VerifyRisk_test module
+------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.VerifyRisk.VerifyRisk_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

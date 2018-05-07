@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:yuetianzhuang-->
+<map>
+    <locator type="ID" timeOut="3" value="team_three_btn">team3</locator>
+    <locator type="ID" timeOut="3" value="btn_complete_info">Improve_InformationBtn</locator>
+</map>

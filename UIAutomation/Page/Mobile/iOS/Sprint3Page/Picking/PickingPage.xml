@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--拣选任务主页面-->
+    <!--起始位置-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="起始位置">starting_position</locator>
+    <!--目标位置-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="目标位置">target_position</locator>
+    <!--起始载体-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="起始载体">starting_carrier</locator>
+    <!--目标载体-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="目标载体">target_carrier</locator>
+    <!--完成-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="完成">complete_button</locator>
+</map>

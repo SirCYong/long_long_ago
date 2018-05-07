@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--分配代理人页面 监控者请选择-->
+    <locator type="ID" timeOut="3" value="rl_select_supervisor">select_supervisor</locator>
+    <!--分配代理人页面 监控者分配给我-->
+    <locator type="ID" timeOut="3" value="rl_select_supervisor_me">select_me</locator>
+    <!--分配代理人页面 管理者-->
+    <locator type="ID" timeOut="3" value="rl_add_admin">add_admin</locator>
+    <!--分配代理人页面 管理者分配给我-->
+    <locator type="ID" timeOut="3" value="rl_select_admin_me">add_admin_me</locator>
+    <!--分配代理人页面 分配完成-->
+    <locator type="ID" timeOut="3" value="/btn_inviting_success">success</locator>
+</map>

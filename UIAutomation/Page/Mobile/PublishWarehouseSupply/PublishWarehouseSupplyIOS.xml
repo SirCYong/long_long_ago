@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--ios:发布仓储供应-->
+    <!--行业-->
+    <locator type="ID" timeOut="3" value="电商">Electricity</locator>
+    <locator type="ID" timeOut="3" value="转运">Transshipment</locator>
+    <locator type="ID" timeOut="3" value="非电商">Un_electricity</locator>
+    <locator type="ID" timeOut="3" value="跨境">Cross_border</locator>
+    <!--选择起始时间-->
+    <locator type="ID" timeOut="3" value="选择起始日期">SelectStartDate</locator>
+    <!--星级-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAImage[5]">level</locator>
+    <!--吞吐量(件/日)-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]">Throughput</locator>
+    <!--价格(元/件)-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[2]">Price</locator>
+    <!--面积(平方米/日)-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[3]">Area</locator>
+    <!--价格(元/平方米)-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[4]">PriceSquareMeters</locator>
+    <!--立即发布-->
+    <locator type="ID" timeOut="3" value="下一步">next_step</locator>
+</map>

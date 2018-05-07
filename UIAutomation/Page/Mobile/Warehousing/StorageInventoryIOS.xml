@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--上架详细信息页面-->
+    <!--请输入或扫描货物外箱码-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="请输入或扫描货物外箱码">Carton</locator>
+    <!--下一步-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="下一步">Next_step</locator>
+    <!--外箱码-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="外箱码">Outer_box_code</locator>
+    <!--商品码-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="商品码">Commodity_code</locator>
+    <!--数量-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="数量">Amount</locator>
+    <!--货物单位-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="货物单位">Units</locator>
+    <!--箱-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="箱">Box</locator>
+    <!--件-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="件">Piece</locator>
+    <!--提-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="提">Mention</locator>
+    <!--袋-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="袋">Bag</locator>
+    <!--确定-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确定">Determine</locator>
+    <!--库位码-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="库位码">Storage_code</locator>
+</map>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--签订服务契约-->
+    <!--同意-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="同意">Agreement</locator>
+</map>

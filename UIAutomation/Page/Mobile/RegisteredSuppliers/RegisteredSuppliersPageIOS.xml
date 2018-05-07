@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Sprint5 注册供应商 -->
+<map>
+    <locator type="ID" timeOut="3" value="注册供应商">register_supply</locator>
+    <!--企业简称-->
+    <locator type="XPATH" timeOut="3" value=" //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]">company_name</locator>
+    <!--企业负责人-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[2]">company_principal</locator>
+    <!--手机-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[3]">mobile</locator>
+    <!--接单人姓名-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[4]">single_personName</locator>
+    <!--接单人联系方式-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[7]">single_person_mobile</locator>
+     <!--对账人-->
+    <locator type="ID" timeOut="3" value="对账人">reconciliation_person</locator>
+    <!--对账人姓名-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[5]">reconciliation_personName</locator>
+    <!--对账人联系方式-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[8]">reconciliation_personMobile</locator>
+    <!--付款人-->
+    <locator type="ID" timeOut="3" value="付款人">pay</locator>
+    <!--付款人姓名-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[6]">pay_personName</locator>
+    <!--付款人联系方式-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[9]">pay_personMobile</locator>
+    <!--小键盘的完成button-->
+    <locator type="ID" timeOut="3" value="完成">completed_btn</locator>
+    <!--注册-->
+    <locator type="ID" timeOut="3" value="注册">registerBtn</locator>
+</map>

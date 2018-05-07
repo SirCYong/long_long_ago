@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<map>
+    <!--点击行业：跨境-->
+    <locator type="ID" timeOut="3" value="">Cross_BorderBtn</locator>
+    <!--点击行业：转运-->
+    <locator type="ID" timeOut="3" value="">TransPort_Btn</locator>
+    <!--点击行业：电商-->
+    <locator type="ID" timeOut="3" value="">E_CommerceBtn</locator>
+    <!--点击行业：非电商-->
+    <locator type="ID" timeOut="3" value="">Un_E_CommerceBtn</locator>
+    <!--点击级别：跑量-->
+    <locator type="ID" timeOut="3" value="">RunningVolumeBtn</locator>
+    <!--点击级别：大众-->
+    <locator type="ID" timeOut="3" value="">PublicBtn</locator>
+    <!--点击级别：轻奢-->
+    <locator type="ID" timeOut="3" value="">LightExtravagantBtn</locator>
+    <!--点击级别：奢侈-->
+    <locator type="ID" timeOut="3" value="">luxuryBtn</locator>
+    <!--选择开始日期-->
+    <locator type="ID" timeOut="3" value="">BeginTime</locator>
+    <!--选择结束日期-->
+    <locator type="ID" timeOut="3" value="">EndTime</locator>
+    <!--地点：-->
+    <locator type="ID" timeOut="3" value="">Location</locator>
+    <!--省份-->
+    <locator type="ID" timeOut="3" value="">Province</locator>
+    <!--市区-->
+    <locator type="ID" timeOut="3" value="">CityBtn</locator>
+    <!--处理量-->
+    <locator type="ID" timeOut="3" value="">ProcessingCapacityBtn</locator>
+    <!--仓储面积-->
+    <locator type="ID" timeOut="3" value="">WarehouseAreaBtn</locator>
+    <!--完成-->
+    <locator type="ID" timeOut="3" value="">CompleteBtn</locator>
+    <!--继续发布-->
+    <locator type="ID" timeOut="3" value="">ContinueBtn</locator>
+</map>

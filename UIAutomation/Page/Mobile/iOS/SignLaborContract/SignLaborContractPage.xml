@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:chenyanxiu-->
+<map>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="拣选">la_card_picking</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="上架">la_card_shelve</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="包装">la_card_packing</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="交接">la_card_transfer</locator>
+    <!--第一个卡片的类型-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[1]">la_type</locator>
+    <!--第一个卡片的价钱-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[2]">la_no</locator>
+    <!--第一个卡片的计量单位-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[3]">la_unit</locator>
+    <!--第一个卡片的开始时间-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[4]">la_start_time</locator>
+    <!--第一个卡片的结束时间-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[5]">la_end_time</locator>
+
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="29">yuan_hour</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="0.95">yuan_peace</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="白班">work</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="海南省三沙市中沙群岛的岛礁及其海域">address</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="2018/12/23">start_time</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="2018/12/23">end_time</locator>
+
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="位置">position</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="报名参加">enter_for</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="我参加">enter_me</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="再考虑">think</locator>
+</map>

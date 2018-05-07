@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <capacityReport>
+        <locator type="ById" timeOut="3" value="com.iscs.mobilewcs:id/customerTypeTitleText">serveTypeTitleText</locator>    <!--我需要什么供应商？(title)-->
+    </capacityReport>
+</map>

@@ -1,0 +1,27 @@
+UIAutomation.Page.Mobile.iOS.DistributionManagerAndSupervisor package
+=====================================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.DistributionManagerAndSupervisor
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.Page.Mobile.iOS.DistributionManagerAndSupervisor.GoodsStorage
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.DistributionManagerAndSupervisor.DistributionManagerAndSupervisorPage module
+---------------------------------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.DistributionManagerAndSupervisor.DistributionManagerAndSupervisorPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

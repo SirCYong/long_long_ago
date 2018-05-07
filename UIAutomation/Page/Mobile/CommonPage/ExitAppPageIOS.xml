@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="nav more">navMore</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="nav me">navMe</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="注销">logout</locator>
+</map>

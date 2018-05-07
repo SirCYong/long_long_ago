@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.Android.GenerateBill package
+=====================================================
+
+.. automodule:: UIAutomation.Page.Mobile.Android.GenerateBill
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.Android.GenerateBill.GenerateBillPage module
+---------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.GenerateBill.GenerateBillPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

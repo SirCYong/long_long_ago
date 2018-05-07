@@ -1,0 +1,1 @@
+from ConfigXML import EMPTY_CONFIG_XML

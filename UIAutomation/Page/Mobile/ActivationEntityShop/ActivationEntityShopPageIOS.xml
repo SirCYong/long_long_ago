@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!-- cy -->
+    <!--实体店名称输入 -->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionCell[1]/UIATableView[1]/UIATableCell[1]/UIATextField[1]">entityShopName</locator>
+    <!--实体店地图选择-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="点击选择">entityShopMapChoice</locator>
+    <!--实体店输入地址-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionCell[1]/UIATableView[1]/UIATableCell[2]/UIATextField[1]">entityShopAddress</locator>
+    <!--实体店面积-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionCell[1]/UIATableView[1]/UIATableCell[3]/UIATextField[1]">entityShopArea</locator>
+    <!--下一步-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="下一步">nextButton</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="完成">finishButton</locator>
+
+
+
+</map>

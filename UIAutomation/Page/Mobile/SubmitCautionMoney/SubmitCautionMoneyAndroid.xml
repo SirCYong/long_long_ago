@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--提交保证金界面 支付宝-->
+    <locator type="ID" timeOut="3" value="rl_alipay">a_li_pay</locator>
+    <!--提交保证金界面 微信-->
+    <locator type="ID" timeOut="3" value="rl_wxpay">we_chat_pay</locator>
+    <!--提交保证金界面 银联-->
+    <locator type="ID" timeOut="3" value="rl_unionpay">union_pay</locator>
+    <!--提交保证金界面 支付-->
+    <locator type="ID" timeOut="3" value="btn_pay">pay</locator>
+</map>

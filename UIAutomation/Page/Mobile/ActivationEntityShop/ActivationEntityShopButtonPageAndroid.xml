@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map>
+
+    <locator type="ID" timeOut="3" value="com.iscs.mobilewcs:id/active_goods_ok">goImport</locator>
+</map>

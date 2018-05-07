@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map>
+
+    <!--仓库名称，点击和输入控件定位一样-->
+    <locator type ="ID" timeOut="3" value= "edit_text">input_warehouse_name</locator>
+
+    <!--所在地址：请选择地区-->
+    <locator type ="ID" timeOut="3" value= "active_storehouse_local_rel">button_warehouse_address</locator>
+
+    <!--请选择地区打开的页面：第一个地址定位控件-->
+    <locator type ="ID" timeOut="3" value= "active_entry_map_title">button_warehouse_map_first</locator>
+
+    <!--详细地址，点击和输入控件定位一样-->
+    <locator type ="ID" timeOut="3" value= "edit_text">input_warehouse_detail_address</locator>
+
+    <!--仓库面积，点击和输入控件定位一样-->
+    <locator type ="ID" timeOut="3" value= "edit_text">input_warehouse_area</locator>
+
+    <!--仓库租金\-->
+    <locator type ="ID" timeOut="3" value= "active_storehouse_shop_price_edt">input_warehouse_rent</locator>
+
+    <!--仓库联系人，点击和输入控件定位一样-->
+    <locator type ="ID" timeOut="3" value= "edit_text">input_warehouse_contact</locator>
+
+    <!--仓库联系人手机号码，点击和输入控件定位一样-->
+    <locator type ="ID" timeOut="3" value= "edit_text">input_warehouse_phone</locator>
+
+    <!--激活按钮-->
+    <locator type ="ID" timeOut="3" value= "btn_login">button_activate</locator>
+
+    <!--激活成功页面：好的按钮-->
+    <locator type ="ID" timeOut="3" value= "active_goods_ok">button_ok</locator>
+
+</map>

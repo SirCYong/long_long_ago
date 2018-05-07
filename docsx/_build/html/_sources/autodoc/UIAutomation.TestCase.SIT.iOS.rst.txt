@@ -1,0 +1,36 @@
+UIAutomation.TestCase.SIT.iOS package
+=====================================
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.TestCase.SIT.iOS.AllProcess
+    UIAutomation.TestCase.SIT.iOS.Keywords
+    UIAutomation.TestCase.SIT.iOS.SmokeTesting
+    UIAutomation.TestCase.SIT.iOS.Sprint1
+    UIAutomation.TestCase.SIT.iOS.Sprint2
+    UIAutomation.TestCase.SIT.iOS.Sprint3
+    UIAutomation.TestCase.SIT.iOS.Sprint4
+    UIAutomation.TestCase.SIT.iOS.Sprint5
+    UIAutomation.TestCase.SIT.iOS.Sprint6
+    UIAutomation.TestCase.SIT.iOS.Sprint7
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.iOS.temp_class module
+-----------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.temp_class
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

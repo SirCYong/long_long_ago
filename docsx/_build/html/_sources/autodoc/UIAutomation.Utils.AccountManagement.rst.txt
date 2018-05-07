@@ -1,0 +1,28 @@
+UIAutomation.Utils.AccountManagement package
+============================================
+
+.. automodule:: UIAutomation.Utils.AccountManagement
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Utils.AccountManagement.AccountManage module
+---------------------------------------------------------
+
+.. automodule:: UIAutomation.Utils.AccountManagement.AccountManage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.AccountManagement.MysqlHelper module
+-------------------------------------------------------
+
+.. automodule:: UIAutomation.Utils.AccountManagement.MysqlHelper
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

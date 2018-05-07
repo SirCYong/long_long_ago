@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--商品品质转换-->
+<map>
+    <!--选择滑动开关-->
+    <locator type="ID" timeOut="3" value="check_default">chooseBtn</locator>
+    <!--确定-->
+    <locator type="ID" timeOut="3" value="btn_confirm">confirm</locator>
+    <!--返回-->
+    <locator type="ID" timeOut="3" value="btn_back">back</locator>
+</map>

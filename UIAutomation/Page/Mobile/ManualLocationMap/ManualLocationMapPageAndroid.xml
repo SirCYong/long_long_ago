@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <!--所在地址-->
+    <locator type="ID" timeOut="3" value="select_address">area</locator>
+    <!--详细地址-->
+    <locator type="ID" timeOut="3" value="edit_text">detail_address</locator>
+    <!--搜索按钮-->
+    <locator type="ID" timeOut="3" value="active_entry_search_box">search_button</locator>
+    <!--搜索-->
+    <locator type="ID" timeOut="3" value="active_entry_search_edt">search</locator>
+    <!--选择的地址-->
+    <locator type="ID" timeOut="3" value="active_entry_map_title">select_address</locator>
+    <!--选择的详细地址-->
+    <locator type="ID" timeOut="3" value="active_entry_map_description">select_detail_address</locator>
+    <!--地图的默认地址-->
+    <locator type="ID" timeOut="3" value="active_entry_map_title">map_default_address</locator>
+    <!--地图的详细地址-->
+    <locator type="ID" timeOut="3" value="active_entry_map_description">map_default_detail_address</locator>
+</map>

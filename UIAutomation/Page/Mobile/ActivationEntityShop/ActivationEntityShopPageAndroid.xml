@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!-- cy -->
+    <!--实体店名称输入 -->
+    <locator type="ID" timeOut="3" value="com.iscs.mobilewcs:id/et_entry_shop">entityShopName</locator>
+    <!--实体店地图选择-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/active_entry_local_txt' and @text='点击选择']">entityShopMapChoice</locator>
+    <!--实体店输入地址-->
+    <locator type="ID" timeOut="3" value="com.iscs.mobilewcs:id/active_entry_detail_adress_txt">entityShopAddress</locator>
+    <!--实体店面积-->
+    <locator type="ID" timeOut="3" value="com.iscs.mobilewcs:id/active_entry_shop_s_edt_before">entityShopArea</locator>
+    <!--下一步-->
+    <locator type="ID" timeOut="3" value="com.iscs.mobilewcs:id/btn_login">nextButton</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="完成">finishButton</locator>
+
+
+
+</map>

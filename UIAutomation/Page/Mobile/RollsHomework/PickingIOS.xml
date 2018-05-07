@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author:liyu-->
+    <!--拣选任务卡片-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="拣选">picking</locator>
+    <!--拣选详细信息页面-->
+    <!--位置-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="位置">location</locator>
+    <!--商品-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="商品">commodity</locator>
+    <!--数量-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="">amount</locator>
+    <!--确定-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="">confirm</locator>
+    <!--载体-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="">carrier</locator>
+    <!--选择单位-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="件">select_unit</locator>
+    <!--件-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="件">unit</locator>
+
+
+</map>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <!--提交按钮-->
+    <locator type="ID" timeOut="3" value="btn_send">submit_button</locator>
+    <!--快递品牌-->
+    <locator type="ID" timeOut="3" value="iv_brand">logistics_brands</locator>
+</map>

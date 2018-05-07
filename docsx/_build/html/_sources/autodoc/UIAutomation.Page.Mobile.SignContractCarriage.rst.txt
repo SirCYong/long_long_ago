@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.SignContractCarriage package
+=====================================================
+
+.. automodule:: UIAutomation.Page.Mobile.SignContractCarriage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.SignContractCarriage.SignContractCarriagePage module
+-----------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.SignContractCarriage.SignContractCarriagePage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

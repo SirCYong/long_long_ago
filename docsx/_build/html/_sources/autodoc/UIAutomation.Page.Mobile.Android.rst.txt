@@ -1,0 +1,128 @@
+UIAutomation.Page.Mobile.Android package
+========================================
+
+.. automodule:: UIAutomation.Page.Mobile.Android
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.Page.Mobile.Android.ActivationEntityShop
+    UIAutomation.Page.Mobile.Android.ContractCarriage
+    UIAutomation.Page.Mobile.Android.GenerateBill
+    UIAutomation.Page.Mobile.Android.Login
+    UIAutomation.Page.Mobile.Android.ModifyReceiptInformation
+    UIAutomation.Page.Mobile.Android.NonServiceCertification
+    UIAutomation.Page.Mobile.Android.Register
+    UIAutomation.Page.Mobile.Android.SelectLogisticsBrand
+    UIAutomation.Page.Mobile.Android.SelectServiceScope
+    UIAutomation.Page.Mobile.Android.SignLaborContract
+    UIAutomation.Page.Mobile.Android.TaskHandoverPage
+    UIAutomation.Page.Mobile.Android.WarehouseRequirements
+    UIAutomation.Page.Mobile.Android.WarehousingSupplyContractObligationItem
+    UIAutomation.Page.Mobile.Android.open_order_download
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.Android.CardListPage module
+----------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.CardListPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.Android.CardSyncClose module
+-----------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.CardSyncClose
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.Android.ForecastReview module
+------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.ForecastReview
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.Android.MainPage module
+------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.MainPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.Android.PromptBoxPage module
+-----------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.PromptBoxPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.Android.ServeCenterPage module
+-------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.ServeCenterPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.Android.ServeTypeTitleTextPage module
+--------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.ServeTypeTitleTextPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.Android.StartLoginPage module
+------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.StartLoginPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.Android.SyncCardPage module
+----------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.SyncCardPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.Android.SyncClosePage module
+-----------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.SyncClosePage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.Android.SyncIconBackPage module
+--------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.SyncIconBackPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.Android.TaskCenterPage module
+------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.TaskCenterPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

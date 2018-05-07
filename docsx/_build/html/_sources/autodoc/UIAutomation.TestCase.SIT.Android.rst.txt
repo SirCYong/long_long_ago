@@ -1,0 +1,25 @@
+UIAutomation.TestCase.SIT.Android package
+=========================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Android
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.TestCase.SIT.Android.Keywords
+    UIAutomation.TestCase.SIT.Android.SmokeTesting
+    UIAutomation.TestCase.SIT.Android.Sprint1
+    UIAutomation.TestCase.SIT.Android.Sprint2
+    UIAutomation.TestCase.SIT.Android.Sprint3
+    UIAutomation.TestCase.SIT.Android.Sprint4
+    UIAutomation.TestCase.SIT.Android.Sprint5
+    UIAutomation.TestCase.SIT.Android.Sprint6
+    UIAutomation.TestCase.SIT.Android.Sprint7
+    UIAutomation.TestCase.SIT.Android.Sprint8
+    UIAutomation.TestCase.SIT.Android.Sprint9
+

@@ -1,0 +1,60 @@
+UIAutomation.TestCase.SIT.iOS.Sprint3 package
+=============================================
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint3
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.iOS.Sprint3.FunGoodsStorage001 module
+---------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint3.FunGoodsStorage001
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.iOS.Sprint3.FunPicking001 module
+----------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint3.FunPicking001
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.iOS.Sprint3.FunPicking001SQL module
+-------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint3.FunPicking001SQL
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.iOS.Sprint3.FunSorting001 module
+----------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint3.FunSorting001
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.iOS.Sprint3.FunSorting001QSL module
+-------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint3.FunSorting001QSL
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.iOS.Sprint3.SQL module
+------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint3.SQL
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

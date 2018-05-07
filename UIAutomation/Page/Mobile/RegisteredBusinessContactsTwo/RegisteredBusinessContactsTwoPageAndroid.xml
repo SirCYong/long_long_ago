@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:xuwangchao-->
+<map>
+
+    <!--公司法人-->
+    <locator type="XPATH" timeOut="3" value="//*[@text='公司法人']">faren</locator>
+    <!--统一社会信用代码-->
+    <locator type="XPATH" timeOut="3" value="//*[@text='统一社会信用代码']">tongyishehui</locator>
+    <!--营业执照注册号-->
+    <locator type="XPATH" timeOut="3" value="//*[@text='营业执照注册号']">yingyezhizhao</locator>
+    <!--组织机构代码-->
+    <locator type="XPATH" timeOut="3" value="//*[@text='组织机构代码']">zuzhijigoudaima</locator>
+    <!--税务登记号-->
+    <locator type="XPATH" timeOut="3" value="//*[@text='税务登记号']">suiwudengjihao</locator>
+    <!--完成按钮-->
+    <locator type="ID" timeOut="3" value="btn_finish">ok_button</locator>
+
+</map>

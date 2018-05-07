@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.SubmitDeposit package
+==================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.SubmitDeposit
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.SubmitDeposit.SubmitDeposit module
+---------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.SubmitDeposit.SubmitDeposit
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

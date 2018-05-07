@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--# 激活商品（PC端）
+#  Cy
+-->
+
+<map>
+    <locator type="XPATH" timeOut="3" value="//p[contains(text(),'激活商品')]">clickActivationCommodity</locator>
+    <locator type="XPATH" timeOut="3" value="//*[@id='data-ng-app']/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div[1]/div[1]/div[1]/a/input">inputFile</locator>
+</map>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<map>
+     <!--下一步按钮-->
+    <locator type="ID" timeOut="3" value="btn_next_step">NextStepBtn1</locator>
+      <!--真实姓名-->
+    <locator type="ID" timeOut="3" value="et_name">NameTextInput</locator>
+     <!--身份证号-->
+    <locator type="ID" timeOut="3" value="et_id">IDCardNumText</locator>
+    <!--手机拍照，拍头像-->
+    <locator type="ID" timeOut="3" value="iv_photo">PhotographBtn</locator>
+     <!--相机按钮-->
+    <!--<locator type="ID" timeOut="3" value="v6_shutter_button_internal">CameraBtn</locator>-->
+     <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.android.camera:id/camera_app_root/v6_bottom_control_panel/bottom_control/v6_control_lower_panel/v6_camera_bottom_control_panel/v6_shutter_button/v6_shutter_button_internal">CameraBtn</locator>
+    <!--相机按钮-->
+    <!--点击拍摄后，选择差-->
+    <locator type="ID" timeOut="3" value="v6_btn_cancel">CancelBtn</locator>
+     <!--拍照照片后，完成按钮-->
+    <locator  type="ID" timeOut="3" value="btn_done">DoneBtn</locator>
+    <!--手机号码输入-->
+    <locator type="ID" timeOut="3" value="et_phone_num">MobilePhoneInputText</locator>
+    <!--获取验证码按钮-->
+    <locator type="ID" timeOut="3" value="btn_get_code">VerifyBtn</locator>
+    <!--验证码框-->
+    <locator type="ID" timeOut="3" value="et_check_code">VerifyCodeText</locator>
+    <!--输入验证码时使用接口返回数据的按钮-->
+     <locator type="ID" timeOut="3" value="btn_next_step">NestStepBtn2</locator>
+    <!--最后确认-->
+    <locator type="ID" timeOut="3" value="btn_next_step">Submitted_SuccessfullyBtn</locator>
+    <!--完善信息button-->
+    <locator type="ID" timeOut="3" value="btn_complete_info">WSXXBtn</locator>
+    <!--选择国家标码-->
+    <locator type="ID" timeOut="3" value="tv_selectcountry">ChooseCountryCodeBtn</locator>
+    <!--选择国家标码  中国-->
+    <locator type="ID" timeOut="3" value="">ChooseChinaCodeBtn</locator>
+    <!--选择国家标码  美国-->
+    <locator type="ID" timeOut="3" value="">ChooseUSACodeBtn</locator>
+    <!--微信登录-->
+    <locator type="ID" timeOut="3" value="login_button">WebChatLoginBtn</locator>
+
+</map>

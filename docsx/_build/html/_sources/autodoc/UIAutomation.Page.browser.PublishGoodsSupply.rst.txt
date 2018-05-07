@@ -1,0 +1,20 @@
+UIAutomation.Page.browser.PublishGoodsSupply package
+====================================================
+
+.. automodule:: UIAutomation.Page.browser.PublishGoodsSupply
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.browser.PublishGoodsSupply.GoodsSupplyPage module
+-------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.browser.PublishGoodsSupply.GoodsSupplyPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<map>
+     <!-- Author: yue-->
+     <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/rv_orders_all']/android.widget.FrameLayout[6]">select_SyncCloseCard</locator>
+    <!--&lt;!&ndash;进入同步页面后点击开启同步该店库存&ndash;&gt;-->
+    <!--进入同步页面后点击开启同步该店库存<locator type="ID" timeOut="3" value="btn_open">syncOpenBtn</locator>-->
+</map>

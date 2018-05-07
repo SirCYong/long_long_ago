@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map>
+
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="去导入">goImport</locator>
+</map>

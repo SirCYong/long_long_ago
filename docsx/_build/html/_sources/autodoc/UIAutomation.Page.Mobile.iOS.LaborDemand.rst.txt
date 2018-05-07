@@ -1,0 +1,43 @@
+UIAutomation.Page.Mobile.iOS.LaborDemand package
+================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.LaborDemand
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.Page.Mobile.iOS.LaborDemand.SelectAddress
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.LaborDemand.LaborDemandPage module
+---------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.LaborDemand.LaborDemandPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.LaborDemand.MagePage module
+--------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.LaborDemand.MagePage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.LaborDemand.SelectTime module
+----------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.LaborDemand.SelectTime
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

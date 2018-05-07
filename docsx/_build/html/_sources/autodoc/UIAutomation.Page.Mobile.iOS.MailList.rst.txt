@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.MailList package
+=============================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.MailList
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.MailList.MailListPage module
+---------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.MailList.MailListPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

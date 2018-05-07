@@ -1,0 +1,52 @@
+UIAutomation.Page.browser.web_page package
+==========================================
+
+.. automodule:: UIAutomation.Page.browser.web_page
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.browser.web_page.LoginPage module
+---------------------------------------------------
+
+.. automodule:: UIAutomation.Page.browser.web_page.LoginPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.browser.web_page.MainCard module
+--------------------------------------------------
+
+.. automodule:: UIAutomation.Page.browser.web_page.MainCard
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.browser.web_page.PerfectWarehousingContract module
+--------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.browser.web_page.PerfectWarehousingContract
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.browser.web_page.SelectTime module
+----------------------------------------------------
+
+.. automodule:: UIAutomation.Page.browser.web_page.SelectTime
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.browser.web_page.UploadFile module
+----------------------------------------------------
+
+.. automodule:: UIAutomation.Page.browser.web_page.UploadFile
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

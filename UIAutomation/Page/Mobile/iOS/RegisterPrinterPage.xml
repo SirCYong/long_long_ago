@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhuangyongli-->
+<map>
+
+    <locator type="id" timeOut="3" value="ipAddress">ip_address</locator>
+     <locator type="id" timeOut="3" value="port">port</locator>
+     <locator type="id" timeOut="3" value="location">location</locator>
+     <locator type="id" timeOut="3" value="typeToPrint">type_to_print</locator>
+    <locator type="id" timeOut="3" value="printerType">printer_type</locator>
+</map>
+
+

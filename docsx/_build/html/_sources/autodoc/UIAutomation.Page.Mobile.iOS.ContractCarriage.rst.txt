@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.ContractCarriage package
+=====================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.ContractCarriage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.ContractCarriage.ContractCarriagePage module
+-------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.ContractCarriage.ContractCarriagePage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

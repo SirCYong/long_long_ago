@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.Android.SignLaborContract package
+==========================================================
+
+.. automodule:: UIAutomation.Page.Mobile.Android.SignLaborContract
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.Android.SignLaborContract.SignLaborContractPage module
+-------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.SignLaborContract.SignLaborContractPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

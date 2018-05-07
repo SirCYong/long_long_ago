@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:xuwangchao-->
+<map>
+
+    <!--静态图标：左上角更多-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="nav more">more_button</locator>
+    <!--静态标题：任务-->
+    <!--<locator type="ID" timeOut="3" value="title_text">title_text</locator>-->
+    <!--静态图标：扫描-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="nav scanning">scan_logo</locator>
+
+    <!--静态图标：红色警告箭牌-->
+    <!--<locator type="ID" timeOut="3" value="total_task">warn_logo</locator>-->
+
+    <!--动态文字：影响水平-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[1]">level_text</locator>
+    <!--动态文字：权限变更详细-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[2]">change_detail</locator>
+
+
+    <!--动态文字：主动方名称-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[3]">giver_name</locator>
+    <!--动态文字：被动方名称-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[4]">receive_name</locator>
+
+    <!--动态文字：权限变更简略-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[5]">change_simple_text</locator>
+
+    <!--动态文字：时间-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[6]">time_text</locator>
+
+    <!--按钮：我知道了-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAButton[1]">know_button</locator>
+
+    <!--动态数字：页数-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAButton[2]">page_number_text</locator>
+</map>

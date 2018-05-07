@@ -1,0 +1,20 @@
+UIAutomation.TestCase.Keywords package
+======================================
+
+.. automodule:: UIAutomation.TestCase.Keywords
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.Keywords.EatToast module
+----------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.Keywords.EatToast
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

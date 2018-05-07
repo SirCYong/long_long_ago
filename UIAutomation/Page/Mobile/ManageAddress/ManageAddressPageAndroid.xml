@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!-- cy -->
+    <locator type ="ID" timeOut="3" value="com.iscs.mobilewcs:id/add_address_iv">addAddress</locator>
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/edit_text' and @text='地址别名']">addressNikeName</locator>
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/edit_text' and @text='联系人姓名']">name</locator>
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/edit_text' and @text='移动电话']">mobile</locator>
+    <locator type="ID" timeOut="3" value="com.iscs.mobilewcs:id/choose_address_tv">clickChoice</locator>
+    <locator type="ID" timeOut="3" value="com.iscs.mobilewcs:id/confirm_btn">save</locator>
+</map>

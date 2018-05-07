@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+     <!---->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="et_outer_box_code"> </locator>
+    <!-- -->
+    <locator type="ID" timeOut="3" value="et_bar_code"> </locator>
+    <!-- -->
+    <locator type="ID" timeOut="3" value="et_et_batch"> </locator>
+    <!-- -->
+    <locator type="ID" timeOut="3" value="et_goods_number"> </locator>
+    <!-- -->
+    <locator type="ID" timeOut="3" value="货物单位"> </locator>
+    <!-- -->
+    <locator type="ID" timeOut="3" value="打"> </locator>
+    <!-- -->
+    <locator type="ID" timeOut="3" value="件"> </locator>
+    <!-- -->
+    <locator type="ID" timeOut="3" value="对"> </locator>
+    <!-- -->
+    <locator type="ID" timeOut="3" value="盒"> </locator>
+    <!-- -->
+    <locator type="ID" timeOut="3" value="确定"> </locator>
+    <!-- -->
+    <locator type="ID" timeOut="3" value="次品"> </locator>
+    <!-- -->
+    <locator type="ID" timeOut="3" value="良品"> </locator>
+    <!-- -->
+    <locator type="ID" timeOut="3" value="请拍摄商品有效期照片"> </locator>
+    <!-- -->
+    <locator type="ID" timeOut="3" value="完成检查"> </locator>
+    <!-- -->
+    <locator type="ID" timeOut="3" value="检查下一个"> </locator>
+    <!-- -->
+    <locator type="ID" timeOut="3" value="PhotoCapture"> </locator>
+    <!-- -->
+    <locator type="ID" timeOut="3" value="使用照片"> </locator>
+</map>

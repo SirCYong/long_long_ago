@@ -1,0 +1,20 @@
+UIAutomation.TestCase.SIT.iOS.AllProcess package
+================================================
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.AllProcess
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.iOS.AllProcess.AllProcess module
+----------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.AllProcess.AllProcess
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

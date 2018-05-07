@@ -1,0 +1,60 @@
+UIAutomation.TestCase.SIT.iOS.Sprint1 package
+=============================================
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.iOS.Sprint1.SitActivationDepot module
+---------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint1.SitActivationDepot
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.iOS.Sprint1.SitActivationEntityShop module
+--------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint1.SitActivationEntityShop
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.iOS.Sprint1.SitSprint1Full001 module
+--------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint1.SitSprint1Full001
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.iOS.Sprint1.SitSprint1Full001SQL module
+-----------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint1.SitSprint1Full001SQL
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.iOS.Sprint1.one module
+------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint1.one
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.iOS.Sprint1.two module
+------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint1.two
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

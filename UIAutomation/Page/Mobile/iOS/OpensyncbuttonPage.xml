@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<map>
+    <!--每个页面对应每个xml,name list 只能传一个值-->
+     <!--#开启同步该店库存-->
+    <!-- Author: yue-->
+    <locator type="XPATH" timeOut="3"
+             value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAButton[1]">TrunOnClick_button</locator>
+
+</map>

@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.ManagementBusinessUnit package
+===========================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.ManagementBusinessUnit
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.ManagementBusinessUnit.ManagementBusinessUnit module
+---------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.ManagementBusinessUnit.ManagementBusinessUnit
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

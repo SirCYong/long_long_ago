@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--android:发布仓储供应-->
+    <!--行业-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/tv_industry'][contains(@text,'电商')]">Electricity</locator>
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/tv_industry'][contains(@text,'转运')]">Transshipment</locator>
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/tv_industry'][contains(@text,'非电商')]">Un_electricity</locator>
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/tv_industry'][contains(@text,'跨境')]">Cross_border</locator>
+    <!--选择起始时间-->
+    <locator type="ID" timeOut="3" value="tv_date">SelectStartDate</locator>
+    <!--星级-->
+    <locator type="XPATH" timeOut="3" value="//*[@class='android.widget.ImageView'][contains(@index,4)]">level</locator>
+    <!--吞吐量(件/日)-->
+    <locator type="ID" timeOut="3" value="et_throughput">Throughput</locator>
+    <!--价格(元/件)-->
+    <locator type="ID" timeOut="3" value="et_perpiece">Price</locator>
+    <!--面积(平方米/日)-->
+    <locator type="ID" timeOut="3" value="et_area">Area</locator>
+    <!--价格(元/平方米)-->
+    <locator type="ID" timeOut="3" value="et_perSquare">PriceSquareMeters</locator>
+    <!--立即发布-->
+    <locator type="ID" timeOut="3" value="btn_publish">next_step</locator>
+</map>

@@ -1,0 +1,13 @@
+site_name: UIAutomation
+site_description: Browser, iOS and Android UI automation project for Iscs warehouse product No.3.
+site_author: IscsUIAutomation
+repo_url: https://github.com/yongli.zhuang/IscsUIAutomation
+
+theme: readthedocs
+
+pages:
+- Home: index.md
+- About:
+  - Release Notes: about/changelog.md
+  - Contributing: about/contributing.md
+  - License: about/license.md

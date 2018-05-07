@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.PublishGoodsSupply package
+===================================================
+
+.. automodule:: UIAutomation.Page.Mobile.PublishGoodsSupply
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.PublishGoodsSupply.PublishGoodsSupplyPage module
+-------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.PublishGoodsSupply.PublishGoodsSupplyPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

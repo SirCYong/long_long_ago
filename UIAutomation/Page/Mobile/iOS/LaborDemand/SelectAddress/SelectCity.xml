@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="杭州市">Provinces_city</locator>
+    <!--<locator type="ACCESSIBILITY_ID" timeOut="3" value="西湖区">Provinces_cities_area</locator>-->
+    <!--&lt;!&ndash;区&ndash;&gt;-->
+    <!--<locator type="ACCESSIBILITY_ID" timeOut="3" value="西湖区">Provinces_cities_area</locator>-->
+</map>

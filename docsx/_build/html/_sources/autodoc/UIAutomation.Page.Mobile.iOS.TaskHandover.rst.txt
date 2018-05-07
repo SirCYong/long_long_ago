@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.TaskHandover package
+=================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.TaskHandover
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.TaskHandover.TaskHandoverPage module
+-----------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.TaskHandover.TaskHandoverPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

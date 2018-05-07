@@ -1,0 +1,28 @@
+UIAutomation.TestCase.SIT.Mobile.BillList package
+=================================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.BillList
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.Mobile.BillList.BillList_sql module
+-------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.BillList.BillList_sql
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Mobile.BillList.BillList_test module
+--------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.BillList.BillList_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

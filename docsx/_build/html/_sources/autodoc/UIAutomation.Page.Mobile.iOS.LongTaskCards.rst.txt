@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.LongTaskCards package
+==================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.LongTaskCards
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.LongTaskCards.LongTaskCardPage module
+------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.LongTaskCards.LongTaskCardPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

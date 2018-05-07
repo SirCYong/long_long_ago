@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:liyu-->
+<!--锁定账号-->
+<map>
+    <!--要锁定的手机号码/身份证号码-->
+    <locator type="ID" timeOut="3" value="edit_text">lockAccount_code</locator>
+    <!--下一步-->
+    <locator type="ID" timeOut="3" value="next_bt">next_lock</locator>
+    <!--锁定原因-->
+    <locator type="ID" timeOut="3" value="edit_text">lock_reason</locator>
+    <!--确定锁定-->
+    <locator type="ID" timeOut="3" value="sure_un_lock_bt">determine_lock</locator>
+    <!--锁定成功确定按钮-->
+    <locator type="ID" timeOut="3" value="button1">confirm</locator>
+
+
+    <!--要解锁的手机号码/身份证号码-->
+    <locator type="ID" timeOut="3" value="edit_text">unlockAccount_code</locator>
+    <!--下一步-->
+    <locator type="ID" timeOut="3" value="next_bt">next_unlock</locator>
+    <!--解锁原因-->
+    <locator type="ID" timeOut="3" value="edit_text">unlock_reason</locator>
+    <!--确定解锁-->
+    <locator type="ID" timeOut="3" value="sure_un_lock_bt">determine_unlock</locator>
+    <!--解锁成功确认按钮-->
+    <locator type="ID" timeOut="3" value="button1">unconfirm</locator>
+
+</map>

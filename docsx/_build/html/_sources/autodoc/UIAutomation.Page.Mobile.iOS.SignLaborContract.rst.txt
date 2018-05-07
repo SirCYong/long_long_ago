@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.SignLaborContract package
+======================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.SignLaborContract
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.SignLaborContract.SignLaborContractPage module
+---------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.SignLaborContract.SignLaborContractPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

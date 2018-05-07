@@ -1,0 +1,28 @@
+UIAutomation.Page.Mobile.Android.SelectLogisticsBrand package
+=============================================================
+
+.. automodule:: UIAutomation.Page.Mobile.Android.SelectLogisticsBrand
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.Android.SelectLogisticsBrand.LogisticsBrandPage module
+-------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.SelectLogisticsBrand.LogisticsBrandPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.Android.SelectLogisticsBrand.SelectXpressMainPage module
+---------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.SelectLogisticsBrand.SelectXpressMainPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.Sprint3Page.Picking package
+========================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.Sprint3Page.Picking
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.Sprint3Page.Picking.PickingPage module
+-------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.Sprint3Page.Picking.PickingPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--签订契约服务页面 同意-->
+    <locator type="ID" timeOut="3" value="btn_agree">conclude_contract</locator>
+</map>

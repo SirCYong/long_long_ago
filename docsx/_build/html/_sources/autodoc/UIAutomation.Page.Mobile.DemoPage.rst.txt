@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.DemoPage package
+=========================================
+
+.. automodule:: UIAutomation.Page.Mobile.DemoPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.DemoPage.LoginPage module
+--------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.DemoPage.LoginPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

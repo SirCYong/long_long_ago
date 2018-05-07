@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!-- cy -->
+    <locator type ="ID" timeOut="3" value="active_entry_map_title">mapFirst</locator>>
+</map>

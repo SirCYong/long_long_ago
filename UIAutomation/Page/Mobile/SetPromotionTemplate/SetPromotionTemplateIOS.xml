@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--设置促销模板 yuetianzhuang-->
+<map>
+    <!--设置促销模板-->
+    <locator type="ID" timeOut="3" value="设置促销模板">set_promotion_template</locator>
+    <!--模板名称-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]">template_name</locator>
+    <!--供方单位-->
+    <locator type="ID" timeOut="3" value="供方单位">supplier_unit</locator>
+    <!--供方单位  其中的一个-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[3]">supplier_unit_one</locator>
+    <!--需方单位-->
+    <locator type="ID" timeOut="3" value="需方单位">needs_unit</locator>
+    <!--需芳单位 其中的一个(雀巢速溶)-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[6]/UIAStaticText[1]
+">needs_unit_one</locator>
+    <!--服务类型-->
+    <locator type="ID" timeOut="3" value="服务类型">service_type</locator>
+    <locator type="ID" timeOut="3" value="促销劳务服务">promotions_service</locator>
+    <locator type="ID" timeOut="3" value="促销仓储服务">promotions_warehousing</locator>
+    <locator type="ID" timeOut="3" value="促销运输服务">promotions_trans</locator>
+    <locator type="ID" timeOut="3" value="促销供货服务">promotions_availability</locator>
+    <!--促销类型-->
+    <locator type="ID" timeOut="3" value="促销类型">promotion_type</locator>
+    <locator type="ID" timeOut="3" value="满总金额减总金额">total_amount</locator>
+    <locator type="ID" timeOut="3" value="满总金额总价折扣">total_amount_Discount</locator>
+    <locator type="ID" timeOut="3" value="满总数量减总金额">total_amount_minus</locator>
+    <locator type="ID" timeOut="3" value="满总数量总价折扣">total_quantity_discount</locator>
+    <locator type="ID" timeOut="3" value="单品满送单排数量">single_product_delivery</locator>
+    <locator type="ID" timeOut="3" value="拣选满数量总价折扣">packing_total_amount</locator>
+    <locator type="ID" timeOut="3" value="运输满数量总价折扣">trans_total_amount</locator>
+    <locator type="ID" timeOut="3" value="吞吐量满数量总价折扣">throughput_total_amount</locator>
+    <!--促销时间-->
+    <locator type="ID" timeOut="3" value="促销时间">promotion_date</locator>
+    <!--可叠加模板-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIASwitch[1]">superposition_template</locator>
+    <!--模板说明-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextView[2]">template_desc</locator>
+    <!--下一步-->
+    <locator type="ID" timeOut="3" value="下一步">next_stepBtn</locator>
+    <!--满足金额-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]">full_money</locator>
+    <!--减免金额-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[2]">minus_money</locator>
+    <!--核算周期：日-->
+    <locator type="ID" timeOut="3" value="日">picking_hs_day</locator>
+    <!--核算周期：周-->
+    <locator type="ID" timeOut="3" value="周">picking_hs_week</locator>
+    <!--核算周期：月-->
+    <locator type="ID" timeOut="3" value="月">picking_hs_month</locator>
+    <!--核算周期：年-->
+    <locator type="ID" timeOut="3" value="年">picking_hs_year</locator>
+    <!--拣选满数量总价折扣 满足数量-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]">picking_satisfy_amount</locator>
+    <!--拣选满数量总价折扣 奖励幅度-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[2]">picking_reward</locator>
+    <!--小键盘完成按钮-->
+    <locator type="ID" timeOut="3" value="完成">s_completeBtn</locator>
+    <!--键盘通用完成按钮-->
+    <locator type="ID" timeOut="3" value="完成">completeBtn</locator>
+    <!--确认-->
+    <locator type="ID" timeOut="3" value="确定">confirm</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[2]/UIAToolbar[1]/UIAButton[1]">turn_complete</locator>
+</map>

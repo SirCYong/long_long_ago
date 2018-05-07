@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--选择服务范围-->
+    <!--管仓库-->
+    <locator type="ID" timeOut="3" value="tv_name">ManageWarehouse</locator>
+    <!--卖货
+    <locator type="ID" timeOut="3" value="//android.support.v7.widget.RecyclerView/android.widget.FrameLayout[2]">Sellprods</locator>
+    <!-<locator type="ID" timeOut="3" value="//android.support.v7.widget.RecyclerView/android.widget.FrameLayout[3]">ManageLabor</locator>-->
+    <!--&lt;!&ndash;运货&ndash;&gt;-->
+    <!--<locator type="ID" timeOut="3" value="//android.support.v7.widget.RecyclerView/android.widget.FrameLayout[4]">Freight</locator>-->
+    <!--&lt;!&ndash;搞生产&ndash;&gt;-->
+    <!--<locator type="ID" timeOut="3" value="//android.support.v7.widget.RecyclerView/android.widget.FrameLayout[5]">MakeProduction</locator>-->
+    <!--去交纳保证金-->
+    <locator type="ID" timeOut="3" value="btn_payment']">Paydeposit</locator>
+
+</map>

@@ -1,0 +1,36 @@
+UIAutomation.Page.Mobile.ActivationDepot package
+================================================
+
+.. automodule:: UIAutomation.Page.Mobile.ActivationDepot
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.ActivationDepot.ActivationDepotPage module
+-------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.ActivationDepot.ActivationDepotPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.ActivationDepot.DepotMapPage module
+------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.ActivationDepot.DepotMapPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.ActivationDepot.SuccessfulActivationPage module
+------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.ActivationDepot.SuccessfulActivationPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

@@ -1,0 +1,18 @@
+UIAutomation.TestCase.SIT package
+=================================
+
+.. automodule:: UIAutomation.TestCase.SIT
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.TestCase.SIT.Android
+    UIAutomation.TestCase.SIT.Mobile
+    UIAutomation.TestCase.SIT.Web
+    UIAutomation.TestCase.SIT.iOS
+

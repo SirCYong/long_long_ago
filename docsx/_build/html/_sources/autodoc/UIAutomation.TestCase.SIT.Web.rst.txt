@@ -1,0 +1,19 @@
+UIAutomation.TestCase.SIT.Web package
+=====================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Web
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.TestCase.SIT.Web.Keywords
+    UIAutomation.TestCase.SIT.Web.SmokeTesting
+    UIAutomation.TestCase.SIT.Web.Sprint2
+    UIAutomation.TestCase.SIT.Web.Sprint4
+    UIAutomation.TestCase.SIT.Web.Sprint6
+

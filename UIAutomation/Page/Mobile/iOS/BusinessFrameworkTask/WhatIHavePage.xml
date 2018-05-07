@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="我有什么">whatIHave</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="网上零售店">onlineRetail</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="自建运输">myselfTransportation</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="车">car</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="自有员工">myselfStaff</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="货品">goods</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="实体零售店">entityRetail</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="原料/零部件工厂">materialFactory</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="运输供应商">transportSupplier</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="仓库">depot</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="劳务供应商">serviceProvider</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="成品工厂">finishedFactory</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="仓储设备">storageEquipment</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="网上批发店">onlineShop</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="实体批发店">entityShop</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确定">confirmButton</locator>
+</map>

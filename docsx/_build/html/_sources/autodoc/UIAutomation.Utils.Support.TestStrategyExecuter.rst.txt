@@ -1,0 +1,35 @@
+UIAutomation.Utils.Support.TestStrategyExecuter package
+=======================================================
+
+.. automodule:: UIAutomation.Utils.Support.TestStrategyExecuter
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.Utils.Support.TestStrategyExecuter.ConfigXML
+
+Submodules
+----------
+
+UIAutomation.Utils.Support.TestStrategyExecuter.Jober module
+------------------------------------------------------------
+
+.. automodule:: UIAutomation.Utils.Support.TestStrategyExecuter.Jober
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.Support.TestStrategyExecuter.TestStrategyHandler module
+--------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Utils.Support.TestStrategyExecuter.TestStrategyHandler
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

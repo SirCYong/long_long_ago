@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <!--登录-->
+    <locator type="ID" timeOut="3" value="btn_login">login_button</locator>
+    <!--账号输入框-->
+    <locator type="ID" timeOut="3" value="et_login_id">userName_input</locator>
+     <!--密码输入框-->
+    <locator type="ID" timeOut="3" value="et_login_pwd">pwd_input</locator>
+    <!--微信登录-->
+    <locator type="ID" timeOut="3" value="btn_login_wechat">weiChat_login</locator>
+    <!--前往微信界面-->
+    <locator type="ID" timeOut="3" value="tv_gotoWX">go_weichat</locator>
+</map>

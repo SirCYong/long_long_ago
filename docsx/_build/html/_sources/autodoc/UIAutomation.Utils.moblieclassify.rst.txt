@@ -1,0 +1,28 @@
+UIAutomation.Utils.moblieclassify package
+=========================================
+
+.. automodule:: UIAutomation.Utils.moblieclassify
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Utils.moblieclassify.OPPO_Mobile module
+----------------------------------------------------
+
+.. automodule:: UIAutomation.Utils.moblieclassify.OPPO_Mobile
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.moblieclassify.SamSung_Mobile module
+-------------------------------------------------------
+
+.. automodule:: UIAutomation.Utils.moblieclassify.SamSung_Mobile
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

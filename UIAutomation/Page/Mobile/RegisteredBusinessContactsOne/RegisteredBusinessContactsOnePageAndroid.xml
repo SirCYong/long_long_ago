@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:xuwangchao-->
+<map>
+
+    <!--公司名称-->
+    <locator type="XPATH" timeOut="3" value="//*[@text='公司名称(*必填)']">business_name</locator>
+
+    <!--所在地址（*必填）-->
+    <locator type="XPATH" timeOut="3" value="//*[@text='所在地址(*必填)']">location_warn_text</locator>
+    <!--请选择地区-->
+    <locator type="XPATH" timeOut="3" value="//*[@text='请选择地区']">choose_location</locator>
+    <!--详细地址(*必填)-->
+    <locator type="XPATH" timeOut="3" value="//*[@text='详细地址(*必填)']">location_edit_text</locator>
+    <!--新加坡科技园2号楼-->
+    <locator type="XPATH" timeOut="3" value="//*[@text='新加坡科技园2号楼']">location_text_first</locator>
+
+
+    <!--对接人-->
+    <locator type="XPATH" timeOut="3" value="//*[@text='对接人(*必填)']">duijieren</locator>
+    <!--联系人-->
+    <locator type="XPATH" timeOut="3" value="//*[@text='联系人(*必填)']">lianxiren</locator>
+    <!--联系人手机号-->
+    <locator type="XPATH" timeOut="3" value="//*[@text='联系人手机号(*必填)']">lianxiren_mobile</locator>
+    <!--接单人-->
+    <locator type="XPATH" timeOut="3" value="//*[@text='接单人']">jiedanren</locator>
+    <!--对账人-->
+    <locator type="XPATH" timeOut="3" value="//*[@text='对账人']">duizhangren</locator>
+    <!--下一步-->
+    <locator type="XPATH" timeOut="3" value="//*[@text='下一步']">next_button</locator>
+</map>

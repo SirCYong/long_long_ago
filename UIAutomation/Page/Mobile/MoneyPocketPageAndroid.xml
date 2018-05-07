@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+
+    <!--动态数字:账单数量-->
+    <locator type= "ID" timeOut="3" value="wallet_uncheckout_count">wallet_uncheckout_count</locator>
+    <!--静态文字:份-->
+    <locator type= "XPATH" timeOut="3" value="//*[@text='份']">wallet_uncheckout_count_text</locator>
+
+
+    <!--静态文字:现存预付款-->
+    <locator type= "XPATH" timeOut="3" value="//*[@text='现存预付款']">wallet_left_advance_text</locator>
+    <!--动态数字:现存预付款-->
+    <locator type= "ID" timeOut="3" value="wallet_left_advance">wallet_left_advance</locator>
+
+    <!--静态文字:现存保证金-->
+    <locator type= "XPATH" timeOut="3" value="//*[@text='现存保证金']">wallet_left_deposit_text</locator>
+    <!--动态数字:现存保证金-->
+    <locator type= "ID" timeOut="3" value="wallet_left_deposit">wallet_left_deposit</locator>
+
+
+</map>

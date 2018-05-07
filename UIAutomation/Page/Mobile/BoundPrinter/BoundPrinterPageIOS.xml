@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <!--去绑定-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="去绑定">to_bound_button</locator>
+    <!--返回-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="icon back">back</locator>
+    <!--条码文本框-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]">code_text_box</locator>
+    <!--完成-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="完成">complete_button</locator>
+    <!--绑定按钮-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="绑定">bound_button</locator>
+    <!--补打快递单-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="补打快递单">re_print_express_button</locator>
+</map>

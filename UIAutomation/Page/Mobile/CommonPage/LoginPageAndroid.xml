@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:liyu-->
+<map>
+    <!--登录-->
+    <locator type="ID" timeOut="3" value="btn_login">login_button</locator>
+    <!--账号输入框-->
+    <locator type="ID" timeOut="3" value="et_login_id">user_name</locator>
+     <!--密码输入框-->
+    <locator type="ID" timeOut="3" value="et_login_pwd">password</locator>
+    <!--微信登录-->
+    <locator type="ID" timeOut="3" value="btn_login_wechat">weiChat_login</locator>
+    <!--前往微信界面-->
+    <locator type="ID" timeOut="3" value="tv_gotoWX">go_weichat</locator>
+    <!--登录后的主界面的圆圈控件-->
+    <locator type="ID" timeOut="3" value="circle_progress_view">circle_progress_view</locator>
+    <!--登录后的主界面的长期任务-->
+    <locator type="ID" timeOut="3" value="suishi_type_card">long_task</locator>
+    <!--登录后的主界面左上角...按钮-->
+    <locator type="ID" timeOut="3" value="more_bt">more_button</locator>
+    <!--登录后的主界面左上角个人资料按钮-->
+    <locator type="CLASS_NAME" timeOut="3" value="android.widget.RelativeLayout">personal_button</locator>
+    <!--个人资料页面的注销按钮-->
+    <locator type="ID" timeOut="3" value="zhuxiao_bt">logout_button</locator>
+    <!--当登录App时被顶下来的提示请登录界面确定按钮-->
+    <locator type="ID" timeOut="3" value="button1">login_alert_confirm</locator>
+</map>

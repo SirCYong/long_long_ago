@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <capacityReport>
+        <locator type="ID" timeOut="3" value="com.iscs.mobilewcs:id/customerConfirmationButton">confirmButton</locator>    <!--确认按钮？(title)-->
+        <locator type="XPATH" timeOut="3" value="//*[rescoure-id=com.iscs.mobilewcs:id/tv_supplier]
+        /android.widget.FrameLayout[4]">fourButton</locator>    <!--确认按钮？(title)-->
+    </capacityReport>
+</map>

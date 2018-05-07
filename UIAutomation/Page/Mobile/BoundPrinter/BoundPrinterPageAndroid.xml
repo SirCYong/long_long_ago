@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <!--去绑定-->
+    <locator type="ID" timeOut="3" value="button1">to_bound_button</locator>
+    <!--条码文本框-->
+    <locator type="ID" timeOut="3" value="edit_text">code_text_box</locator>
+    <!--绑定按钮-->
+    <locator type="ID" timeOut="3" value="btn_dozen">bound_button</locator>
+    <!--补打快递单按钮-->
+    <locator type="ID" timeOut="3" value="btn_dozen">re_print_express_button</locator>
+</map>

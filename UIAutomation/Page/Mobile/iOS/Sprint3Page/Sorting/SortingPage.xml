@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--分拣任务主页面-->
+    <!--请扫描-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="请扫描...">please_scan</locator>
+    <!--起始位置-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="起始位置">starting_position</locator>
+    <!--目标位置-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="目标位置">target_position</locator>
+    <!--完成-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="完成">complete_button</locator>
+</map>

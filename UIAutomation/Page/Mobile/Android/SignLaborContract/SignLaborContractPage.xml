@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhoujin-->
+<map>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="拣选">la_card_picking</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="上架">la_card_shelve</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="交接">la_card_transfer</locator>
+    <!--包装-->
+    <locator type="ID" timeOut="3" value="rl_show_home">la_card_packing</locator>
+    <!--确认报名-->
+    <locator type="ID" timeOut="3" value="button1">enter_me</locator>
+    <!--第一个卡片的类型-->
+    <locator type="ID" timeOut="3" value="tv_query_all_contract_name">la_type</locator>
+    <!--第一个卡片的数量-->
+    <locator type="ID" timeOut="3" value="tv_contract_number">la_no</locator>
+    <!--第一个卡片的计量单位-->
+    <locator type="ID" timeOut="3" value="tv_contract_units">la_unit</locator>
+    <!--第一个卡片的开始时间-->
+    <locator type="ID" timeOut="3" value="tv_start_time">la_start_time</locator>
+    <!--第一个卡片的结束时间-->
+    <locator type="ID" timeOut="3" value="tv_end_time">la_end_time</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="位置">position</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="报名参加">enter_for</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIASlider[1]">la_line</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAStaticText[19]">la_line_num</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="返回">return_map</locator>
+    <locator type="ID" timeOut="3" value="msg_text">msg_text</locator>
+</map>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="btn yes">pass</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="btn no">reject</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="icon msg">error_prompt_icon</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="该号码与记录不一致">tip</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="不是他">not_him</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="姓名不符">name_error</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="照片不符">photo_error</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="取消">cancel</locator>  # 取消
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="审核通过">audit_pass</locator>  # 审核通过
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="是TA">ta</locator>  # 是TA
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="错误! 还可以选1次">only_one</locator>  # 错误! 还可以选1次
+</map>

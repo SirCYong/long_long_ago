@@ -1,0 +1,36 @@
+UIAutomation.TestCase.SIT.Web.Sprint6 package
+=============================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Web.Sprint6
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.Web.Sprint6.FunImportINventorySQL module
+------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Web.Sprint6.FunImportINventorySQL
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Web.Sprint6.PerfectWarehousingContract module
+-----------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Web.Sprint6.PerfectWarehousingContract
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Web.Sprint6.PerfectWarehousingContractSQL module
+--------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Web.Sprint6.PerfectWarehousingContractSQL
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

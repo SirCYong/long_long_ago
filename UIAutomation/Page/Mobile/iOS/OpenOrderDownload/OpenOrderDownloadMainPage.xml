@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--  -->
+    <!--artka官方旗舰店-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[1]">store_name</locator>
+    <!--年-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAPicker[1]/UIAPickerWheel[1]">year</locator>
+    <!--月-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAPicker[1]/UIAPickerWheel[2]">month</locator>
+    <!--日-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAPicker[1]/UIAPickerWheel[3]">day</locator>
+    <!--开启下载-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAButton[1]">open_download</locator>
+    <!--下载以下日期以后的订单-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="下载以下日期以后的订单">downlod_order_by_date</locator>
+    <!--确定-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAAlert[1]/UIACollectionView[1]/UIACollectionCell[2]/UIAButton[1]">determine</locator>
+    <!--返回-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="icon back">return</locator>
+
+</map>

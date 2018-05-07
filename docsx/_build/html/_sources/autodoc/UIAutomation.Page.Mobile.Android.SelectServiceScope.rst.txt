@@ -1,0 +1,28 @@
+UIAutomation.Page.Mobile.Android.SelectServiceScope package
+===========================================================
+
+.. automodule:: UIAutomation.Page.Mobile.Android.SelectServiceScope
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.Android.SelectServiceScope.ChoosePayPage module
+------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.SelectServiceScope.ChoosePayPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.Android.SelectServiceScope.SelectServiceScope module
+-----------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.SelectServiceScope.SelectServiceScope
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

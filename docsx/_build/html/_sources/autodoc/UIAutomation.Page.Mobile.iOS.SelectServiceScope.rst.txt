@@ -1,0 +1,28 @@
+UIAutomation.Page.Mobile.iOS.SelectServiceScope package
+=======================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.SelectServiceScope
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.SelectServiceScope.ChoosePayPage module
+--------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.SelectServiceScope.ChoosePayPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.SelectServiceScope.SelectServiceScope module
+-------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.SelectServiceScope.SelectServiceScope
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

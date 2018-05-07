@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--主卡片-->
+    <!--发布运输供应-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div/ul/div[2]/div/li[12]">AddButton</locator>
+    <locator type="XPATH" timeOut="3" value="">activationCommodity</locator>
+    <!--完善运输契约-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div/ul/div[2]/div/li[10]">TransportContract</locator>
+     <!--完善仓储契约-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div/ul/div[2]/div/li[6]/p">perfect_warehousing_contract</locator>
+    <!--导入库位库存-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div/ul/div[2]/div/li[8]">ImportInventory</locator>
+</map>

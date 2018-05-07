@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIASearchBar[1]">search</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="分配">assign</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="邀请并分配">invite_and_assign</locator>
+</map>

@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.Sprint3Page.Sorting package
+========================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.Sprint3Page.Sorting
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.Sprint3Page.Sorting.SortingPage module
+-------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.Sprint3Page.Sorting.SortingPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

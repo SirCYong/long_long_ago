@@ -1,0 +1,28 @@
+UIAutomation.TestCase.SIT.Mobile.PermissionRecovery package
+===========================================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.PermissionRecovery
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.Mobile.PermissionRecovery.PermissionRecoverySQL module
+--------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.PermissionRecovery.PermissionRecoverySQL
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Mobile.PermissionRecovery.PermissionRecovery_test module
+----------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.PermissionRecovery.PermissionRecovery_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

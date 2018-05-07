@@ -1,0 +1,44 @@
+UIAutomation.TestCase.SIT.iOS.Sprint6 package
+=============================================
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint6
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.iOS.Sprint6.Fun001StorageInventory_test module
+------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint6.Fun001StorageInventory_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.iOS.Sprint6.Fun004StoragePoint_test module
+--------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint6.Fun004StoragePoint_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.iOS.Sprint6.FunPurchaseOrderSmoke_test module
+-----------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint6.FunPurchaseOrderSmoke_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.iOS.Sprint6.FunUpDeliveryOrderSmoke_test module
+-------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.iOS.Sprint6.FunUpDeliveryOrderSmoke_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

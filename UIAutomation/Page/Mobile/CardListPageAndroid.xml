@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <!--选择快递品牌-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/rv_orders_all']/android.widget.FrameLayout[2]/android.widget.LinearLayout">select_logistics_brand</locator>
+    <!--修改收货信息-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/rv_orders_all']/android.widget.FrameLayout/android.widget.LinearLayout">modify_receipt_information</locator>
+   <!--开启订单下载-->
+    <locator type="ID" timeOut="3" value="com.iscs.mobilewcs:id/ll_item">open_order_download</locator>
+   <!--关闭订单下载-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/rv_orders_all']/android.widget.FrameLayout[4]/android.widget.LinearLayout">close_order_download</locator>
+    <!--开启库存同步-->
+     <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/rv_orders_all']/android.widget.FrameLayout[5]">OpenSyncCardBtn</locator>
+    <!--关闭库存同步-->
+      <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/rv_orders_all']/android.widget.FrameLayout[6]">select_logistics_brand</locator>
+    <!--xx个长期任务-->
+     <locator type="ID" timeOut="3" value="suishi_type_card">long_task</locator>
+     <!--生成账单-->
+    <locator type= "XPATH" timeOut="3" value="//*[@text='生成账单']">generate_bill</locator>
+    <!--生成找劳务需求的任务-->
+    <locator type= "XPATH" timeOut="3" value="//*[@resource-id = 'com.tencent.mobileqq:id/txt' and @text = '生成找劳务需求的任务']">generate_labor_demand</locator>
+    <!--左上角更多按钮-->
+    <locator type= "ID" timeOut="3" value="more_bt">more_button</locator>
+
+
+
+</map>

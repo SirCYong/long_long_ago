@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--发布劳务需求的任务-->
+    <!--请选择-->
+    <locator type="ID" timeOut="3" value="tv_work_type">Please_select</locator>
+    <!--工种-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="拣选">Picking</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="包装">Packaging</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="移动">move</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="交接">Handover</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="入库交接">Warehousing_transition</locator>
+    <locator type="ID" timeOut="3" value="role_item_rel">unload</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="点数">point</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="上架">Shelves</locator>
+    <!--确定-->
+    <locator type="ID" timeOut="3" value="rel3">confirm</locator>
+    <!--人数-->
+    <locator type="ID" timeOut="3" value="btn_cut">icon_cut</locator>
+    <locator type="ID" timeOut="3" value="et_num">input</locator>
+    <locator type="ID" timeOut="3" value="btn_add">icon_add</locator>
+    <!--班次-->
+    <locator type="ID" timeOut="3" value="rb_day">DayShift</locator>
+    <locator type="ID" timeOut="3" value="rb_night">Night</locator>
+    <!--日期-->
+    <locator type="ID" timeOut="3" value="fl_select_date">SelectDate</locator>
+    <!--确定-->
+    <locator type="ID" timeOut="3" value="btn_complete">complete</locator>
+    <!--地点-->
+    <locator type="ID" timeOut="3" value="fl_select_add">SelectAddress</locator>
+    <!--省份-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/tv_address_name'][contains(@text,'浙江省')]">Province</locator>
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/tv_address_name'][contains(@text,'杭州市')]">Provinces_city</locator>
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/tv_address_name'][contains(@text,'西湖区')]">Provinces_cities_area</locator>
+    <!--浙江省 杭州市 西湖区-->
+    <locator type="ID" timeOut="3" value="fl_select_add">Location</locator>
+    <!--计价方式-->
+    <!--按时(元/小时)-->
+    <locator type="ID" timeOut="3" value="et_price_time">Yuan_time</locator>
+    <!--按件(元/件)-->
+    <locator type="ID" timeOut="3" value="et_price_piece">Yuan_piece</locator>
+    <!--立即发布-->
+    <locator type="ID" timeOut="3" value="btn_publish_rightnow">Immediately_release</locator>
+</map>

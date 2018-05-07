@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--# 激活实体店(PC端)
+#  Cy
+-->
+
+<map>
+    <locator type="XPATH" timeOut="3" value="//p[contains(text(),'导入历史采购单')]">clickActivationEntityShop</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div/div[1]/div[1]/a/input">inputFile</locator>
+</map>

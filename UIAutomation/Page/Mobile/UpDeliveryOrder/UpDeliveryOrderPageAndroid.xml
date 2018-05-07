@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--上传送货单 -->
+<map>
+    <!--供方-->
+    <locator type="ID" timeOut="3" value="rl_supplier">supplier</locator>
+    <!--需方-->
+    <locator type="ID" timeOut="3" value="rl_need">needs</locator>
+    <!--发货单号-->
+    <locator type="ID" timeOut="3" value="et_invoicenumber">invoice_number</locator>
+    <!--到货仓库-->
+    <locator type="XPATH" timeOut="3" value="arrival_warehouse">destination</locator>
+    <!-- 选择发货日期 -->
+    <locator type="ID" timeOut="3" value="delivery_date">ship_date</locator>
+    <!--确定按钮-->
+    <locator type="ID" timeOut="3" value="btn_confirm">confirm</locator>
+    <!--确定时间按钮-->
+    <locator type="ID" timeOut="3" value="btn_complete">confirm_time</locator>
+    <!--PC端导入-->
+    <locator type="ID" timeOut="3" value="btn_import">upload_file</locator>
+</map>

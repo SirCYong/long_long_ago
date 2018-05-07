@@ -1,0 +1,60 @@
+UIAutomation.TestCase.SIT.Mobile package
+========================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.TestCase.SIT.Mobile.BillList
+    UIAutomation.TestCase.SIT.Mobile.Login
+    UIAutomation.TestCase.SIT.Mobile.ManagementBusinessUnit
+    UIAutomation.TestCase.SIT.Mobile.PermissionRecovery
+    UIAutomation.TestCase.SIT.Mobile.PublishLabour
+    UIAutomation.TestCase.SIT.Mobile.PublishSupply
+    UIAutomation.TestCase.SIT.Mobile.RollsHomework
+    UIAutomation.TestCase.SIT.Mobile.SignContractCarriage
+    UIAutomation.TestCase.SIT.Mobile.Sprint9
+    UIAutomation.TestCase.SIT.Mobile.VerifyRisk
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.Mobile.FunLogin_sql module
+----------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.FunLogin_sql
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Mobile.FunLogin_test module
+-----------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.FunLogin_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Mobile.FunSmoke019SQL module
+------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.FunSmoke019SQL
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Mobile.FunSmoke019_test module
+--------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.FunSmoke019_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

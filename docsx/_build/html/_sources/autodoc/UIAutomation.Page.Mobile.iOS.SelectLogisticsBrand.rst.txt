@@ -1,0 +1,28 @@
+UIAutomation.Page.Mobile.iOS.SelectLogisticsBrand package
+=========================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.SelectLogisticsBrand
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.SelectLogisticsBrand.LogisticsBrandPage module
+---------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.SelectLogisticsBrand.LogisticsBrandPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.SelectLogisticsBrand.SelectXpressMainPage module
+-----------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.SelectLogisticsBrand.SelectXpressMainPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

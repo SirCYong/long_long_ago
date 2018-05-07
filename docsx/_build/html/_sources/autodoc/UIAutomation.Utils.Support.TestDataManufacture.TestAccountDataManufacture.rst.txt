@@ -1,0 +1,52 @@
+UIAutomation.Utils.Support.TestDataManufacture.TestAccountDataManufacture package
+=================================================================================
+
+.. automodule:: UIAutomation.Utils.Support.TestDataManufacture.TestAccountDataManufacture
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Utils.Support.TestDataManufacture.TestAccountDataManufacture.BaseTestAccount module
+------------------------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Utils.Support.TestDataManufacture.TestAccountDataManufacture.BaseTestAccount
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.Support.TestDataManufacture.TestAccountDataManufacture.RestoreHandler module
+-----------------------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Utils.Support.TestDataManufacture.TestAccountDataManufacture.RestoreHandler
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.Support.TestDataManufacture.TestAccountDataManufacture.TestAccountID module
+----------------------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Utils.Support.TestDataManufacture.TestAccountDataManufacture.TestAccountID
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.Support.TestDataManufacture.TestAccountDataManufacture.TestUser module
+-----------------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Utils.Support.TestDataManufacture.TestAccountDataManufacture.TestUser
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.Support.TestDataManufacture.TestAccountDataManufacture.UserDataConstants module
+--------------------------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Utils.Support.TestDataManufacture.TestAccountDataManufacture.UserDataConstants
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

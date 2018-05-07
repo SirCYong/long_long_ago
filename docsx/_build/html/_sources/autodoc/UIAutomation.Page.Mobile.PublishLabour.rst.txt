@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.PublishLabour package
+==============================================
+
+.. automodule:: UIAutomation.Page.Mobile.PublishLabour
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.PublishLabour.PublishLabour module
+-----------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.PublishLabour.PublishLabour
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--author:sdy-->
+<map>
+
+    <!--转发-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="转发">forwardButton</locator>
+    <!--转发全部-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="转发全部">forwardByAll</locator>
+    <!--转发该任务-->
+    <locator type="ACCESSIBILITY_ID" timeOut="" ut="3" value="转发该任务">forwardBySingle</locator>
+    <!--通讯录搜索按钮-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAImage[1]">searchButton</locator>
+    <!--通讯录搜索框-->
+    <locator type="XPATH" timeOut="3"  value="//UIAApplication[1]/UIAWindow[1]/UIASearchBar[1]">searchText</locator>
+    <!--选择按钮-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="选择">choiceButton</locator>
+    <!--不想转发按钮-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="不想转发">cancelButton</locator>
+    <!--确认转发按钮-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确认转发">saveButton</locator>
+</map>

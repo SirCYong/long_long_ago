@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.GoodsTransfer package
+==================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.GoodsTransfer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.GoodsTransfer.GoodsTransferPage module
+-------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.GoodsTransfer.GoodsTransferPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh_CN">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Entity package &#8212; iscsuiautomation V1.0.0 文档</title>
+    
+    <link rel="stylesheet" href="../_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     'V1.0.0',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <script type="text/javascript" src="../_static/translations.js"></script>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <link rel="index" title="索引" href="../genindex.html" />
+    <link rel="search" title="搜索" href="../search.html" />
+    <link rel="prev" title="Welcome to iscsuiautomation’s documentation!" href="../iscsuidoc.html" />
+   
+  <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head>
+  <body role="document">
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="module-Entity">
+<span id="entity-package"></span><h1>Entity package<a class="headerlink" href="#module-Entity" title="永久链接至标题">¶</a></h1>
+<p>Various generic utility functions and classes.</p>
+<p>Utilities are mainly for internal usage, but external libraries and tools
+may find some of them useful. Utilities are generally stable, but absolute
+backwards compatibility between major versions is not guaranteed.</p>
+<p>All utilities are exposed via the <code class="xref py py-mod docutils literal"><span class="pre">robot.utils</span></code> package, and should be
+used either like:</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">robot</span> <span class="k">import</span> <span class="n">utils</span>
+
+<span class="k">assert</span> <span class="n">utils</span><span class="o">.</span><span class="n">Matcher</span><span class="p">(</span><span class="s1">&#39;H?llo&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">match</span><span class="p">(</span><span class="s1">&#39;Hillo&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>or:</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">robot.utils</span> <span class="k">import</span> <span class="n">Matcher</span>
+
+<span class="k">assert</span> <span class="n">Matcher</span><span class="p">(</span><span class="s1">&#39;H?llo&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">match</span><span class="p">(</span><span class="s1">&#39;Hillo&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+<div class="section" id="submodules">
+<h2>Submodules<a class="headerlink" href="#submodules" title="永久链接至标题">¶</a></h2>
+</div>
+<div class="section" id="module-Entity.BaArea">
+<span id="entity-baarea-module"></span><h2>Entity.BaArea module<a class="headerlink" href="#module-Entity.BaArea" title="永久链接至标题">¶</a></h2>
+<p>This this global value for automation.</p>
+<dl class="class">
+<dt id="Entity.BaArea.BaArea">
+<em class="property">class </em><code class="descclassname">Entity.BaArea.</code><code class="descname">BaArea</code><span class="sig-paren">(</span><em>country_id</em>, <em>area_id</em>, <em>area_name</em>, <em>parent_area_id</em>, <em>area_level</em>, <em>user_id_updated</em>, <em>date_updated</em>, <em>program_id</em>, <em>workstation_id</em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/Entity/BaArea.html#BaArea"><span class="viewcode-link">[源代码]</span></a><a class="headerlink" href="#Entity.BaArea.BaArea" title="永久链接至目标">¶</a></dt>
+<dd><p>This this global BaArea for automation.</p>
+</dd></dl>
+
+</div>
+<div class="section" id="module-Entity.BaCountry">
+<span id="entity-bacountry-module"></span><h2>Entity.BaCountry module<a class="headerlink" href="#module-Entity.BaCountry" title="永久链接至标题">¶</a></h2>
+<dl class="class">
+<dt id="Entity.BaCountry.BaCountry">
+<em class="property">class </em><code class="descclassname">Entity.BaCountry.</code><code class="descname">BaCountry</code><span class="sig-paren">(</span><em>country_id</em>, <em>country_name_en</em>, <em>country_name_zh</em>, <em>country_calling_code</em>, <em>time_zone</em>, <em>jet_lag</em>, <em>extra_country_id</em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/Entity/BaCountry.html#BaCountry"><span class="viewcode-link">[源代码]</span></a><a class="headerlink" href="#Entity.BaCountry.BaCountry" title="永久链接至目标">¶</a></dt>
+<dd><p>Bases: <a class="reference internal" href="#Entity.BaseVO.BaseVO" title="Entity.BaseVO.BaseVO"><code class="xref py py-class docutils literal"><span class="pre">Entity.BaseVO.BaseVO</span></code></a></p>
+<p>country info list corresponding VO instance.</p>
+</dd></dl>
+
+</div>
+<div class="section" id="module-Entity.BaseVO">
+<span id="entity-basevo-module"></span><h2>Entity.BaseVO module<a class="headerlink" href="#module-Entity.BaseVO" title="永久链接至标题">¶</a></h2>
+<dl class="class">
+<dt id="Entity.BaseVO.BaseVO">
+<em class="property">class </em><code class="descclassname">Entity.BaseVO.</code><code class="descname">BaseVO</code><a class="reference internal" href="../_modules/Entity/BaseVO.html#BaseVO"><span class="viewcode-link">[源代码]</span></a><a class="headerlink" href="#Entity.BaseVO.BaseVO" title="永久链接至目标">¶</a></dt>
+<dd><p>Bases: <a class="reference external" href="https://docs.python.org/2/library/functions.html#object" title="(在 Python v2.7)"><code class="xref py py-class docutils literal"><span class="pre">object</span></code></a></p>
+</dd></dl>
+
+</div>
+<div class="section" id="module-Entity.CmParticipant">
+<span id="entity-cmparticipant-module"></span><h2>Entity.CmParticipant module<a class="headerlink" href="#module-Entity.CmParticipant" title="永久链接至标题">¶</a></h2>
+<dl class="class">
+<dt id="Entity.CmParticipant.CmParticipant">
+<em class="property">class </em><code class="descclassname">Entity.CmParticipant.</code><code class="descname">CmParticipant</code><span class="sig-paren">(</span><em>participant_ukid</em>, <em>ppt_name</em>, <em>ppt_relation_ukid</em>, <em>ppt_type</em>, <em>identify_id</em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/Entity/CmParticipant.html#CmParticipant"><span class="viewcode-link">[源代码]</span></a><a class="headerlink" href="#Entity.CmParticipant.CmParticipant" title="永久链接至目标">¶</a></dt>
+<dd><p>Bases: <a class="reference internal" href="#Entity.BaseVO.BaseVO" title="Entity.BaseVO.BaseVO"><code class="xref py py-class docutils literal"><span class="pre">Entity.BaseVO.BaseVO</span></code></a></p>
+</dd></dl>
+
+</div>
+<div class="section" id="module-Entity.OrderTask">
+<span id="entity-ordertask-module"></span><h2>Entity.OrderTask module<a class="headerlink" href="#module-Entity.OrderTask" title="永久链接至标题">¶</a></h2>
+<dl class="class">
+<dt id="Entity.OrderTask.OrderTask">
+<em class="property">class </em><code class="descclassname">Entity.OrderTask.</code><code class="descname">OrderTask</code><span class="sig-paren">(</span><em>operation_ukid</em>, <em>start_time</em>, <em>operation_task_ukid</em>, <em>object_type</em>, <em>operation_object</em>, <em>ukid</em>, <em>ppt_relation_ukid</em>, <em>ppt_name</em>, <em>server_time</em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/Entity/OrderTask.html#OrderTask"><span class="viewcode-link">[源代码]</span></a><a class="headerlink" href="#Entity.OrderTask.OrderTask" title="永久链接至目标">¶</a></dt>
+<dd><p>Bases: <a class="reference internal" href="#Entity.BaseVO.BaseVO" title="Entity.BaseVO.BaseVO"><code class="xref py py-class docutils literal"><span class="pre">Entity.BaseVO.BaseVO</span></code></a></p>
+</dd></dl>
+
+</div>
+<div class="section" id="module-Entity.TsContractInterface">
+<span id="entity-tscontractinterface-module"></span><h2>Entity.TsContractInterface module<a class="headerlink" href="#module-Entity.TsContractInterface" title="永久链接至标题">¶</a></h2>
+<p>这里是整个class的说明.</p>
+<dl class="class">
+<dt id="Entity.TsContractInterface.TsContractInterface">
+<em class="property">class </em><code class="descclassname">Entity.TsContractInterface.</code><code class="descname">TsContractInterface</code><span class="sig-paren">(</span><em>ukid</em>, <em>name</em>, <em>ppt_relation_ukid</em>, <em>business_unit_ukid</em>, <em>start_time</em>, <em>status</em>, <em>create_time</em>, <em>update_time</em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/Entity/TsContractInterface.html#TsContractInterface"><span class="viewcode-link">[源代码]</span></a><a class="headerlink" href="#Entity.TsContractInterface.TsContractInterface" title="永久链接至目标">¶</a></dt>
+<dd><p>Bases: <a class="reference internal" href="#Entity.BaseVO.BaseVO" title="Entity.BaseVO.BaseVO"><code class="xref py py-class docutils literal"><span class="pre">Entity.BaseVO.BaseVO</span></code></a></p>
+<p>contract interface corresponding vo instance.
+这里是来搜索的.</p>
+</dd></dl>
+
+</div>
+<div class="section" id="module-Entity.TsOperation">
+<span id="entity-tsoperation-module"></span><h2>Entity.TsOperation module<a class="headerlink" href="#module-Entity.TsOperation" title="永久链接至标题">¶</a></h2>
+<dl class="class">
+<dt id="Entity.TsOperation.TsOperation">
+<em class="property">class </em><code class="descclassname">Entity.TsOperation.</code><code class="descname">TsOperation</code><span class="sig-paren">(</span><em>operation_ukid</em>, <em>status</em>, <em>ppt_relation_ukid</em>, <em>start_time</em>, <em>end_time</em>, <em>pass_time</em>, <em>service_ukid</em>, <em>operation_type</em>, <em>supplier_id</em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/Entity/TsOperation.html#TsOperation"><span class="viewcode-link">[源代码]</span></a><a class="headerlink" href="#Entity.TsOperation.TsOperation" title="永久链接至目标">¶</a></dt>
+<dd><p>Bases: <a class="reference internal" href="#Entity.BaseVO.BaseVO" title="Entity.BaseVO.BaseVO"><code class="xref py py-class docutils literal"><span class="pre">Entity.BaseVO.BaseVO</span></code></a></p>
+<p>Task table corresponding VO instance.</p>
+</dd></dl>
+
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="../iscsuidoc.html">內容目录</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Entity package</a><ul>
+<li><a class="reference internal" href="#submodules">Submodules</a></li>
+<li><a class="reference internal" href="#module-Entity.BaArea">Entity.BaArea module</a></li>
+<li><a class="reference internal" href="#module-Entity.BaCountry">Entity.BaCountry module</a></li>
+<li><a class="reference internal" href="#module-Entity.BaseVO">Entity.BaseVO module</a></li>
+<li><a class="reference internal" href="#module-Entity.CmParticipant">Entity.CmParticipant module</a></li>
+<li><a class="reference internal" href="#module-Entity.OrderTask">Entity.OrderTask module</a></li>
+<li><a class="reference internal" href="#module-Entity.TsContractInterface">Entity.TsContractInterface module</a></li>
+<li><a class="reference internal" href="#module-Entity.TsOperation">Entity.TsOperation module</a></li>
+</ul>
+</li>
+</ul>
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../iscsuidoc.html">Documentation overview</a><ul>
+      <li>Previous: <a href="../iscsuidoc.html" title="上一章">Welcome to iscsuiautomation&#8217;s documentation!</a></li>
+  </ul></li>
+</ul>
+</div>
+  <div role="note" aria-label="source link">
+    <h3>本页</h3>
+    <ul class="this-page-menu">
+      <li><a href="../_sources/autodoc/Entity.rst.txt"
+            rel="nofollow">显示源代码</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>快速搜索</h3>
+    <form class="search" action="../search.html" method="get">
+      <div><input type="text" name="q" /></div>
+      <div><input type="submit" value="转向" /></div>
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2017, yongli.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.5.1</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.9</a>
+      
+      |
+      <a href="../_sources/autodoc/Entity.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="转发">forward</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确认转发">sureChoice</locator>
+</map>

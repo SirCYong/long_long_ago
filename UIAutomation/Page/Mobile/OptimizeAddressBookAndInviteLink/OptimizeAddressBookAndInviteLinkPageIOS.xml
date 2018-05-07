@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--author:zhoujin-->
+<map>
+    <!--选择好友-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1]">choice</locator>
+    <!--搜索-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAImage[1]">search</locator>
+    <!--用户名-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIASearchBar[1]">name</locator>
+    <!--邀请状态-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="邀请">invite</locator>
+    <!--已注册状态-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="已注册">register</locator>
+    <!--选择-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="选择">select</locator>
+    <!--无需分配-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="无需分配">allocate</locator>
+    <!--认证中-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="认证中">certification</locator>
+    <!--返回键-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="icon back desktop">icon_back</locator>
+    <!--任务权限-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[2]">task</locator>
+    <!--入库卸货-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="入库卸货">permission</locator>
+    <!--复制权限-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[2]">copy</locator>
+    <!--点击按钮-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAStaticText[2]">com</locator>
+</map>
+
+
+

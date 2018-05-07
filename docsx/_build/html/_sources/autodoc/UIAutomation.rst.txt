@@ -1,0 +1,47 @@
+UIAutomation package
+====================
+
+.. automodule:: UIAutomation
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.Entity
+    UIAutomation.Page
+    UIAutomation.TestCase
+    UIAutomation.Utils
+    UIAutomation.tests
+
+Submodules
+----------
+
+UIAutomation.cli module
+-----------------------
+
+.. automodule:: UIAutomation.cli
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.gui module
+-----------------------
+
+.. automodule:: UIAutomation.gui
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.utils module
+-------------------------
+
+.. automodule:: UIAutomation.utils
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

@@ -1,0 +1,76 @@
+UIAutomation.TestCase.SIT.Android.SmokeTesting package
+======================================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.SmokeTesting
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.Android.SmokeTesting.FunSmoke003SQL module
+--------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.SmokeTesting.FunSmoke003SQL
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Android.SmokeTesting.FunSmoke003_test module
+----------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.SmokeTesting.FunSmoke003_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Android.SmokeTesting.FunSmoke004SQL module
+--------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.SmokeTesting.FunSmoke004SQL
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Android.SmokeTesting.FunSmoke004_test module
+----------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.SmokeTesting.FunSmoke004_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Android.SmokeTesting.FunSmokeRegister module
+----------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.SmokeTesting.FunSmokeRegister
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Android.SmokeTesting.FunSmokeRegisterSQL module
+-------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.SmokeTesting.FunSmokeRegisterSQL
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Android.SmokeTesting.Func-smoke-001 module
+--------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.SmokeTesting.Func-smoke-001
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Android.SmokeTesting.SQL module
+---------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Android.SmokeTesting.SQL
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

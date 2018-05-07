@@ -1,0 +1,44 @@
+UIAutomation.Utils.Support.LogReaderAndReporter package
+=======================================================
+
+.. automodule:: UIAutomation.Utils.Support.LogReaderAndReporter
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Utils.Support.LogReaderAndReporter.License module
+--------------------------------------------------------------
+
+.. automodule:: UIAutomation.Utils.Support.LogReaderAndReporter.License
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.Support.LogReaderAndReporter.LogHandler module
+-----------------------------------------------------------------
+
+.. automodule:: UIAutomation.Utils.Support.LogReaderAndReporter.LogHandler
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.Support.LogReaderAndReporter.info module
+-----------------------------------------------------------
+
+.. automodule:: UIAutomation.Utils.Support.LogReaderAndReporter.info
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Utils.Support.LogReaderAndReporter.timemachine module
+------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Utils.Support.LogReaderAndReporter.timemachine
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

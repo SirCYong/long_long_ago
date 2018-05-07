@@ -1,0 +1,54 @@
+UIAutomation.TestCase package
+=============================
+
+.. automodule:: UIAutomation.TestCase
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.TestCase.CIT
+    UIAutomation.TestCase.Executable
+    UIAutomation.TestCase.Keywords
+    UIAutomation.TestCase.SIT
+
+Submodules
+----------
+
+UIAutomation.TestCase.BaseTestCase module
+-----------------------------------------
+
+.. automodule:: UIAutomation.TestCase.BaseTestCase
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.DemoLoginTestCase module
+----------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.DemoLoginTestCase
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.NoMixedCaseMethodNameMeta module
+------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.NoMixedCaseMethodNameMeta
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.debugtesttcase module
+-------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.debugtesttcase
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

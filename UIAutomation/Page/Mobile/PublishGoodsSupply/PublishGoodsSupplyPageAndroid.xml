@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--发布供货供应-->
+<map>
+    <!--选择业务单位返回按钮-->
+    <locator type="ID" timeOut="3" value="btn_confirm">back</locator>
+    <!--点击完成-->
+    <locator type="ID" timeOut="3" value="btn_supply">complete_btn</locator>
+    <!--内部-->
+    <locator type="ID" timeOut="3" value="rel_addinner">inner</locator>
+    <!--外部-->
+    <locator type="ID" timeOut="3" value="id_AutoTextOutside">outside</locator>
+</map>

@@ -1,0 +1,28 @@
+UIAutomation.Page.Mobile.iOS.Sprint3Page package
+================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.Sprint3Page
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.Page.Mobile.iOS.Sprint3Page.Picking
+    UIAutomation.Page.Mobile.iOS.Sprint3Page.Sorting
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.Sprint3Page.WarehouseTask module
+-------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.Sprint3Page.WarehouseTask
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

@@ -1,0 +1,28 @@
+UIAutomation.TestCase.SIT.Mobile.PublishLabour package
+======================================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.PublishLabour
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.Mobile.PublishLabour.PublishLabour_sql module
+-----------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.PublishLabour.PublishLabour_sql
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Mobile.PublishLabour.PublishLabour_test module
+------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Mobile.PublishLabour.PublishLabour_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

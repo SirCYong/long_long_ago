@@ -1,0 +1,60 @@
+UIAutomation.tests.Utils package
+================================
+
+.. automodule:: UIAutomation.tests.Utils
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.tests.Utils.test_appium module
+-------------------------------------------
+
+.. automodule:: UIAutomation.tests.Utils.test_appium
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.tests.Utils.test_cmd module
+----------------------------------------
+
+.. automodule:: UIAutomation.tests.Utils.test_cmd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.tests.Utils.test_database module
+---------------------------------------------
+
+.. automodule:: UIAutomation.tests.Utils.test_database
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.tests.Utils.test_element module
+--------------------------------------------
+
+.. automodule:: UIAutomation.tests.Utils.test_element
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.tests.Utils.test_envsettingreader module
+-----------------------------------------------------
+
+.. automodule:: UIAutomation.tests.Utils.test_envsettingreader
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.tests.Utils.test_parsexmlbytext module
+---------------------------------------------------
+
+.. automodule:: UIAutomation.tests.Utils.test_parsexmlbytext
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

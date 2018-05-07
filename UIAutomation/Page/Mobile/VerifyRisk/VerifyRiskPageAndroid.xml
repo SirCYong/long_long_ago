@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:xuwangchao-->
+<map>
+
+    <!--静态图标：左上角更多-->
+    <locator type="ID" timeOut="3" value="more_bt">more_button</locator>
+    <!--静态标题：任务-->
+    <locator type="ID" timeOut="3" value="title_text">title_text</locator>
+    <!--静态图标：扫描-->
+    <locator type="ID" timeOut="3" value="scan_bt">scan_logo</locator>
+
+    <!--静态图标：红色警告箭牌-->
+    <locator type="ID" timeOut="3" value="total_task">warn_logo</locator>
+
+    <!--动态文字：影响水平-->
+    <locator type="ID" timeOut="3" value="level_text">level_text</locator>
+    <!--动态文字：权限变更详细-->
+    <locator type="ID" timeOut="3" value="permission_text">change_detail</locator>
+
+
+    <!--静态图标：红色闪电1-->
+    <locator type="ID" timeOut="3" value="risk1">red_flash_one</locator>
+    <!--静态图标：红色闪电2-->
+    <locator type="ID" timeOut="3" value="risk2">red_flash_two</locator>
+    <!--静态图标：红色闪电3-->
+    <locator type="ID" timeOut="3" value="risk3">red_flash_three</locator>
+    <!--静态图标：红色闪电4-->
+    <locator type="ID" timeOut="3" value="risk4">red_flash_four</locator>
+    <!--静态图标：红色闪电5-->
+    <locator type="ID" timeOut="3" value="risk5">red_flash_five</locator>
+
+    <!--动态文字：主动方名称-->
+    <locator type="ID" timeOut="3" value="giver_name">giver_name</locator>
+    <!--动态文字：被动方名称-->
+    <locator type="ID" timeOut="3" value="receive_name">receive_name</locator>
+
+    <!--动态文字：权限变更简略-->
+    <locator type="ID" timeOut="3" value="permission_operate_text">change_simple_text</locator>
+
+    <!--动态文字：时间-->
+    <locator type="ID" timeOut="3" value="time">time_text</locator>
+
+    <!--按钮：我知道了-->
+    <locator type="ID" timeOut="3" value="iknow_bt">know_button</locator>
+
+    <!--动态数字：页数-->
+    <locator type="ID" timeOut="3" value="pager_indicator">page_number_text</locator>
+</map>

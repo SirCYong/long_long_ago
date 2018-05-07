@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <!--动态文字日期:周几-->
+    <locator type= "ID" timeOut="3" value="week">week</locator>
+    <!--动态数字日期:XX-XX-->
+    <locator type= "ID" timeOut="3" value="day">day</locator>
+    <!--动态账单金额-->
+    <locator type= "ID" timeOut="3" value="sum">sum</locator>
+    <!--动态用户名-->
+    <locator type= "ID" timeOut="3" value="name">name</locator>
+    <!--动态款项是否结算-->
+    <locator type= "ID" timeOut="3" value="type">type</locator>
+
+    <!--静态文字:全部-->
+    <locator type= "XPATH" timeOut="3" value="//*[@text='全部']">all</locator>
+    <!--静态文字:应收-->
+    <locator type= "XPATH" timeOut="3" value="//*[@text='应收']">receivable</locator>
+    <!--静态文字:应付-->
+    <locator type= "XPATH" timeOut="3" value="//*[@text='应付']">payable</locator>
+
+
+
+</map>

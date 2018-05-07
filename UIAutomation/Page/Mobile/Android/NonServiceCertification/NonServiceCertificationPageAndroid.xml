@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhoujin-->
+<map>
+    <!--非服务认证-->
+    <locator type="ID" timeOut="3" value="card_layout">non_service</locator>
+    <!--更多按钮-->
+    <locator type="ID" timeOut="3" value="more_bt">more</locator>
+    <!--移交按钮-->
+    <locator type="ID" timeOut="3" value="yijiao_bt">transfer</locator>
+    <!--请找出某某-->
+    <locator type="ID" timeOut="3" value="tv_show_examine_title yes">find</locator>
+    <!--电话号码-->
+    <locator type="ID" timeOut="3" value="/tv_show_examine_number">number</locator>
+    <!--第一张照片-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/gv_img_infos']/android.widget.RelativeLayout[1]">first_photo</locator>
+    <!--第二张照片-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/gv_img_infos']/android.widget.RelativeLayout[2]">second_photo</locator>
+    <!--第三张照片-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/gv_img_infos']/android.widget.RelativeLayout[3]">third_photo</locator>
+    <!--第四张照片-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/gv_img_infos']/android.widget.RelativeLayout[4]">four_photo</locator>
+    <!--是他-->
+    <locator type="ID" timeOut="3" value="btn_click_this">ta</locator>
+    <!--该号码与记录不一致-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/rl_number_error_info']/android.widget.TextView[1]">tip</locator>
+    <!--审核xx的身份证-->
+    <locator type="ID" timeOut="3" value="title">audit</locator>
+    <!--正面身份证照片-->
+    <locator type="ID" timeOut="3" value="zhengmian_img">front</locator>
+    <!--反面身份证照片-->
+    <locator type="ID" timeOut="3" value="fanmian_img">back</locator>
+    <!--驳回-->
+    <locator type="ID" timeOut="3" value="bohui_bt">cancel</locator>
+    <!--审核通过-->
+    <locator type="ID" timeOut="3" value="shenhe_bt">pass</locator>
+    <!--返回按钮-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="icon back">back</locator>
+</map>

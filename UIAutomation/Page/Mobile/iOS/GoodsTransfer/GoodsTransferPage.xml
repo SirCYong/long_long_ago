@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<map>
+    <!--开始位置-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="开始位置">start_location</locator>
+    <!--目标位置-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="目标位置">target_location</locator>
+    <!---->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="完成">complete_btn</locator>
+    <!---->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value=""></locator>
+    <!---->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value=""></locator>
+    <!---->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value=""></locator>
+</map>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--author:zhoujin-->
+<map>
+    <!--输入订单号-->
+    <locator type="ID" timeOut="3" value="et_order_number">order_number</locator>
+    <!--订单号-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/et_order_number'and @text = '请扫入或输入需退货的运单号/订单号']">number</locator>
+    <!--选择退货商品-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/rl_items']/android.widget.ImageView[1]">first</locator>
+    <!--选择退货方式-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/rl_goods_details_number']/android.widget.TextView[1]">mode</locator>
+    <!--拒收-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/tv_name'and @text='拒收']">reject</locator>
+    <!--确定-->
+    <locator type="ID" timeOut="3" value="btn_select">sure</locator>
+    <!--增加数量-->
+    <locator type="ID" timeOut="3" value="iv_add_number">add_number</locator>
+    <!--全选-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/btn_select_all' and @text='全选']">select_all</locator>
+    <!--我要退货-->
+    <locator type="ID" timeOut="3" value="btn_return_goods">return_goods</locator>
+    <!--确定退货-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='android:id/button1' and @text ='确定']">confirm</locator>
+</map>

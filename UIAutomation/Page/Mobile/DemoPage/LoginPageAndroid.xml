@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <!--登录-->
+    <locator type="ID" timeOut="3" value="btn_login">login_button</locator>
+    <!--账号输入框-->
+    <locator type="ID" timeOut="3" value="et_login_id">user_name</locator>
+     <!--密码输入框-->
+    <locator type="ID" timeOut="3" value="et_login_pwd">password</locator>
+    <!--微信登录-->
+    <locator type="ID" timeOut="3" value="btn_login_wechat">weiChat_login</locator>
+    <!--前往微信界面-->
+    <locator type="ID" timeOut="3" value="tv_gotoWX">go_weichat</locator>
+    <!--登录后的主界面的圆圈控件-->
+    <locator type="ID" timeOut="3" value="circle_progress_view">circle_progress_view</locator>
+    <!--登录后的主界面的长期任务-->
+    <locator type="ID" timeOut="3" value="suishi_type_card">long_task</locator>
+    <!--长期卡片：生成找仓储需求的任务-->
+    <locator type="ID" timeOut="3" value="card_layout">card_layout</locator>
+    <!--仓库面积-->
+    <locator type="ID" timeOut="3" value="rl_show_home">show_home</locator>
+    <!--确定签订契约-->
+    <locator type="CLASS_NAME" timeOut="3" value="android.widget.Button">order_button</locator>
+</map>

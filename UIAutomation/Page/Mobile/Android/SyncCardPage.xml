@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<map>
+     <!-- Author: yue-->
+    <!--&lt;!&ndash;进入同步页面后点击开启同步该店库存进入同步页面后点击开启同步该店库存&ndash;&gt;-->
+     <locator type="ID" timeOut="3" value="btn_open">syncOpenBtn</locator>
+</map>

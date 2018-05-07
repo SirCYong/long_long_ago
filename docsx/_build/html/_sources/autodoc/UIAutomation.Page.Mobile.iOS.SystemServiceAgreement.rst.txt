@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.SystemServiceAgreement package
+===========================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.SystemServiceAgreement
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.SystemServiceAgreement.SystemServiceAgreement module
+---------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.SystemServiceAgreement.SystemServiceAgreement
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

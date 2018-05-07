@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--请扫入或输入工作点条码-->
+    <locator type="ID" timeOut="3" value="scanner_number">scanner_number</locator>
+    <!--请选择工作点类型-->
+    <locator type="ID" timeOut="3" value="job_point_name">job_point_name</locator>
+     <!--工作点类型选择区域-->
+    <locator type="ID" timeOut="3" value="wheel_vendor">wheel_vendor</locator>
+    <!--工作点类型选择确认按钮-->
+    <locator type="ID" timeOut="3" value="btn_confirm">btn_confirm</locator>
+    <!--维护工作点完成按钮-->
+    <locator type="ID" timeOut="3" value="finish">finish</locator>
+</map>

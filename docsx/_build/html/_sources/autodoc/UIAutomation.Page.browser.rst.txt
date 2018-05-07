@@ -1,0 +1,47 @@
+UIAutomation.Page.browser package
+=================================
+
+.. automodule:: UIAutomation.Page.browser
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.Page.browser.ActivationCommodityWeb
+    UIAutomation.Page.browser.ActivationEntityShopWeb
+    UIAutomation.Page.browser.LoginPage
+    UIAutomation.Page.browser.PublishGoodsSupply
+    UIAutomation.Page.browser.web_page
+
+Submodules
+----------
+
+UIAutomation.Page.browser.LiveTemplateTest module
+-------------------------------------------------
+
+.. automodule:: UIAutomation.Page.browser.LiveTemplateTest
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.browser.MainPage module
+-----------------------------------------
+
+.. automodule:: UIAutomation.Page.browser.MainPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.browser.downloadWebFilePage module
+----------------------------------------------------
+
+.. automodule:: UIAutomation.Page.browser.downloadWebFilePage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

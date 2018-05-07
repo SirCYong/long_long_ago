@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!-- cy -->
+    <!--仓库名-->
+    <locator type ="XPATH" timeOut="3" value= "//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionCell[1]/UIATableView[1]/UIATableCell[1]/UIATextField[1]">depotName</locator>
+    <!--仓库地址-->
+    <locator type ="XPATH" timeOut="3" value= "//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionCell[1]/UIATableView[1]/UIATableCell[2]/UIATextField[1]">depotAddress</locator>
+    <!--仓库面积-->
+    <locator type= "XPATH" timeOut="3" value= "//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionCell[1]/UIATableView[1]/UIATableCell[3]/UIATextField[1]">depotArea</locator>
+    <!--仓库租金-->
+    <locator type= "XPATH" timeOut="3" value= "//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionCell[1]/UIATableView[1]/UIATableCell[4]/UIATextField[1]">depotRent</locator>
+    <!--选择-->
+    <locator type= "ACCESSIBILITY_ID" timeOut="3" value="点击选择">depotMap</locator>
+    <!--激活-->
+    <locator type= "ACCESSIBILITY_ID" timeOut="3" value="激活">depotActivation</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="完成">finishButton</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="好的">ok</locator>
+
+
+</map>

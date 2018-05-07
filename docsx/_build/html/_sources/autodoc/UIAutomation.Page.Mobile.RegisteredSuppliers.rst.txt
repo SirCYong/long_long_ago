@@ -1,0 +1,28 @@
+UIAutomation.Page.Mobile.RegisteredSuppliers package
+====================================================
+
+.. automodule:: UIAutomation.Page.Mobile.RegisteredSuppliers
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.RegisteredSuppliers.FunRegisteredSuppliersSQL module
+-----------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.RegisteredSuppliers.FunRegisteredSuppliersSQL
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.RegisteredSuppliers.RegisteredSuppliersPage module
+---------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.RegisteredSuppliers.RegisteredSuppliersPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

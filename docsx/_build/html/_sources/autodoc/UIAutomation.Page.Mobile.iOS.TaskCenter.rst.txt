@@ -1,0 +1,36 @@
+UIAutomation.Page.Mobile.iOS.TaskCenter package
+===============================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.TaskCenter
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.TaskCenter.TaskCenterPage module
+-------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.TaskCenter.TaskCenterPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.TaskCenter.URLPage module
+------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.TaskCenter.URLPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.TaskCenter.URLSQLPage module
+---------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.TaskCenter.URLSQLPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

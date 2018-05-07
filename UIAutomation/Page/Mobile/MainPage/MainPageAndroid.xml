@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:liyu-->
+<map>
+    <!--主界面信息-->
+    <!--长期卡片：发布劳务需求-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/text'][contains(@text,'发布劳务需求')]">card_layout</locator>
+    <!--长期卡片：发布仓储供应-->
+    <locator type="XPATH" timeOut="3" value="//*[@resource-id='com.iscs.mobilewcs:id/text'][contains(@text,'发布仓储供应')]">long_card_supply</locator>
+    <!--签订系统服务契约-->
+    <locator type="ID" timeOut="3" value="签订系统服务契约">System_service_agreement</locator>
+    <!--提交保证金-->
+    <locator type="ID" timeOut="3" value="提交保证金">Submit_deposit</locator>
+    <!--空白卡片-->
+    <locator type="ID" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[2]">Empty_card</locator>
+    <!--41个长期任务-->
+    <locator type="ID" timeOut="3" value="suishi_type_card">LongTaskCard</locator>
+    <!--拣选-->
+    <locator type="XPATH" timeOut="3" value="//*[@class='android.widget.LinearLayout'][contains(@index,0)]">packing</locator>android.widget.LinearLayout
+</map>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<map>
+     <!-- Author: yue-->
+    <!--点击进入关闭同步店铺卡片按钮-->
+
+    <locator type="ID" timeOut="3" value="btn_open">CloseSyncBtn</locator>
+
+</map>
+

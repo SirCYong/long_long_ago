@@ -1,0 +1,43 @@
+UIAutomation.TestCase.SIT.Web.Sprint4 package
+=============================================
+
+.. automodule:: UIAutomation.TestCase.SIT.Web.Sprint4
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.TestCase.SIT.Web.Sprint4.ManagementBusinessUnit
+
+Submodules
+----------
+
+UIAutomation.TestCase.SIT.Web.Sprint4.FunImportInventorySQL module
+------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Web.Sprint4.FunImportInventorySQL
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Web.Sprint4.FunImportInventory_test module
+--------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Web.Sprint4.FunImportInventory_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.TestCase.SIT.Web.Sprint4.FunTransportContract_test module
+----------------------------------------------------------------------
+
+.. automodule:: UIAutomation.TestCase.SIT.Web.Sprint4.FunTransportContract_test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

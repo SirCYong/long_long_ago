@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--author:zhoujin-->
+<map>
+    <!--管理者权限回收-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="管理者权限收回">permission</locator>
+    <!--入库上架-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="入库上架">storage</locator>
+    <!--邀请-->
+    <locator type="ACCESSIBILITY_ID" timeOut="" ut="3" value="邀请">invite</locator>
+    <!--收回权限-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="收回权限">recovery</locator>
+    <!--确定按钮-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3"  value="确定">sure</locator>
+    <!--返回按钮-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="icon back">icon_back</locator>
+    <!--按人收回权限-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="icon competence 1">person</locator>
+    <!--按权限收回权限-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="icon competence 2">jurisdiction</locator>
+    <!--选择交接的权限-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="交接">transfer</locator>
+    <!--选择第一个人-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="百合一">first</locator>
+    <!--选择第二个人-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="百合二">second</locator>
+    <!--收回权限-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAButton[2]">submit</locator>
+</map>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--建立业务框架界面  我是谁-->
+    <locator type="ID" timeOut="3" value="role_select_who_rel">select_who_iam</locator>
+        <!--确定按钮-->
+    <locator type="ID" timeOut="3" value="btn_login_no_gray">iam_done</locator>
+    <!---建立业务框架界面 我有什么-->
+    <locator type="ID" timeOut="3" value="role_select_have_rel">select_have</locator>
+        <!--确定按钮-->
+    <locator type="ID" timeOut="3" value="btn_login_no">have_done</locator>
+    <!---建立业务框架界面 我的供应商-->
+    <locator type="ID" timeOut="3" value="role_select_gong_rel">select_supplier</locator>
+    <!---建立业务框架界面 我的客户-->
+    <locator type="ID" timeOut="3" value="role_select_customer_rel">select_customer</locator>
+        <!---我的客户 确定-->
+    <locator type="ID" timeOut="3" value="btn_login_no_gray">select_customer</locator>
+
+    <!---建立业务框架界面 确定-->
+    <locator type="ID" timeOut="3" value="btn_login_no">setup_confirm</locator>
+
+</map>

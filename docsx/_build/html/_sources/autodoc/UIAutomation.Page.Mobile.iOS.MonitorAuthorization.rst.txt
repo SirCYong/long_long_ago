@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.MonitorAuthorization package
+=========================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.MonitorAuthorization
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.MonitorAuthorization.MonitorAuthorizationPage module
+---------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.MonitorAuthorization.MonitorAuthorizationPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

@@ -1,0 +1,14 @@
+{
+    "case_main": {
+        "title": "main",
+        "report_file": "main",
+        "cases": {
+            "main": [
+                "pkg_activate_warehouse.test_activate_warehouse",
+                "pkg_job_point_type_setting.test_job_point_type_setting"
+            ]
+        },
+        "receivers": ["zhangzhihe@iscs.com.cn", "yongli.zhuang@wwwarehouse.com", "chengling.lei@wwwarehouse.com"],
+        "group":[]
+    }
+}

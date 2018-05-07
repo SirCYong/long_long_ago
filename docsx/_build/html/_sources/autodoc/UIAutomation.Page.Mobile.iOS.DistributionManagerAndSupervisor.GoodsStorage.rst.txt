@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.DistributionManagerAndSupervisor.GoodsStorage package
+==================================================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.DistributionManagerAndSupervisor.GoodsStorage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.DistributionManagerAndSupervisor.GoodsStorage.GoodsStoragePage module
+--------------------------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.DistributionManagerAndSupervisor.GoodsStorage.GoodsStoragePage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

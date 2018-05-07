@@ -1,0 +1,36 @@
+UIAutomation.Page.Mobile.ActivationEntityShop package
+=====================================================
+
+.. automodule:: UIAutomation.Page.Mobile.ActivationEntityShop
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.ActivationEntityShop.ActivationEntityShopButtonPage module
+-----------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.ActivationEntityShop.ActivationEntityShopButtonPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.ActivationEntityShop.ActivationEntityShopPage module
+-----------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.ActivationEntityShop.ActivationEntityShopPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.ActivationEntityShop.ImportHistoricalOrderPage module
+------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.ActivationEntityShop.ImportHistoricalOrderPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

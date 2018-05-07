@@ -1,0 +1,142 @@
+UIAutomation.Page.Mobile.iOS package
+====================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.Page.Mobile.iOS.ActivationCommodity
+    UIAutomation.Page.Mobile.iOS.BindBankCard
+    UIAutomation.Page.Mobile.iOS.BusinessFrameworkTask
+    UIAutomation.Page.Mobile.iOS.ContractCarriage
+    UIAutomation.Page.Mobile.iOS.DistributionManagerAndSupervisor
+    UIAutomation.Page.Mobile.iOS.GenerateBill
+    UIAutomation.Page.Mobile.iOS.GoodsTransfer
+    UIAutomation.Page.Mobile.iOS.IosStartLogin
+    UIAutomation.Page.Mobile.iOS.LaborDemand
+    UIAutomation.Page.Mobile.iOS.LongTaskCards
+    UIAutomation.Page.Mobile.iOS.MailList
+    UIAutomation.Page.Mobile.iOS.ManagementBusinessUnit
+    UIAutomation.Page.Mobile.iOS.ModifyReceiptInformation
+    UIAutomation.Page.Mobile.iOS.MonitorAuthorization
+    UIAutomation.Page.Mobile.iOS.NonServiceCertification
+    UIAutomation.Page.Mobile.iOS.OpenOrderDownload
+    UIAutomation.Page.Mobile.iOS.Register
+    UIAutomation.Page.Mobile.iOS.ReleaseWarehouseSupplies
+    UIAutomation.Page.Mobile.iOS.SelectLogisticsBrand
+    UIAutomation.Page.Mobile.iOS.SelectServiceScope
+    UIAutomation.Page.Mobile.iOS.SignLaborContract
+    UIAutomation.Page.Mobile.iOS.Sprint3Page
+    UIAutomation.Page.Mobile.iOS.StorageInventory
+    UIAutomation.Page.Mobile.iOS.StoragePoint
+    UIAutomation.Page.Mobile.iOS.SubmitDeposit
+    UIAutomation.Page.Mobile.iOS.SystemServiceAgreement
+    UIAutomation.Page.Mobile.iOS.TaskCenter
+    UIAutomation.Page.Mobile.iOS.TaskHandover
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.CardListPage module
+------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.CardListPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.ChooseSupplierPage module
+------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.ChooseSupplierPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.ClosesyButtonPage module
+-----------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.ClosesyButtonPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.CustomerChoosePage module
+------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.CustomerChoosePage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.ForecastReview module
+--------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.ForecastReview
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.LoginPage module
+---------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.LoginPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.MainPage module
+--------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.MainPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.OpensyncbuttonPage module
+------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.OpensyncbuttonPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.OwnAssetsPage module
+-------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.OwnAssetsPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.PageTurnPage module
+------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.PageTurnPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.RegisterPrinterPage module
+-------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.RegisterPrinterPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.SyncIconBackPage module
+----------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.SyncIconBackPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

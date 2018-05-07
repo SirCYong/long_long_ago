@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--发布劳务需求-->
+    <!--请选择-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="请选择">Please_select</locator>
+    <!--工种-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="拣选">Picking</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="包装">Packaging</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="交接">Handover</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="上架">Shelves</locator>
+    <!--确定-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确定">confirm</locator>
+    <!--人数-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="icon add">icon_cut</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="icon add">icon_add</locator>
+    <!--班次-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="白班">DayShift</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="晚班">Night</locator>
+    <!--日期-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="选择起始日期">SelectDate</locator>
+    <!--地点-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="请选择地址">SelectAddress</locator>
+    <!--省份-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="浙江省">Province</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="杭州市">Provinces_city</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="西湖区">Provinces_cities_area</locator>
+    <!--浙江省 杭州市 西湖区-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="浙江省 杭州市 西湖区">Location</locator>
+    <!--计价方式-->
+    <!--完成-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="完成">Complete</locator>
+    <!--继续发布-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="继续发布">ContinueRelease</locator>
+</map>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--长期任务卡片-->
+    <!--刷新-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="刷新">Refresh</locator>
+    <!--发布劳务需求的任务-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="发布劳务需求的任务">ReleaseLaborDemand</locator>
+    <!--入库卸货-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="入库卸货">StorageUnloading</locator>
+    <!--入库交接-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="入库交接">StorageHanDove</locator>
+    <!--入库扫码点数-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="入库扫码点数">StoragePoint</locator>
+    <!--入库上架-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="入库上架">StorageInventory</locator>
+</map>

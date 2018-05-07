@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--android:建立契约义务项-->
+    <!--添加义务项-->
+    <locator type="ID" timeOut="3" value="add_obligations">add_obligations</locator>
+    <!--无需添加义务项-->
+    <locator type="ID" timeOut="3" value="btn_next">without_add_obligations</locator>
+    <!--已添加所有义务项-->
+    <locator type="ID" timeOut="3" value="已添加所有义务项">items_added_obligation</locator>
+
+    <!--类型-->
+    <locator type="ID" timeOut="3" value="type">type</locator>
+    <!--服务星级-->
+    <locator type="ID" timeOut="3" value="type_service_star">service_type</locator>
+    <!--发货单量-->
+    <locator type="ID" timeOut="3" value="type_consignment">invoice_amount</locator>
+    <!--确定-->
+    <locator type="ID" timeOut="3" value="btn_confirm">confirm</locator>
+    <!--开始时间-->
+    <locator type="ID" timeOut="3" value="rl_startdate">start_time</locator>
+    <!--选择时间-确定-->
+    <locator type="ID" timeOut="3" value="btn_complete">select_time_confirm</locator>
+    <!--滑动时间-年-->
+    <locator type="ID" timeOut="3" value="wv_startyear">swipe_year</locator>
+    <!--结束时间-->
+    <locator type="ID" timeOut="3" value="rl_enddate">end_time</locator>
+    <!--数量上限-->
+    <locator type="ID" timeOut="3" value="most_limit">quantity_ceiling</locator>
+    <!--数量下限-->
+    <locator type="ID" timeOut="3" value="lower_limit">lower_number</locator>
+    <!--取...源-->
+    <locator type="ID" timeOut="3" value="btn_cancel">origin</locator>
+    <!--容忍-->
+    <locator type="ID" timeOut="3" value="btn_tolerate">tolerate</locator>
+    <!--资源折扣(折)-->
+    <locator type="ID" timeOut="3" value="discount_rate">resource_discount</locator>
+    <!--完成-->
+    <locator type="ID" timeOut="3" value="btn_finish">complete</locator>
+    <!--继续添加-->
+    <locator type="ID" timeOut="3" value="add_next">continue_add</locator>
+    <!--已添加所有义务项-->
+    <locator type="ID" timeOut="3" value="btn_next">all_compulsory_items</locator>
+
+</map>

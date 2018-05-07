@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <!--  -->
+    <!--买家要求发，添加快递按钮-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAButton[1]">buyers_request_add_button</locator>
+    <!--买家拒绝发，添加快递按钮-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAButton[2]">buyers_refused_add_button</locator>
+    <!--没有买家要求发的快递时的文案-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="请选择买家要求发的快递">buyers_request_text</locator>
+    <!--没有买家拒绝发的快递时的文案-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="请选择买家拒绝发的快递">buyers_refused_text</locator>
+    <!--订单号-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[5]">order_number</locator>
+    <!--收货地址-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAStaticText[6]">receipt_address</locator>
+    <!--按以上要求发货-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="按以上要求发货">submit</locator>
+    <!--返回-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="icon back">return</locator>
+     <!--确定-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确定">confirm</locator>
+</map>

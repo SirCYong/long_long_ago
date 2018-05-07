@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--cy      资产录入界面-->
+<!--ACCESSIBILITY_ID-->
+<map>
+    <capacityReport>
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAStaticText[1]">AssetsTypeTitleText</locator>    <!--资产录入(title)-->
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAButton[1]">AssetsOneBox</locator>
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[3]/UIAButton[1]">AssetsTwoBox</locator>
+        <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[6]/UIAButton[1]">AssetsThreeBox</locator>
+        <locator type="ACCESSIBILITY_ID" timeOut="3" value="选择好了">AssetsButton</locator>
+    </capacityReport>
+</map>

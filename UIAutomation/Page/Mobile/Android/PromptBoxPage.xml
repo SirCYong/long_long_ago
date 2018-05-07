@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <capacityReport>
+        <locator type="ID" timeOut="3" value="android:id/button1">rejectButton</locator>    <!--否按钮-->
+        <locator type="ID" timeOut="3" value="android:id/message">promptBox</locator>    <!--提示框？(title)-->
+    </capacityReport>
+</map>

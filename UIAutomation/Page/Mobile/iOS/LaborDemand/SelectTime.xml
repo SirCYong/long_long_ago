@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--选择时间页面-->
+    <!--确认-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确定">Confirm</locator>
+</map>

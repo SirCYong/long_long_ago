@@ -1,0 +1,16 @@
+UIAutomation.TestCase.Executable package
+========================================
+
+.. automodule:: UIAutomation.TestCase.Executable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.TestCase.Executable.android
+    UIAutomation.TestCase.Executable.ios
+

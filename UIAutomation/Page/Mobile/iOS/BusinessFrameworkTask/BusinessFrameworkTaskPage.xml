@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="我是谁">whoAmI</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="批发和零售">wholesale</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="交通运输">transportation</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="仓储">warehouse</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="劳务派遣服务">LaborDispatch</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确定">ConfirmButton</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIACollectionView[1]/UIACollectionCell[1]/UIAButton[1]">lastConfirmButton</locator>
+</map>

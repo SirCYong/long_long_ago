@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--上传送货单 Yuetianzhuang-->
+<map>
+    <!--供方-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="选择供方">supplier</locator>
+    <!-- 供方单位 -->
+    <locator type="XPATH" timeOut="3" value="">supplier_unit</locator>
+    <!--需方-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="选择需方">needs</locator>
+    <!-- 需方单位 -->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAPicker[1]/UIAPickerWheel[1]">needs_unit</locator>
+    <!--发货单号-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]">invoice_number</locator>
+    <!--到货地址-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[2]">destination</locator>
+    <!-- 选择发货日期 -->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="选择发货日期">ship_date</locator>
+    <!--确定按钮-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="确定">confirm</locator>
+    <!--小键盘完成按钮-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="完成">completeBtn</locator>
+    <!--PC端导入-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="去PC端导入">upload_file</locator>
+    <!--上传送货单卡片-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="上传送货单">upDelivery_order</locator>
+</map>

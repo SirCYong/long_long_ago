@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.Register package
+=============================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.Register
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.Register.registerPage module
+---------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.Register.registerPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

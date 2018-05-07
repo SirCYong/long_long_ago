@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.Android.WarehouseRequirements package
+==============================================================
+
+.. automodule:: UIAutomation.Page.Mobile.Android.WarehouseRequirements
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.Android.WarehouseRequirements.ReleaseStoragePage module
+--------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.WarehouseRequirements.ReleaseStoragePage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

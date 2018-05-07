@@ -1,0 +1,28 @@
+UIAutomation.Page.Mobile.Android.ModifyReceiptInformation package
+=================================================================
+
+.. automodule:: UIAutomation.Page.Mobile.Android.ModifyReceiptInformation
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.Android.ModifyReceiptInformation.ReceiptAddressPage module
+-----------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.ModifyReceiptInformation.ReceiptAddressPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.Android.ModifyReceiptInformation.ReceiptInformationPage module
+---------------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.ModifyReceiptInformation.ReceiptInformationPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

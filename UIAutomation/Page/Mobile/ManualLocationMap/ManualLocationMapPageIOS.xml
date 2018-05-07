@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<map>
+    <!--所在地区-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[2]/UIATextField[1]">area</locator>
+    <!--详细地址-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[3]/UIATextField[1]">detail_address</locator>
+    <!--查找地址-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIASearchBar[1]">search_button</locator>
+    <!--搜索-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIASearchBar[1]">search</locator>
+    <!--确定搜索-->
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="搜索">confirm_search</locator>
+    <!--搜索的地址-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAStaticText[1]">search_address</locator>
+    <!--搜索的详细地址-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAStaticText[2]">search_detail_address</locator>
+    <!--地图的默认地址-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAStaticText[1]">map_default_address</locator>
+    <!--地图的默认详细地址-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAStaticText[2]">map_default_detail_address</locator>
+    <!--当前地址-->
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIAStaticText[1]">current_address</locator>
+    <!--返回-->
+     <locator type="ACCESSIBILITY_ID" timeOut="3" value="icon back1">back</locator>
+</map>

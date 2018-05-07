@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.iOS.GenerateBill package
+=================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.GenerateBill
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.GenerateBill.GenerateBillPage module
+-----------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.GenerateBill.GenerateBillPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

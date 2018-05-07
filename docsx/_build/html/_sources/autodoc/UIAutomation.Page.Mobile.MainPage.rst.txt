@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.MainPage package
+=========================================
+
+.. automodule:: UIAutomation.Page.Mobile.MainPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.MainPage.MainPage module
+-------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.MainPage.MainPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

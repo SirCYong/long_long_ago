@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map>
+
+    <!--登录后的主界面：长期任务-->
+    <locator type="ID" timeOut="3" value="suishi_type_card">button_long_task</locator>
+
+</map>

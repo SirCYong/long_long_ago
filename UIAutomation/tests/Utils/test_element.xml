@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[2]/input">LoginInput</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[3]/input">LoginInput1</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[6]">LoginInput2</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[2]/input">LoginInput3</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[3]/input">LoginInput4</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[6]">LoginInput5</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[2]/input">LoginInput</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[3]/input">LoginInput</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[6]">LoginInput</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[2]/input">LoginInput</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[3]/input">PwdInput</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[6]">PwdInput</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[2]/input">PwdInput1</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[3]/input">PwdInput2</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[6]">PwdInput3</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[2]/input">PwdInput4</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[3]/input">PwdInput5</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[6]">PwdInput6</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[2]/input">PwdInput</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[3]/input">PwdInput</locator>
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/login/div/div/div[2]/aside/div/ul[1]/div[6]">PwdInput</locator>
+</map>

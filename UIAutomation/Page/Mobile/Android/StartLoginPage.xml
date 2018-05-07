@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map>
+    <capacityReport>
+        <locator type="ID" timeOut="3" value="btn_login">startLogin</locator>
+
+    </capacityReport>
+</map>

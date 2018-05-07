@@ -1,0 +1,44 @@
+UIAutomation.Page.Mobile.iOS.BusinessFrameworkTask package
+==========================================================
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.BusinessFrameworkTask
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.iOS.BusinessFrameworkTask.BusinessFrameworkTaskPage module
+-----------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.BusinessFrameworkTask.BusinessFrameworkTaskPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.BusinessFrameworkTask.MyCustomerPage module
+------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.BusinessFrameworkTask.MyCustomerPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.BusinessFrameworkTask.MySupplierPage module
+------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.BusinessFrameworkTask.MySupplierPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+UIAutomation.Page.Mobile.iOS.BusinessFrameworkTask.WhatIHavePage module
+-----------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.iOS.BusinessFrameworkTask.WhatIHavePage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

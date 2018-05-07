@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.PublishWarehouseDemand package
+=======================================================
+
+.. automodule:: UIAutomation.Page.Mobile.PublishWarehouseDemand
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.PublishWarehouseDemand.PublishWarehouseDemandPage module
+---------------------------------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.PublishWarehouseDemand.PublishWarehouseDemandPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

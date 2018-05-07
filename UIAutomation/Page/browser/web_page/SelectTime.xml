@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!--Author：liyu-->
+    <!--上传文件选择时间页面-->
+    <!--成功图标-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div/div[8]/div[1]/i">SuccessfulImage</locator>
+    <!--导入失败-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div/div[6]/div/p">ImportFailure</locator>
+    <!--导入成功-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div/div[5]/div/p">ImportSuccess</locator>
+    <!--开始时间-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div/div[8]/div[3]/div/div/div/div">StartTime</locator>
+    <!--选择时间-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div/div[8]/div[3]/div/div/div[2]/div[4]/span[35]/span">SelectTime</locator>
+    <!--关闭-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div/div[8]/div[3]/div/div/div[2]/footer/div/p">CloseButton</locator>
+    <!--1年-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div/div[8]/div[2]/label[1]">OneYear</locator>
+    <!--开始导入信息-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div/div[8]/button">ImportInformation</locator>
+    <!--重新导入信息-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div/div[6]/button">ReImport</locator>
+    <!--关闭-->
+    <locator type="XPATH" timeOut="3" value="html/body/div[1]/div/ui-view/div/div[2]/div/div[3]/div/div/div[5]/button">Close</locator>
+
+
+
+</map>

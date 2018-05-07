@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--author:sdy-->
+<map>
+    <!--非服务认证临时卡片-->
+    <locator type="Xpath" timeOut="3" value="com.iscs.mobilewcs:id/card_layout">nonServiceCard</locator>
+    <!--转发-->
+    <locator type="ID" timeOut="3" value="yijiao_bt">forwardButton</locator>
+    <!--转发全部-->
+    <locator type="ID" timeOut="3" value="trans_more_bt">forwardByAll</locator>
+    <!--转发该任务-->
+    <locator type="ID" timeOut="3" value="trans_one_bt">forwardBySingle</locator>
+    <!--通讯录搜索按钮-->
+    <locator type="ID" timeOut="3" value="custom_btn">searchButton</locator>
+    <!--通讯录搜索框-->
+    <locator type="ID" timeOut="3" value="cet_person">searchText</locator>
+    <!--选择按钮-->
+    <locator type="ID" timeOut="3" value="btn_type_content">choiceButton</locator>
+    <!--不想转发按钮-->
+    <locator type="ID" timeOut="3" value="btn_cancel">cancelButton</locator>
+    <!--确认转发按钮-->
+    <locator type="ID" timeOut="3" value="btn_ok">saveButton</locator>
+</map>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!-- #author:chenyanxiu -->
+    <!--artka官方旗舰店-->
+    <locator type="ID" timeOut="3" value="com.iscs.mobilewcs:id/tv_shop_title">ppt_name</locator>
+    <!--年月日-->
+    <locator type="ID" timeOut="3" value="android:id/numberpicker_input">date</locator>
+    <!--开启下载-->
+    <locator type="ID" timeOut="3" value="com.iscs.mobilewcs:id/btn_open_down">open_download</locator>
+    <!--提示信息-->
+    <locator type="ID" timeOut="3" value="android:id/message">tip_message</locator>
+    <!--确定-->
+    <locator type="ID" timeOut="3" value="android:id/button1">determine</locator>
+    <!--开启后提示信息-->
+    <locator type="ID" timeOut="3" value="btn_open_down">open_tip_msg</locator>
+    <!--取消-->
+    <locator type="ID" timeOut="3" value="android:id/button2">cancel</locator>
+</map>

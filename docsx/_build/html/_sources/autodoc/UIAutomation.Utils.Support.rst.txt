@@ -1,0 +1,29 @@
+UIAutomation.Utils.Support package
+==================================
+
+.. automodule:: UIAutomation.Utils.Support
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    UIAutomation.Utils.Support.LogReaderAndReporter
+    UIAutomation.Utils.Support.TestDataManufacture
+    UIAutomation.Utils.Support.TestStrategyExecuter
+
+Submodules
+----------
+
+UIAutomation.Utils.Support.ResumeCardAndTask module
+---------------------------------------------------
+
+.. automodule:: UIAutomation.Utils.Support.ResumeCardAndTask
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

@@ -1,0 +1,20 @@
+UIAutomation.Page.Mobile.Android.Login package
+==============================================
+
+.. automodule:: UIAutomation.Page.Mobile.Android.Login
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+UIAutomation.Page.Mobile.Android.Login.LoginPage module
+-------------------------------------------------------
+
+.. automodule:: UIAutomation.Page.Mobile.Android.Login.LoginPage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+

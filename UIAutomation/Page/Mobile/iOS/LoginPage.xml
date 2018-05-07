@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Author:zhongchangwei-->
+<!--updateAuthor:chenyanxiu-->
+<map>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIATextField[1]">user_name</locator>
+    <locator type="XPATH" timeOut="3" value="//UIAApplication[1]/UIAWindow[1]/UIASecureTextField[1]">password</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="登录">login_button</locator>
+    <locator type="ACCESSIBILITY_ID" timeOut="3" value="绑定">bound</locator>
+</map>
